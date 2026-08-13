@@ -1,0 +1,2534 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nonsense",
+          "description": "Funny and visually stunning generator of random fake math papers..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-09-20T16:38:37Z",
+            "owner": "SylvanFranklin",
+            "repo": "nonsense",
+            "stars": 399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "best-of-typst",
+          "description": "A ranked list of awesome projects related to Typst..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-08-09T02:59:46Z",
+            "owner": "YDX-2147483647",
+            "repo": "best-of-typst",
+            "stars": 119
+          }
+        }
+      ],
+      "title": "Typst Community Links"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Integrations & Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "setup-typst",
+          "description": "📑 Install Typst for use in GitHub Actions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T08:50:38Z",
+            "owner": "typst-community",
+            "repo": "setup-typst",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-action",
+          "description": "Build Typst documents using GitHub Actions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-16T15:15:54Z",
+            "owner": "lvignoli",
+            "repo": "typst-action",
+            "stars": 95
+          }
+        }
+      ],
+      "title": "CI/CD"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "typstyle",
+          "description": "Opinionated typst code formatter focusing on aesthetic, convergence and correctness.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-02T05:49:02Z",
+            "owner": "typstyle-rs",
+            "repo": "typstyle",
+            "stars": 872
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tylax",
+          "description": "A bidirectional LaTeX-Typst converter based on AST parsing, with support for TikZ graphics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-19T10:07:26Z",
+            "owner": "scipenai",
+            "repo": "tylax",
+            "stars": 465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "utpm",
+          "description": "Package manager for local and remote Typst packages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-23T10:53:21Z",
+            "owner": "typst-community",
+            "repo": "utpm",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-live",
+          "description": "Hot reloading of pdf in web browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-23T18:24:12Z",
+            "owner": "ItsEthra",
+            "repo": "typst-live",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-pandoc",
+          "description": "Typst custom reader and writer for Pandoc.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2023-08-08T12:16:25Z",
+            "owner": "lvignoli",
+            "repo": "typst-pandoc",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tyler",
+          "description": "Package compiler for the ease of packaging and publishing Typst libraries and templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T10:01:08Z",
+            "owner": "mkpoli",
+            "repo": "tyler",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "textlint-plugin-typst",
+          "description": "Textlint plugin to lint Typst..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-04T16:48:00Z",
+            "owner": "textlint",
+            "repo": "textlint-plugin-typst",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "imprint",
+          "description": "Markdown to branded, typeset PDFs via Typst, with reusable house styles, profiles, and deterministic output.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-12T11:12:10Z",
+            "owner": "gunasekar",
+            "repo": "imprint",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "em-dee-pdf",
+          "description": "Markdown to PDF converter with 18 built-in themes, LaTeX math, syntax highlighting, and table of contents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-05T16:55:20Z",
+            "owner": "brendandebeasi",
+            "repo": "em-dee-pdf",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "CLI Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BeauTyXT",
+          "description": "A private, secure, minimalistic Text, Markdown, and Typst editor for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-04-02T12:13:29Z",
+            "owner": "soupslurpr",
+            "repo": "BeauTyXT",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AcademicID",
+          "description": "A self-hosted academic-focused AI chatbot and research workspace with a Typst, Markdown, and Text editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-13T06:28:28Z",
+            "owner": "Academic-ID",
+            "repo": "sapienAI",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Katvan",
+          "description": "A bare-bones editor for Typst files, with a bias for Right-to-Left editing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-17T12:45:17Z",
+            "owner": "IgKh",
+            "repo": "katvan",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Typstwriter",
+          "description": "An integrated desktop editor for Typst projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T23:46:56Z",
+            "owner": "Bzero",
+            "repo": "typstwriter",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qnote",
+          "description": "Minimal frameless notepad for Linux with Markdown support and PDF export via Typst, plus OCR and version history.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-05-13T17:28:33Z",
+            "owner": "Omibranch",
+            "repo": "qnote",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TypstEdit",
+          "description": "A native macOS Typst editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2025-12-09T19:36:00Z",
+            "owner": "SuperMegaFort",
+            "repo": "TypstEdit",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typos",
+          "description": "A Typst-native note-taking system powered by Rust and Tauri with typed metadata, cross-references, backlinks, and knowledge graph visualization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-27T22:09:07Z",
+            "owner": "dailydaniel",
+            "repo": "typos",
+            "stars": 50
+          }
+        }
+      ],
+      "title": "Editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tinymist",
+          "description": "A language server for Typst with integrations for Emacs, Helix, Neovim, Sublime Text, VSCode/VsCodium, and Zed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-09T08:04:27Z",
+            "owner": "Myriad-Dreamin",
+            "repo": "tinymist",
+            "stars": 3467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "obsidian-typst",
+          "description": "Renders Typst code blocks in Obsidian into images using Typst through the power of WebAssembly!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-11-03T17:46:56Z",
+            "owner": "fenjalien",
+            "repo": "obsidian-typst",
+            "stars": 533
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst.vim",
+          "description": "Vim plugin for Typst.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2025-12-17T11:39:14Z",
+            "owner": "kaarmu",
+            "repo": "typst.vim",
+            "stars": 384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uben0/tree-sitter-typst",
+          "description": "A TreeSitter grammar for the Typst language, used by Helix.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-04-02T17:33:06Z",
+            "owner": "uben0",
+            "repo": "tree-sitter-typst",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeniorMars/tree-sitter-typst",
+          "description": "A TreeSitter parser for the Typst file format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-28T19:24:43Z",
+            "owner": "SeniorMars",
+            "repo": "tree-sitter-typst",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst.nvim",
+          "description": "WIP. Goals: Treesitter highlighting, snippets, and a smooth integration with Neovim.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-09T21:42:52Z",
+            "owner": "SeniorMars",
+            "repo": "typst.nvim",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "org-typst-preview",
+          "description": "Typst preview in org-mode.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Emacs Lisp",
+            "last_commit": "2025-02-14T18:55:40Z",
+            "owner": "remimimimimi",
+            "repo": "org-typst-preview.el",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frozolotl/tree-sitter-typst",
+          "description": "A tree-sitter grammar with a focus on correctness.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-01-29T12:57:45Z",
+            "owner": "frozolotl",
+            "repo": "tree-sitter-typst",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-sympy-calculator",
+          "description": "VS Code extension for Typst math calculating, includes arithmetic, calculus, matrix, custom variances and functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-28T08:29:54Z",
+            "owner": "OrangeX4",
+            "repo": "vscode-typst-sympy-calculator",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "inktyp",
+          "description": "An Inkscape plugin to insert and edit Typst equations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-05-19T22:52:22Z",
+            "owner": "herlev",
+            "repo": "inktyp",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typstar",
+          "description": "Neovim plugin providing autosnippets, excalidraw integration, and Anki flashcard export.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-18T13:38:31Z",
+            "owner": "arne314",
+            "repo": "typstar",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zeta",
+          "description": "A language server for Zettelkasten-style note-taking, featuring fast navigation, and a graph view..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-13T16:42:17Z",
+            "owner": "lentilus",
+            "repo": "zeta",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-conceal.vim",
+          "description": "Vim/Neovim plugin for replacing long Typst symbol names with Unicode characters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2023-10-13T18:20:36Z",
+            "owner": "MrPicklePinosaur",
+            "repo": "typst-conceal.vim",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Typst Sync",
+          "description": "A VSCode extension for Typst local packages management and synchronization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-30T06:09:36Z",
+            "owner": "OrangeX4",
+            "repo": "vscode-typst-sync",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typstd",
+          "description": "Yet another Typst language server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-08-24T21:35:36Z",
+            "owner": "daskol",
+            "repo": "typstd",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Editor Integrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Detypify",
+          "description": "Typst symbol classifier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:14:11Z",
+            "owner": "QuarticCat",
+            "repo": "detypify",
+            "stars": 258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "excel-to-typst",
+          "description": "A tool that convert Excel tables to Typst table, can work in uploading .xlsx file or pasting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-02-18T15:10:40Z",
+            "owner": "hongjr03",
+            "repo": "excel-to-typst",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-online-editor",
+          "description": "A serverless (client-side) Typst editor powered by WebAssembly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-05T10:43:45Z",
+            "owner": "Mapaor",
+            "repo": "typst-online-editor",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Online Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "typst.ts",
+          "description": "JavaScript binding to Typst.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-03T06:15:02Z",
+            "owner": "Myriad-Dreamin",
+            "repo": "typst.ts",
+            "stars": 1194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-py",
+          "description": "Python binding to Typst.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-01T11:53:05Z",
+            "owner": "messense",
+            "repo": "typst-py",
+            "stars": 341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Typix",
+          "description": "Deterministic Typst compilation with Nix.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2026-08-07T09:38:38Z",
+            "owner": "loqusion",
+            "repo": "typix",
+            "stars": 326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Typstry.jl",
+          "description": "The Julia to Typst interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-06-06T19:54:21Z",
+            "owner": "jakobjpeters",
+            "repo": "Typstry.jl",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mpl-typst",
+          "description": "A Typst backend for Matplotlib.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T15:00:18Z",
+            "owner": "daskol",
+            "repo": "mpl-typst",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pypst",
+          "description": "Declarative Typst in Python with Pandas data frame support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-28T23:16:54Z",
+            "owner": "tilman151",
+            "repo": "pypst",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "leetcode.typ",
+          "description": "Solving Leetcode problems in Typst.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-01-13T14:08:28Z",
+            "owner": "lucifer1004",
+            "repo": "leetcode.typ",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-rb",
+          "description": "Ruby binding to Typst.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-07T00:04:38Z",
+            "owner": "actsasflinn",
+            "repo": "typst-rb",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "Programming"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Templates & Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LaPreprint",
+          "description": "Beautiful preprints for Typst.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2024-08-04T09:09:18Z",
+            "owner": "LaPreprint",
+            "repo": "typst",
+            "stars": 320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-templates",
+          "description": "A templates collection for major venues in machine learning and AI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-05-10T14:33:16Z",
+            "owner": "daskol",
+            "repo": "typst-templates",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimplePaper",
+          "description": "A Chinese template for writing simple paper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-04-16T02:39:53Z",
+            "owner": "jinhao-huang",
+            "repo": "SimplePaper",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-orange-template",
+          "description": "A Typst book template inspired by The Legrand Orange Book.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-01-30T17:59:53Z",
+            "owner": "flavio20002",
+            "repo": "typst-orange-template",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "klirr",
+          "description": "Zero-maintenance and smart FOSS generating beautiful invoices for services and expenses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-01T20:02:57Z",
+            "owner": "Sajjon",
+            "repo": "klirr",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "thesis-template-typst",
+          "description": "Technical University of Munich thesis template with cover, titlepage, tables, figures, appendix, etc..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-08-12T13:50:01Z",
+            "owner": "ls1intum",
+            "repo": "thesis-template-typst",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-invoice",
+          "description": "Generate invoices from TOML files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-12-16T13:12:30Z",
+            "owner": "erictapen",
+            "repo": "typst-invoice",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "in-dexter",
+          "description": "Automatically Generated Index Page.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-03-27T14:22:03Z",
+            "owner": "RolfBremer",
+            "repo": "in-dexter",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mantys",
+          "description": "A template for writing manuals for Typst packages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-07-08T06:40:23Z",
+            "owner": "jneug",
+            "repo": "typst-mantys",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bubble-template",
+          "description": "A simple and colorful template for reports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2024-10-21T14:33:23Z",
+            "owner": "hzkonor",
+            "repo": "bubble-template",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simple-typst-thesis",
+          "description": "A template useful for writing simple thesis in Typst.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-04-11T18:24:08Z",
+            "owner": "zagoli",
+            "repo": "simple-typst-thesis",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-palettes",
+          "description": "A library of color palettes for Typst.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-04-27T14:35:10Z",
+            "owner": "kaarmu",
+            "repo": "splash",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tufte-memo",
+          "description": "A memo document template inspired by the design of Edward Tufte's books.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Typst",
+            "last_commit": "2024-07-04T20:00:39Z",
+            "owner": "nogula",
+            "repo": "tufte-memo",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tufte-typst",
+          "description": "A Tufte-inspired template for Typst.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-03-09T13:58:39Z",
+            "owner": "fredguth",
+            "repo": "tufte-typst",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "INSA Typst Template",
+          "description": "A template for INSA (Institut National des Sciences Appliquées), a French public engineering school..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-07-07T14:24:21Z",
+            "owner": "SkytAsul",
+            "repo": "INSA-Typst-Template",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-bioinfo-thesis",
+          "description": "Flexible section headers and page numbers; pretty outlines and a .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-02-26T16:46:51Z",
+            "owner": "lkndl",
+            "repo": "typst-bioinfo-thesis",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-templates",
+          "description": "My Typst templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-10-21T03:01:17Z",
+            "owner": "haxibami",
+            "repo": "haxipst",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Typst-Paper-Template",
+          "description": "Typst template for Working Paper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-07-30T22:52:45Z",
+            "owner": "jxpeng98",
+            "repo": "Typst-Paper-Template",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Project-Report-Typst",
+          "description": "A simple template for college or university level project report.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-07-26T04:21:01Z",
+            "owner": "aurghya-0",
+            "repo": "Project-Report-Typst",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gloss-awe",
+          "description": "Automatically Generated Glossary Page.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2024-07-25T13:21:06Z",
+            "owner": "RolfBremer",
+            "repo": "gloss-awe",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-mla9-template",
+          "description": "An MLA 9th edition template.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-02-05T21:58:22Z",
+            "owner": "wychwitch",
+            "repo": "typst-mla9-template",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mcm-icm-typst-template",
+          "description": "A template for Mathematical Contest in Modeling (MCM) and the Interdisciplinary Contest in Modeling(ICM).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-01-29T12:19:49Z",
+            "owner": "DawnEver",
+            "repo": "mcm-icm-typst-template",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-uwthesis",
+          "description": "A Typst template for writing thesis, featuring working abbreviation lists..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-02-21T11:08:32Z",
+            "owner": "yangwenbo99",
+            "repo": "typst-uwthesis",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typstry",
+          "description": "A tapestry of Typst templates and examples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2023-04-28T09:15:44Z",
+            "owner": "qjcg",
+            "repo": "typstry",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Data Thinking Report Template",
+          "description": "A template for artificial intelligence whitepapers with collaborative bibliographies using Zotero.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2024-06-08T14:22:57Z",
+            "owner": "onefact",
+            "repo": "datathinking.org-report-template",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "writable-gm-screen-inserts",
+          "description": "Writable Game Master Screen Inserts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2023-03-22T23:53:37Z",
+            "owner": "LLBlumire",
+            "repo": "writable-gm-screen-inserts",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "french-association-status",
+          "description": "A Template to write status for french associations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2023-10-20T08:57:39Z",
+            "owner": "vanilla-extracts",
+            "repo": "typst-association-statuts",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HSOS-PTP-Typst-Template",
+          "description": "A German template for writing papers, overfitted for the Osnabrück University of Applied Sciences.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2024-11-19T07:07:47Z",
+            "owner": "mst2k",
+            "repo": "HSOS-PTP-Typst-Template",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modern-Class-Notes",
+          "description": "A modern, publication-grade Typst template and component package designed for university professors, instructors, and teaching assistants.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-07-26T05:48:55Z",
+            "owner": "aurghya-0",
+            "repo": "Modern-Class-Notes",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "typst-assignment-template",
+          "description": "Yet another simple assignment template with a cover and several useful math symbols.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-03-24T15:49:25Z",
+            "owner": "gRox167",
+            "repo": "typst-assignment-template",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-teacher-template",
+          "description": "A collection of Typst templates. Mainly used to create worksheets and exams for classes..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-04-30T21:43:58Z",
+            "owner": "jomaway",
+            "repo": "typst-teacher-templates",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sheetstorm",
+          "description": "A template for assignment sheets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-07-26T18:14:21Z",
+            "owner": "rabuu",
+            "repo": "sheetstorm",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tinyset",
+          "description": "A lightweight and opinionated problem set package designed with pure math proofs in mind.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-04-02T00:13:24Z",
+            "owner": "SylvanFranklin",
+            "repo": "tinyset",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "assignment-template",
+          "description": "A simple assignment template.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-28T13:04:42Z",
+            "owner": "AntoniosBarotsis",
+            "repo": "typst-assignment-template",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-homework-template",
+          "description": "A simple homework template inspired by the LaTeX homework template by Adam Blank.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-05T06:07:17Z",
+            "owner": "OriginCode",
+            "repo": "typst-homework-template",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenBoard",
+          "description": "Easily build clean assessments in the style of the College Board.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2024-09-08T20:58:46Z",
+            "owner": "diquah",
+            "repo": "OpenBoard",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-assignment-template",
+          "description": "Yet another simple assignment template.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-27T16:12:11Z",
+            "owner": "astrale-sharp",
+            "repo": "typst-assignement-template",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Assignments"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "CV"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "chicv",
+          "description": "A minimal and fully-customizable CV template.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-04-06T21:42:07Z",
+            "owner": "skyzh",
+            "repo": "chicv",
+            "stars": 723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cv.typ",
+          "description": "A no-frills curriculum vitae (CV) template for Typst that uses a YAML file for data input in order to version control CV data easily.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2024-12-31T08:58:37Z",
+            "owner": "jskherman",
+            "repo": "imprecv",
+            "stars": 510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bare-bones-cv",
+          "description": "A single-page minimalistic CV comprising essentials only.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-10-29T14:54:57Z",
+            "owner": "caffeinatedgaze",
+            "repo": "bare-bones-cv",
+            "stars": 102
+          }
+        }
+      ],
+      "title": "Examples"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "brilliant-CV",
+          "description": "Another CV template for your job application, yet powered by Typst and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-08-08T15:37:33Z",
+            "owner": "yunanwg",
+            "repo": "brilliant-CV",
+            "stars": 825
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alta-typst",
+          "description": "A simple Typst CV template, inspired by AltaCV by LianTze Lim.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-02T20:20:32Z",
+            "owner": "GeorgeHoneywood",
+            "repo": "alta-typst",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "resume.typ",
+          "description": "Simple and ergonomic template to generate resume and CV.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-07-15T12:29:52Z",
+            "owner": "wusyong",
+            "repo": "resume.typ",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-resume-template",
+          "description": "Aesthetic style inspired by the Awesome-CV project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2024-03-18T22:52:47Z",
+            "owner": "bamboovir",
+            "repo": "typst-resume-template",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NNJR",
+          "description": "A resume template inspired by LaTeX template. Uses Typst and YAML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2023-12-31T01:25:16Z",
+            "owner": "tzx",
+            "repo": "NNJR",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "attractive-typst-resume",
+          "description": "A modern looking, attractive CV/Resume template by Harkunwar Kochar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2023-05-01T22:13:31Z",
+            "owner": "Harkunwar",
+            "repo": "attractive-typst-resume",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vercanard",
+          "description": "A colorful resume template for Typst.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-04-08T14:12:26Z",
+            "owner": "elegaanz",
+            "repo": "vercanard",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-cv-miku",
+          "description": "A simple, elegant, academic style CV template for Typst. Support for English and Chinese (and more).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-09T19:03:23Z",
+            "owner": "ice-kylin",
+            "repo": "typst-cv-miku",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "modern-cv",
+          "description": "A modern resume and cover letter template based on .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-11-22T17:14:06Z",
+            "owner": "peterpf",
+            "repo": "modern-typst-resume",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "moderncv.typst",
+          "description": "A CV template inspired by LaTeX's .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2024-04-02T17:53:37Z",
+            "owner": "giovanniberti",
+            "repo": "moderncv.typst",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-cv-resume",
+          "description": "A CV template with Sans font inspired by LaTeX .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-08-07T09:06:51Z",
+            "owner": "jxpeng98",
+            "repo": "Typst-CV-Resume",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-neat-cv",
+          "description": "A Typst template for modern, minimal and elegant CVs, inspired by mintyfrankie's .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Typst",
+            "last_commit": "2024-01-03T08:32:53Z",
+            "owner": "UntimelyCreation",
+            "repo": "typst-neat-cv",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-templates",
+          "description": "A collection of 42 CV and resume designs, each a single self-contained file with no imports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-07-28T16:14:03Z",
+            "owner": "davidculemann",
+            "repo": "typst-templates",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-resume-sans",
+          "description": "A sleek and unadorned sans-serif resume template.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2023-10-25T17:03:27Z",
+            "owner": "mizlan",
+            "repo": "typst-resume-sans",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-twentysecondcv",
+          "description": "A CV template inspired by LaTeX's .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2024-06-29T09:42:12Z",
+            "owner": "tomowang",
+            "repo": "typst-twentysecondcv",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "billryan-typst",
+          "description": "A simple and minimalist resume template, inspired by Resume by Billryan.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-07-28T15:38:09Z",
+            "owner": "gvariable",
+            "repo": "billryan-typst",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-yaml-cv",
+          "description": "A simple cv template designed using typst and yaml.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-04-30T12:25:21Z",
+            "owner": "daxartio",
+            "repo": "cv",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-cv-template1",
+          "description": "A CV template inspired by Alessandro Plasmati's Graduate CV LaTeX template.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2024-12-16T08:39:32Z",
+            "owner": "vaibhavjhawar",
+            "repo": "typst-cv-template1",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "caidan",
+          "description": "A clean and minimal food menu template.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2024-04-04T14:28:45Z",
+            "owner": "cu1ch3n",
+            "repo": "caidan",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-resume-template",
+          "description": "A pretty resume template designed using typst.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-02-12T06:48:39Z",
+            "owner": "hexWars",
+            "repo": "resume",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-cv-template",
+          "description": "A CV template inspired by LaTeX's .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2023-10-24T17:17:37Z",
+            "owner": "JCGoran",
+            "repo": "typst-cv-template",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-academic-cv",
+          "description": "Typst template for academic CV.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-03-17T16:51:27Z",
+            "owner": "DawnEver",
+            "repo": "typst-academic-cv",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-mixed-resume",
+          "description": "A casual and elegant resume template inspired by multiple templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-07-25T12:36:51Z",
+            "owner": "titaneric",
+            "repo": "typst-mixed-resume",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-blue-header-cv",
+          "description": "Customizable Typst two-columns CV template with a top header.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2024-11-01T09:40:42Z",
+            "owner": "cammellos",
+            "repo": "typst-blue-header-cv",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "friggeri-cv",
+          "description": "A slightly modified version of the Friggeri CV, originally created by Adrien Friggeri in LaTeX, ported to Typst.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-03-17T07:39:42Z",
+            "owner": "olligobber",
+            "repo": "friggeri-cv",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-resume-template",
+          "description": "Modern, minimalist resume design with Typst.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-01-10T00:35:37Z",
+            "owner": "madhank93",
+            "repo": "typst-resume-template",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Templates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "typst-timetable",
+          "description": "A template for timetables.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-07-08T16:21:31Z",
+            "owner": "ludwig-austermann",
+            "repo": "typst-timetable",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "october",
+          "description": "A simple printable month calendar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-04-01T02:46:21Z",
+            "owner": "extua",
+            "repo": "october",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Calendar / Timetable"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "typst-tablex",
+          "description": "More powerful and customizable tables in Typst!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2024-10-25T19:48:51Z",
+            "owner": "PgBiel",
+            "repo": "typst-tablex",
+            "stars": 412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "showybox",
+          "description": "A Typst package for creating colorful and customizable boxes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-07-28T17:16:26Z",
+            "owner": "Pablo-Gonzalez-Calderon",
+            "repo": "showybox-package",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-codelst",
+          "description": "A Typst package to render source code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2024-10-22T20:42:57Z",
+            "owner": "jneug",
+            "repo": "typst-codelst",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-gentle-clues",
+          "description": "A Typst package to simply add admonitions..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-02-25T21:51:30Z",
+            "owner": "jomaway",
+            "repo": "typst-gentle-clues",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-boxes",
+          "description": "A library to draw colorful boxes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-04-18T16:54:41Z",
+            "owner": "lkoehl",
+            "repo": "typst-boxes",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "metro",
+          "description": "A Typst package to add typesetting to units!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-04-29T21:22:11Z",
+            "owner": "fenjalien",
+            "repo": "metro",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-tablem",
+          "description": "Write markdown-like tables easily.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-07-27T18:24:41Z",
+            "owner": "OrangeX4",
+            "repo": "typst-tablem",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "term",
+          "description": "A Typst package for creating figures that emulate terminal screenshots.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2024-01-31T22:39:48Z",
+            "owner": "qo",
+            "repo": "term",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-diagbox",
+          "description": "A library for diagonal line dividers in Typst tables.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2024-09-26T12:20:52Z",
+            "owner": "PgBiel",
+            "repo": "typst-diagbox",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "syntastica-typst",
+          "description": "Tree-sitter syntax highlighting for code blocks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-19T20:19:52Z",
+            "owner": "RubixDev",
+            "repo": "syntastica-typst",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ruby-typ",
+          "description": "A library to add Ruby text.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-07-29T14:54:49Z",
+            "owner": "uwni",
+            "repo": "ruby-typ",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-ansi-render",
+          "description": "A library to render text with ANSI escape sequences.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-07-18T11:57:21Z",
+            "owner": "8LWXpg",
+            "repo": "typst-ansi-render",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simple-poem-typst",
+          "description": "An application of the function to set Arabic poetry.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-04-27T13:55:53Z",
+            "owner": "asibahi",
+            "repo": "simple-poem-typst",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Formatting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CeTZ",
+          "description": "A library for drawing with Typst, with an API inspired by TikZ and Processing. It comes with modules for drawing plots, graphs, and charts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-07-28T09:04:45Z",
+            "owner": "cetz-package",
+            "repo": "cetz",
+            "stars": 1815
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-raytracer",
+          "description": "Raytracer in Typst.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-30T20:41:55Z",
+            "owner": "SeniorMars",
+            "repo": "typst-raytracer",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Graphics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "typst-letter-pro",
+          "description": "DIN 5008 letter template for Typst.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-03-20T10:38:09Z",
+            "owner": "Sematre",
+            "repo": "typst-letter-pro",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-letter-template",
+          "description": "A customizable Typst letter template with different presets (DIN 5008, Swiss C5).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-01-04T11:27:16Z",
+            "owner": "pascal-huber",
+            "repo": "typst-letter-template",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-letter",
+          "description": "A Typst letter template inspired by the DIN 5008 norm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2024-04-10T12:34:26Z",
+            "owner": "dvdvgt",
+            "repo": "typst-letter",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "Letters"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tyipa",
+          "description": "Write phonetic transcriptions using the IPA, in a typsty style.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T10:27:03Z",
+            "owner": "typst",
+            "repo": "packages",
+            "stars": 1015
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-syntree",
+          "description": "Syntax trees for Typst.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-07-06T12:27:46Z",
+            "owner": "lynn",
+            "repo": "typst-syntree",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-ipa",
+          "description": "🔄 ASCII / IPA conversion for Typst.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-07-07T17:12:37Z",
+            "owner": "imatpot",
+            "repo": "typst-ascii-ipa",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eggs",
+          "description": "Linguistics examples and glosses with minimalist syntax.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-07-28T12:43:54Z",
+            "owner": "retroflexivity",
+            "repo": "typst-eggs",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arborly",
+          "description": "A library for producing beautiful syntax tree graphs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-03-26T20:11:24Z",
+            "owner": "pearcebasmanm",
+            "repo": "arborly",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "linphon",
+          "description": "Set phonological feature matrices, linear rewrite rules, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-07-27T23:43:14Z",
+            "owner": "thatfloflo",
+            "repo": "typst-linphon",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Linguistics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "conchord",
+          "description": "Typst package to easily write lyrics with chords and generate colorful fretboard diagrams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-08-27T20:44:46Z",
+            "owner": "sitandr",
+            "repo": "conchord",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-chords",
+          "description": "A library to write song lyrics with chord diagrams in Typst.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-07-09T15:28:36Z",
+            "owner": "ljgago",
+            "repo": "typst-chords",
+            "stars": 72
+          }
+        }
+      ],
+      "title": "Music"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "lilaq",
+          "description": "Advanced data visualization with Typst, easy to use, customizable, sane defaults.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-07-08T08:44:52Z",
+            "owner": "lilaq-project",
+            "repo": "lilaq",
+            "stars": 823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gribouille",
+          "description": "Create elegant graphics with the Grammar of Graphics for Typst.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-08-12T21:48:34Z",
+            "owner": "mcanouil",
+            "repo": "gribouille",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-plotting",
+          "description": "A library for drawing a variety of charts and plots like line charts, histograms, and pie charts.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Typst",
+            "last_commit": "2025-03-03T12:46:33Z",
+            "owner": "Chayraaa",
+            "repo": "typst-plotting",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-plot",
+          "description": "A library for plotting line charts (deprecated in favor of CeTZ).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2023-07-27T03:17:28Z",
+            "owner": "johannes-wolf",
+            "repo": "typst-plot",
+            "stars": 89
+          }
+        }
+      ],
+      "title": "Plotting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "typst-poster",
+          "description": "An academic poster template.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-13T16:26:43Z",
+            "owner": "pncnmnp",
+            "repo": "typst-poster",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "peace-of-posters",
+          "description": "A package for creating academic posters in block style.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-06-01T15:25:49Z",
+            "owner": "jonaspleyer",
+            "repo": "peace-of-posters",
+            "stars": 120
+          }
+        }
+      ],
+      "title": "Posters"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Science, Technology, Engineering & Math (STEM)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "alchemist",
+          "description": "Render skeletal formulas in a human-readable format using cetz.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-08-04T17:31:45Z",
+            "owner": "Typsium",
+            "repo": "alchemist",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typsium",
+          "description": "Typeset chemical formulas and reactions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-06-30T11:06:07Z",
+            "owner": "Typsium",
+            "repo": "typsium",
+            "stars": 44
+          }
+        }
+      ],
+      "title": "Chemistry"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "circuitypst",
+          "description": "A library for drawing electronic circuit schematics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2024-04-03T22:52:00Z",
+            "owner": "fenjalien",
+            "repo": "cirCeTZ",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-bytefield",
+          "description": "A library for drawing (network) protocol headers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-02-26T22:06:46Z",
+            "owner": "jomaway",
+            "repo": "typst-bytefield",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tids",
+          "description": "A TI-style datasheet template for electronic components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-06-01T08:46:17Z",
+            "owner": "oldrev",
+            "repo": "tids",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "Engineering"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "typst-theorems",
+          "description": "A library for creating numbered theorem environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-06-17T14:09:38Z",
+            "owner": "sahasatvik",
+            "repo": "typst-theorems",
+            "stars": 287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-algorithms",
+          "description": "A library for writing algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-03-07T20:20:36Z",
+            "owner": "platformer",
+            "repo": "typst-algorithms",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-undergradmath",
+          "description": "A Typst port of undergradmath.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-04-30T03:24:58Z",
+            "owner": "johanvx",
+            "repo": "typst-undergradmath",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-math-template",
+          "description": "A simple math template that allows for numbered, referenceable theorems and compilation of subfiles that use references.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2023-07-24T08:47:42Z",
+            "owner": "matthiasGmayer",
+            "repo": "typst-math-template",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-himcm-template",
+          "description": "An HiMCM template for Typst.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-10-17T00:12:20Z",
+            "owner": "EvanLuo42",
+            "repo": "typst-himcm-template",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-pf3",
+          "description": "A small package for creating \"structured proofs.\" Essentially a port of Leslie Lamport's .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-06T01:47:07Z",
+            "owner": "maxwell-thum",
+            "repo": "typst-pf3",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Mathematics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ieee-typst-template",
+          "description": "A template to write IEEE Papers in Typst.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2023-09-14T12:25:07Z",
+            "owner": "bsp0109",
+            "repo": "ieee-typst-template",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ieee-conference-typst-template",
+          "description": "A template to write IEEE Conference papers in Typst.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2024-07-22T04:29:31Z",
+            "owner": "DawnEver",
+            "repo": "ieee-conference-typst-template",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiaa-typst",
+          "description": "A template for creating conference papers in the style of the American Institute of Aeronautics and Astronautics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-04-08T13:32:15Z",
+            "owner": "isaacew",
+            "repo": "aiaa-typst",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ifacconf-typst",
+          "description": "A template for creating conference papers in the style of the International Federation of Automatic Control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-11-17T15:58:50Z",
+            "owner": "avonmoll",
+            "repo": "ifacconf-typst",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Conferences"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "typst-oxifmt",
+          "description": "Convenient Rust-like string formatting in Typst.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-06-04T16:00:23Z",
+            "owner": "PgBiel",
+            "repo": "typst-oxifmt",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-tools4typst",
+          "description": "Tools for package and template authors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-05-12T12:04:17Z",
+            "owner": "jneug",
+            "repo": "typst-tools4typst",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Scripting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "touying",
+          "description": "A powerful package for creating presentation slides in Typst.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-08-05T09:17:16Z",
+            "owner": "touying-typ",
+            "repo": "touying",
+            "stars": 2281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polylux",
+          "description": "Create presentation slides in Typst.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2026-02-28T21:44:35Z",
+            "owner": "polylux-typ",
+            "repo": "polylux",
+            "stars": 1595
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pinit",
+          "description": "Pin things as you like, especially useful for creating slides in Typst..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-05-20T15:57:42Z",
+            "owner": "OrangeX4",
+            "repo": "typst-pinit",
+            "stars": 328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "diapo",
+          "description": "A minimal and simplistic presentation template.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-10T08:18:16Z",
+            "owner": "lvignoli",
+            "repo": "diapo",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clean-polylux-typst",
+          "description": "A clean and dynamic polylux presentation slide template.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Typst",
+            "last_commit": "2025-04-24T10:46:20Z",
+            "owner": "marcothms",
+            "repo": "clean-polylux-typst",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Slides"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:39:41.302Z",
+    "original_repository": "qjcg/awesome-typst",
+    "original_repository_sha": "05d3aba3732d4214541d4f6e3d1e69abdf72113a",
+    "enhanced_repository": "enhansome/enhansome-typst",
+    "enhanced_repository_description": null,
+    "title": "Awesome Typst with stars"
+  }
+}
