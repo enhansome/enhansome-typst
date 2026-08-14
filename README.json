@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Typst",
-            "last_commit": "2026-08-09T02:59:46Z",
+            "last_commit": "2026-08-14T02:39:04Z",
             "owner": "YDX-2147483647",
             "repo": "best-of-typst",
             "stars": 119
@@ -87,7 +87,7 @@
             "last_commit": "2026-08-02T05:49:02Z",
             "owner": "typstyle-rs",
             "repo": "typstyle",
-            "stars": 872
+            "stars": 873
           }
         },
         {
@@ -101,7 +101,7 @@
             "last_commit": "2026-07-19T10:07:26Z",
             "owner": "scipenai",
             "repo": "tylax",
-            "stars": 465
+            "stars": 467
           }
         },
         {
@@ -199,7 +199,7 @@
             "last_commit": "2026-06-05T16:55:20Z",
             "owner": "brendandebeasi",
             "repo": "em-dee-pdf",
-            "stars": 7
+            "stars": 6
           }
         }
       ],
@@ -247,7 +247,7 @@
             "last_commit": "2026-07-17T12:45:17Z",
             "owner": "IgKh",
             "repo": "katvan",
-            "stars": 180
+            "stars": 181
           }
         },
         {
@@ -323,7 +323,7 @@
             "last_commit": "2026-08-09T08:04:27Z",
             "owner": "Myriad-Dreamin",
             "repo": "tinymist",
-            "stars": 3467
+            "stars": 3470
           }
         },
         {
@@ -587,7 +587,7 @@
             "last_commit": "2026-07-03T06:15:02Z",
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
-            "stars": 1194
+            "stars": 1195
           }
         },
         {
@@ -601,7 +601,7 @@
             "last_commit": "2026-08-01T11:53:05Z",
             "owner": "messense",
             "repo": "typst-py",
-            "stars": 341
+            "stars": 342
           }
         },
         {
@@ -766,7 +766,7 @@
             "last_commit": "2026-06-01T20:02:57Z",
             "owner": "Sajjon",
             "repo": "klirr",
-            "stars": 135
+            "stars": 136
           }
         },
         {
@@ -808,7 +808,7 @@
             "last_commit": "2026-03-27T14:22:03Z",
             "owner": "RolfBremer",
             "repo": "in-dexter",
-            "stars": 82
+            "stars": 83
           }
         },
         {
@@ -1293,7 +1293,7 @@
             "last_commit": "2026-08-08T15:37:33Z",
             "owner": "yunanwg",
             "repo": "brilliant-CV",
-            "stars": 825
+            "stars": 826
           }
         },
         {
@@ -1321,7 +1321,7 @@
             "last_commit": "2025-07-15T12:29:52Z",
             "owner": "wusyong",
             "repo": "resume.typ",
-            "stars": 151
+            "stars": 150
           }
         },
         {
@@ -1391,7 +1391,7 @@
             "last_commit": "2023-04-09T19:03:23Z",
             "owner": "ice-kylin",
             "repo": "typst-cv-miku",
-            "stars": 95
+            "stars": 94
           }
         },
         {
@@ -1885,7 +1885,7 @@
             "last_commit": "2026-07-28T09:04:45Z",
             "owner": "cetz-package",
             "repo": "cetz",
-            "stars": 1815
+            "stars": 1816
           }
         },
         {
@@ -1964,7 +1964,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T10:27:03Z",
+            "last_commit": "2026-08-13T17:38:48Z",
             "owner": "typst",
             "repo": "packages",
             "stars": 1015
@@ -2057,7 +2057,7 @@
             "last_commit": "2025-08-27T20:44:46Z",
             "owner": "sitandr",
             "repo": "conchord",
-            "stars": 100
+            "stars": 99
           }
         },
         {
@@ -2088,7 +2088,7 @@
           "repo_info": {
             "archived": false,
             "language": "Typst",
-            "last_commit": "2026-07-08T08:44:52Z",
+            "last_commit": "2026-08-13T19:10:01Z",
             "owner": "lilaq-project",
             "repo": "lilaq",
             "stars": 823
@@ -2102,7 +2102,7 @@
           "repo_info": {
             "archived": false,
             "language": "Typst",
-            "last_commit": "2026-08-12T21:48:34Z",
+            "last_commit": "2026-08-13T21:37:48Z",
             "owner": "mcanouil",
             "repo": "gribouille",
             "stars": 256
@@ -2460,7 +2460,7 @@
             "last_commit": "2026-08-05T09:17:16Z",
             "owner": "touying-typ",
             "repo": "touying",
-            "stars": 2281
+            "stars": 2284
           }
         },
         {
@@ -2474,7 +2474,7 @@
             "last_commit": "2026-02-28T21:44:35Z",
             "owner": "polylux-typ",
             "repo": "polylux",
-            "stars": 1595
+            "stars": 1596
           }
         },
         {
@@ -2524,7 +2524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:39:41.302Z",
+    "last_updated": "2026-08-14T03:31:56.638Z",
     "original_repository": "qjcg/awesome-typst",
     "original_repository_sha": "05d3aba3732d4214541d4f6e3d1e69abdf72113a",
     "enhanced_repository": "enhansome/enhansome-typst",
