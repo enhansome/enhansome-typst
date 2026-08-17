@@ -14,7 +14,7 @@
             "last_commit": "2025-09-20T16:38:37Z",
             "owner": "SylvanFranklin",
             "repo": "nonsense",
-            "stars": 399
+            "stars": 400
           }
         },
         {
@@ -115,7 +115,7 @@
             "last_commit": "2026-05-23T10:53:21Z",
             "owner": "typst-community",
             "repo": "utpm",
-            "stars": 137
+            "stars": 138
           }
         },
         {
@@ -185,7 +185,7 @@
             "last_commit": "2026-07-12T11:12:10Z",
             "owner": "gunasekar",
             "repo": "imprint",
-            "stars": 15
+            "stars": 16
           }
         },
         {
@@ -219,7 +219,7 @@
             "last_commit": "2026-04-02T12:13:29Z",
             "owner": "soupslurpr",
             "repo": "BeauTyXT",
-            "stars": 227
+            "stars": 226
           }
         },
         {
@@ -323,7 +323,7 @@
             "last_commit": "2026-08-09T08:04:27Z",
             "owner": "Myriad-Dreamin",
             "repo": "tinymist",
-            "stars": 3473
+            "stars": 3474
           }
         },
         {
@@ -601,7 +601,7 @@
             "last_commit": "2026-08-01T11:53:05Z",
             "owner": "messense",
             "repo": "typst-py",
-            "stars": 342
+            "stars": 344
           }
         },
         {
@@ -1293,7 +1293,7 @@
             "last_commit": "2026-08-08T15:37:33Z",
             "owner": "yunanwg",
             "repo": "brilliant-CV",
-            "stars": 826
+            "stars": 827
           }
         },
         {
@@ -1885,7 +1885,7 @@
             "last_commit": "2026-07-28T09:04:45Z",
             "owner": "cetz-package",
             "repo": "cetz",
-            "stars": 1821
+            "stars": 1822
           }
         },
         {
@@ -2167,7 +2167,7 @@
             "last_commit": "2026-06-01T15:25:49Z",
             "owner": "jonaspleyer",
             "repo": "peace-of-posters",
-            "stars": 120
+            "stars": 121
           }
         }
       ],
@@ -2474,7 +2474,7 @@
             "last_commit": "2026-02-28T21:44:35Z",
             "owner": "polylux-typ",
             "repo": "polylux",
-            "stars": 1595
+            "stars": 1596
           }
         },
         {
@@ -2524,7 +2524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:37:03.214Z",
+    "last_updated": "2026-08-17T02:36:26.694Z",
     "original_repository": "qjcg/awesome-typst",
     "original_repository_sha": "05d3aba3732d4214541d4f6e3d1e69abdf72113a",
     "enhanced_repository": "enhansome/enhansome-typst",
