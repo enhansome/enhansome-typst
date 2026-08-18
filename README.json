@@ -87,7 +87,7 @@
             "last_commit": "2026-08-02T05:49:02Z",
             "owner": "typstyle-rs",
             "repo": "typstyle",
-            "stars": 876
+            "stars": 877
           }
         },
         {
@@ -247,7 +247,7 @@
             "last_commit": "2026-07-17T12:45:17Z",
             "owner": "IgKh",
             "repo": "katvan",
-            "stars": 181
+            "stars": 182
           }
         },
         {
@@ -320,7 +320,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-09T08:04:27Z",
+            "last_commit": "2026-08-18T01:53:17Z",
             "owner": "Myriad-Dreamin",
             "repo": "tinymist",
             "stars": 3474
@@ -587,7 +587,7 @@
             "last_commit": "2026-07-03T06:15:02Z",
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
-            "stars": 1197
+            "stars": 1199
           }
         },
         {
@@ -892,7 +892,7 @@
             "last_commit": "2025-03-09T13:58:39Z",
             "owner": "fredguth",
             "repo": "tufte-typst",
-            "stars": 37
+            "stars": 38
           }
         },
         {
@@ -1259,7 +1259,7 @@
             "last_commit": "2024-12-31T08:58:37Z",
             "owner": "jskherman",
             "repo": "imprecv",
-            "stars": 510
+            "stars": 509
           }
         },
         {
@@ -1290,10 +1290,10 @@
           "repo_info": {
             "archived": false,
             "language": "Typst",
-            "last_commit": "2026-08-08T15:37:33Z",
+            "last_commit": "2026-08-17T03:25:56Z",
             "owner": "yunanwg",
             "repo": "brilliant-CV",
-            "stars": 827
+            "stars": 828
           }
         },
         {
@@ -1964,10 +1964,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T12:46:12Z",
+            "last_commit": "2026-08-17T08:26:47Z",
             "owner": "typst",
             "repo": "packages",
-            "stars": 1015
+            "stars": 1016
           }
         },
         {
@@ -2091,7 +2091,7 @@
             "last_commit": "2026-08-14T19:17:11Z",
             "owner": "lilaq-project",
             "repo": "lilaq",
-            "stars": 824
+            "stars": 826
           }
         },
         {
@@ -2102,7 +2102,7 @@
           "repo_info": {
             "archived": false,
             "language": "Typst",
-            "last_commit": "2026-08-15T17:45:53Z",
+            "last_commit": "2026-08-17T21:48:17Z",
             "owner": "mcanouil",
             "repo": "gribouille",
             "stars": 255
@@ -2457,7 +2457,7 @@
           "repo_info": {
             "archived": false,
             "language": "Typst",
-            "last_commit": "2026-08-05T09:17:16Z",
+            "last_commit": "2026-08-17T05:12:20Z",
             "owner": "touying-typ",
             "repo": "touying",
             "stars": 2290
@@ -2524,7 +2524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:36:26.694Z",
+    "last_updated": "2026-08-18T02:31:31.513Z",
     "original_repository": "qjcg/awesome-typst",
     "original_repository_sha": "05d3aba3732d4214541d4f6e3d1e69abdf72113a",
     "enhanced_repository": "enhansome/enhansome-typst",
