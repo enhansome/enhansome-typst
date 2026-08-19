@@ -53,7 +53,7 @@
             "last_commit": "2026-08-15T15:54:31Z",
             "owner": "typst-community",
             "repo": "setup-typst",
-            "stars": 180
+            "stars": 181
           }
         },
         {
@@ -87,7 +87,7 @@
             "last_commit": "2026-08-02T05:49:02Z",
             "owner": "typstyle-rs",
             "repo": "typstyle",
-            "stars": 877
+            "stars": 878
           }
         },
         {
@@ -101,7 +101,7 @@
             "last_commit": "2026-07-19T10:07:26Z",
             "owner": "scipenai",
             "repo": "tylax",
-            "stars": 468
+            "stars": 469
           }
         },
         {
@@ -129,7 +129,7 @@
             "last_commit": "2026-02-23T18:24:12Z",
             "owner": "ItsEthra",
             "repo": "typst-live",
-            "stars": 136
+            "stars": 137
           }
         },
         {
@@ -323,7 +323,7 @@
             "last_commit": "2026-08-18T01:53:17Z",
             "owner": "Myriad-Dreamin",
             "repo": "tinymist",
-            "stars": 3474
+            "stars": 3477
           }
         },
         {
@@ -536,7 +536,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T15:14:11Z",
+            "last_commit": "2026-08-18T17:51:56Z",
             "owner": "QuarticCat",
             "repo": "detypify",
             "stars": 258
@@ -766,7 +766,7 @@
             "last_commit": "2026-06-01T20:02:57Z",
             "owner": "Sajjon",
             "repo": "klirr",
-            "stars": 137
+            "stars": 138
           }
         },
         {
@@ -1245,7 +1245,7 @@
             "last_commit": "2025-04-06T21:42:07Z",
             "owner": "skyzh",
             "repo": "chicv",
-            "stars": 724
+            "stars": 725
           }
         },
         {
@@ -1293,7 +1293,7 @@
             "last_commit": "2026-08-17T03:25:56Z",
             "owner": "yunanwg",
             "repo": "brilliant-CV",
-            "stars": 828
+            "stars": 829
           }
         },
         {
@@ -1438,20 +1438,6 @@
         },
         {
           "node_type": "item",
-          "title": "typst-neat-cv",
-          "description": "A Typst template for modern, minimal and elegant CVs, inspired by mintyfrankie's .",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Typst",
-            "last_commit": "2024-01-03T08:32:53Z",
-            "owner": "UntimelyCreation",
-            "repo": "typst-neat-cv",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
           "title": "typst-templates",
           "description": "A collection of 42 CV and resume designs, each a single self-contained file with no imports.",
           "children": [],
@@ -1461,6 +1447,20 @@
             "last_commit": "2026-07-28T16:14:03Z",
             "owner": "davidculemann",
             "repo": "typst-templates",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typst-neat-cv",
+          "description": "A Typst template for modern, minimal and elegant CVs, inspired by mintyfrankie's .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Typst",
+            "last_commit": "2024-01-03T08:32:53Z",
+            "owner": "UntimelyCreation",
+            "repo": "typst-neat-cv",
             "stars": 36
           }
         },
@@ -1739,7 +1739,7 @@
             "last_commit": "2026-02-25T21:51:30Z",
             "owner": "jomaway",
             "repo": "typst-gentle-clues",
-            "stars": 126
+            "stars": 127
           }
         },
         {
@@ -1885,7 +1885,7 @@
             "last_commit": "2026-07-28T09:04:45Z",
             "owner": "cetz-package",
             "repo": "cetz",
-            "stars": 1822
+            "stars": 1824
           }
         },
         {
@@ -1964,10 +1964,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T08:26:47Z",
+            "last_commit": "2026-08-18T15:48:34Z",
             "owner": "typst",
             "repo": "packages",
-            "stars": 1016
+            "stars": 1017
           }
         },
         {
@@ -2091,7 +2091,7 @@
             "last_commit": "2026-08-14T19:17:11Z",
             "owner": "lilaq-project",
             "repo": "lilaq",
-            "stars": 826
+            "stars": 827
           }
         },
         {
@@ -2102,7 +2102,7 @@
           "repo_info": {
             "archived": false,
             "language": "Typst",
-            "last_commit": "2026-08-17T21:48:17Z",
+            "last_commit": "2026-08-18T22:54:22Z",
             "owner": "mcanouil",
             "repo": "gribouille",
             "stars": 255
@@ -2460,7 +2460,7 @@
             "last_commit": "2026-08-17T05:12:20Z",
             "owner": "touying-typ",
             "repo": "touying",
-            "stars": 2290
+            "stars": 2291
           }
         },
         {
@@ -2474,7 +2474,7 @@
             "last_commit": "2026-02-28T21:44:35Z",
             "owner": "polylux-typ",
             "repo": "polylux",
-            "stars": 1596
+            "stars": 1597
           }
         },
         {
@@ -2524,7 +2524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T02:31:31.513Z",
+    "last_updated": "2026-08-19T02:33:33.961Z",
     "original_repository": "qjcg/awesome-typst",
     "original_repository_sha": "05d3aba3732d4214541d4f6e3d1e69abdf72113a",
     "enhanced_repository": "enhansome/enhansome-typst",
