@@ -5,7 +5,7 @@
 
 # Awesome Typst with stars
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 497,853 | 🐛 103 | 📅 2026-08-18
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 498,296 | 🐛 105 | 📅 2026-08-18
 
 Curated collection of useful links for Typst users.
 
@@ -52,7 +52,7 @@ Contributions are welcome!
 
 * [typst.app](https://typst.app) - The Typst web app.
 * [Typst Documentation](https://typst.app/docs) - The official Typst documentation.
-* [GitHub](https://github.com/typst/typst) ⭐ 55,529 | 🐛 1,276 | 🌐 Rust | 📅 2026-08-17 - The official Typst repository.
+* [GitHub](https://github.com/typst/typst) ⭐ 55,551 | 🐛 1,279 | 🌐 Rust | 📅 2026-08-21 - The official Typst repository.
 * [Blog](https://typst.app/blog/) - The official Typst blog.
 * Social - [Discord] [Instagram] [LinkedIn] [Mastodon] [bluesky]
 
@@ -68,8 +68,8 @@ Contributions are welcome!
 
 ## Typst Community Links
 
-* [Nonsense](https://github.com/SylvanFranklin/nonsense) ⭐ 400 | 🐛 1 | 🌐 Typst | 📅 2025-09-20 - Funny and visually stunning generator of random fake math papers..
-* [best-of-typst](https://github.com/YDX-2147483647/best-of-typst) ⭐ 119 | 🐛 7 | 🌐 Typst | 📅 2026-08-19 - A ranked list of awesome projects related to Typst..
+* [Nonsense](https://github.com/SylvanFranklin/nonsense) ⭐ 401 | 🐛 1 | 🌐 Typst | 📅 2025-09-20 - Funny and visually stunning generator of random fake math papers..
+* [best-of-typst](https://github.com/YDX-2147483647/best-of-typst) ⭐ 119 | 🐛 7 | 🌐 Typst | 📅 2026-08-21 - A ranked list of awesome projects related to Typst..
 * [#typst:matrix.org](https://matrix.to/#/%23typst:matrix.org) - Matrix room for Typst.
 * [Typst Examples Book](https://sitandr.github.io/typst-examples-book/book/) - An online book with Typst snippets, including extended tutorial and useful hacks.
 * [Typst Japanese Community](https://typst-jp.github.io/docs/) - Community docs and resources.
@@ -98,8 +98,8 @@ Contributions are welcome!
 ### CLI Tools
 
 * [typstyle](https://github.com/typstyle-rs/typstyle) ⭐ 878 | 🐛 33 | 🌐 Rust | 📅 2026-08-02 - Opinionated typst code formatter focusing on aesthetic, convergence and correctness.
-* [Tylax](https://github.com/scipenai/tylax) ⭐ 470 | 🐛 8 | 🌐 Rust | 📅 2026-07-19 - A bidirectional LaTeX-Typst converter based on AST parsing, with support for TikZ graphics.
-* [utpm](https://github.com/typst-community/utpm) ⭐ 138 | 🐛 5 | 🌐 Rust | 📅 2026-05-23 - *Package manager* for **[local](https://github.com/typst/packages#local-packages) ⭐ 1,017 | 🐛 45 | 🌐 Rust | 📅 2026-08-19** and **[remote](https://github.com/typst/packages) ⭐ 1,017 | 🐛 45 | 🌐 Rust | 📅 2026-08-19** Typst packages.
+* [Tylax](https://github.com/scipenai/tylax) ⭐ 471 | 🐛 8 | 🌐 Rust | 📅 2026-07-19 - A bidirectional LaTeX-Typst converter based on AST parsing, with support for TikZ graphics.
+* [utpm](https://github.com/typst-community/utpm) ⭐ 138 | 🐛 5 | 🌐 Rust | 📅 2026-05-23 - *Package manager* for **[local](https://github.com/typst/packages#local-packages) ⭐ 1,018 | 🐛 37 | 🌐 Rust | 📅 2026-08-20** and **[remote](https://github.com/typst/packages) ⭐ 1,018 | 🐛 37 | 🌐 Rust | 📅 2026-08-20** Typst packages.
 * [typst-live](https://github.com/ItsEthra/typst-live) ⭐ 137 | 🐛 9 | 🌐 Rust | 📅 2026-02-23 - Hot reloading of pdf in web browser.
 * [typst-pandoc](https://github.com/lvignoli/typst-pandoc) ⚠️ Archived - Typst custom reader and writer for Pandoc.
 * [Tyler](https://github.com/mkpoli/tyler) ⭐ 33 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-04 - Package compiler for the ease of packaging and publishing Typst libraries and templates.
@@ -112,7 +112,7 @@ Contributions are welcome!
 * [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) ⭐ 226 | 🐛 42 | 🌐 Kotlin | 📅 2026-04-02 - A private, secure, minimalistic Text, Markdown, and Typst editor for Android.
 * [AcademicID](https://github.com/Academic-ID/sapienAI) ⭐ 205 | 🐛 9 | 🌐 Shell | 📅 2026-06-13 - A self-hosted academic-focused AI chatbot and research workspace with a Typst, Markdown, and Text editor.
 * [Katvan](https://github.com/IgKh/katvan) ⭐ 182 | 🐛 11 | 🌐 C++ | 📅 2026-07-17 - A bare-bones editor for Typst files, with a bias for Right-to-Left editing.
-* [Typstwriter](https://github.com/Bzero/typstwriter) ⭐ 170 | 🐛 12 | 🌐 Python | 📅 2026-07-21 - An integrated desktop editor for Typst projects.
+* [Typstwriter](https://github.com/Bzero/typstwriter) ⭐ 169 | 🐛 12 | 🌐 Python | 📅 2026-07-21 - An integrated desktop editor for Typst projects.
 * [qnote](https://github.com/Omibranch/qnote) ⚠️ Archived - Minimal frameless notepad for Linux with Markdown support and PDF export via Typst, plus OCR and version history.
 * [TypstEdit](https://github.com/SuperMegaFort/TypstEdit) ⭐ 68 | 🐛 3 | 🌐 Swift | 📅 2025-12-09 - A native macOS Typst editor.
 * [typos](https://github.com/dailydaniel/typos) ⭐ 51 | 🐛 2 | 🌐 Rust | 📅 2026-03-27 - A Typst-native note-taking system powered by Rust and Tauri with typed metadata, cross-references, backlinks, and knowledge graph visualization.
@@ -120,8 +120,8 @@ Contributions are welcome!
 
 ### Editor Integrations
 
-* [Tinymist](https://github.com/Myriad-Dreamin/tinymist) ⭐ 3,479 | 🐛 211 | 🌐 Rust | 📅 2026-08-20 - A language server for Typst with integrations for Emacs, Helix, Neovim, Sublime Text, VSCode/VsCodium, and Zed.
-* [obsidian-typst](https://github.com/fenjalien/obsidian-typst) ⭐ 534 | 🐛 37 | 🌐 TypeScript | 📅 2024-11-03 - Renders Typst code blocks in Obsidian into images using Typst through the power of WebAssembly!
+* [Tinymist](https://github.com/Myriad-Dreamin/tinymist) ⭐ 3,482 | 🐛 208 | 🌐 Rust | 📅 2026-08-20 - A language server for Typst with integrations for Emacs, Helix, Neovim, Sublime Text, VSCode/VsCodium, and Zed.
+* [obsidian-typst](https://github.com/fenjalien/obsidian-typst) ⭐ 535 | 🐛 37 | 🌐 TypeScript | 📅 2024-11-03 - Renders Typst code blocks in Obsidian into images using Typst through the power of WebAssembly!
 * [typst.vim](https://github.com/kaarmu/typst.vim) ⭐ 384 | 🐛 20 | 🌐 Vim Script | 📅 2025-12-17 - Vim plugin for Typst.
 * [uben0/tree-sitter-typst](https://github.com/uben0/tree-sitter-typst) ⭐ 189 | 🐛 17 | 🌐 C | 📅 2025-04-02 - A TreeSitter grammar for the Typst language, used by Helix.
 * [SeniorMars/tree-sitter-typst](https://github.com/SeniorMars/tree-sitter-typst) ⭐ 169 | 🐛 7 | 🌐 C | 📅 2026-07-28 - A TreeSitter parser for the Typst file format.
@@ -152,7 +152,7 @@ Contributions are welcome!
 
 ### Programming
 
-* [typst.ts](https://github.com/Myriad-Dreamin/typst.ts) ⭐ 1,199 | 🐛 53 | 🌐 TypeScript | 📅 2026-07-03 - JavaScript binding to Typst.
+* [typst.ts](https://github.com/Myriad-Dreamin/typst.ts) ⭐ 1,200 | 🐛 53 | 🌐 TypeScript | 📅 2026-07-03 - JavaScript binding to Typst.
 * [typst-py](https://github.com/messense/typst-py) ⭐ 345 | 🐛 9 | 🌐 Rust | 📅 2026-08-01 - Python binding to Typst.
 * [Typix](https://github.com/loqusion/typix) ⭐ 327 | 🐛 7 | 🌐 Nix | 📅 2026-08-07 - Deterministic Typst compilation with Nix.
 * [Typstry.jl](https://github.com/jakobjpeters/Typstry.jl) ⭐ 100 | 🐛 7 | 🌐 Julia | 📅 2026-06-06 - The Julia to Typst interface.
@@ -228,7 +228,7 @@ Contributions are welcome!
 #### Examples
 
 * [chicv](https://github.com/skyzh/chicv) ⭐ 725 | 🐛 2 | 🌐 Typst | 📅 2025-04-06 - A minimal and fully-customizable CV template.
-* [cv.typ](https://github.com/jskherman/imprecv) ⭐ 509 | 🐛 11 | 🌐 Typst | 📅 2024-12-31 - A no-frills curriculum vitae (CV) template for Typst that uses a YAML file for data input in order to version control CV data easily.
+* [cv.typ](https://github.com/jskherman/imprecv) ⭐ 510 | 🐛 11 | 🌐 Typst | 📅 2024-12-31 - A no-frills curriculum vitae (CV) template for Typst that uses a YAML file for data input in order to version control CV data easily.
 * [bare-bones-cv](https://github.com/caffeinatedgaze/bare-bones-cv) ⭐ 102 | 🐛 0 | 🌐 Typst | 📅 2025-10-29 - A single-page minimalistic CV comprising essentials only.
 
 #### Templates
@@ -317,13 +317,13 @@ Contributions are welcome!
 
 ### Letters
 
-* [typst-letter-pro](https://github.com/Sematre/typst-letter-pro) ⭐ 213 | 🐛 21 | 🌐 Typst | 📅 2025-03-20 - DIN 5008 letter template for Typst.
+* [typst-letter-pro](https://github.com/Sematre/typst-letter-pro) ⭐ 214 | 🐛 21 | 🌐 Typst | 📅 2025-03-20 - DIN 5008 letter template for Typst.
 * [typst-letter-template](https://github.com/pascal-huber/typst-letter-template) ⭐ 48 | 🐛 1 | 🌐 Typst | 📅 2025-01-04 - A customizable Typst letter template with different presets (DIN 5008, Swiss C5).
 * [typst-letter](https://github.com/dvdvgt/typst-letter) ⭐ 28 | 🐛 2 | 🌐 Typst | 📅 2024-04-10 - A Typst letter template inspired by the DIN 5008 norm.
 
 ### Linguistics
 
-* [tyipa](https://github.com/typst/packages/tree/main/packages/preview/tyipa/0.1.0) ⭐ 1,017 | 🐛 45 | 🌐 Rust | 📅 2026-08-19 - Write phonetic transcriptions using the IPA, in a *typsty* style.
+* [tyipa](https://github.com/typst/packages/tree/main/packages/preview/tyipa/0.1.0) ⭐ 1,018 | 🐛 37 | 🌐 Rust | 📅 2026-08-20 - Write phonetic transcriptions using the IPA, in a *typsty* style.
 * [typst-syntree](https://github.com/lynn/typst-syntree) ⭐ 52 | 🐛 6 | 🌐 Typst | 📅 2026-07-06 - Syntax trees for Typst.
 * [typst-ipa](https://github.com/imatpot/typst-ascii-ipa) ⭐ 22 | 🐛 3 | 🌐 Typst | 📅 2026-07-07 - 🔄 ASCII / IPA conversion for Typst.
 * [eggs](https://github.com/retroflexivity/typst-eggs) ⭐ 18 | 🐛 6 | 🌐 Typst | 📅 2026-08-19 - Linguistics examples and glosses with minimalist syntax.
@@ -339,8 +339,8 @@ Contributions are welcome!
 
 ### Plotting
 
-* [lilaq](https://github.com/lilaq-project/lilaq) ⭐ 827 | 🐛 22 | 🌐 Typst | 📅 2026-08-14 - Advanced data visualization with Typst, easy to use, customizable, sane defaults.
-* [Gribouille](https://github.com/mcanouil/gribouille) ⭐ 255 | 🐛 1 | 🌐 Typst | 📅 2026-08-19 - Create elegant graphics with the Grammar of Graphics for Typst.
+* [lilaq](https://github.com/lilaq-project/lilaq) ⭐ 828 | 🐛 22 | 🌐 Typst | 📅 2026-08-14 - Advanced data visualization with Typst, easy to use, customizable, sane defaults.
+* [Gribouille](https://github.com/mcanouil/gribouille) ⭐ 255 | 🐛 1 | 🌐 Typst | 📅 2026-08-20 - Create elegant graphics with the Grammar of Graphics for Typst.
 * [typst-plotting](https://github.com/Chayraaa/typst-plotting) ⚠️ Archived - A library for drawing a variety of charts and plots like line charts, histograms, and pie charts.
 * [typst-plot](https://github.com/johannes-wolf/typst-plot) ⚠️ Archived - A library for plotting line charts (deprecated in favor of CeTZ).
 
@@ -354,7 +354,7 @@ Contributions are welcome!
 #### Chemistry
 
 * [alchemist](https://github.com/Typsium/alchemist) ⭐ 47 | 🐛 4 | 🌐 Typst | 📅 2026-08-04 - Render skeletal formulas in a human-readable format using cetz.
-* [typsium](https://github.com/Typsium/typsium) ⭐ 44 | 🐛 2 | 🌐 Typst | 📅 2026-08-19 - Typeset chemical formulas and reactions.
+* [typsium](https://github.com/Typsium/typsium) ⭐ 44 | 🐛 1 | 🌐 Typst | 📅 2026-08-20 - Typeset chemical formulas and reactions.
 
 #### Engineering
 
@@ -409,4 +409,4 @@ Contributions are welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
