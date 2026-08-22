@@ -15,7 +15,7 @@
             "last_commit": "2025-09-20T16:38:37Z",
             "owner": "SylvanFranklin",
             "repo": "nonsense",
-            "stars": 401
+            "stars": 400
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 1042002997,
             "language": "Typst",
-            "last_commit": "2026-08-21T00:48:43Z",
+            "last_commit": "2026-08-21T16:58:49Z",
             "owner": "YDX-2147483647",
             "repo": "best-of-typst",
-            "stars": 119
+            "stars": 120
           }
         }
       ],
@@ -105,7 +105,7 @@
                 "last_commit": "2026-07-19T10:07:26Z",
                 "owner": "scipenai",
                 "repo": "tylax",
-                "stars": 471
+                "stars": 472
               }
             },
             {
@@ -344,7 +344,7 @@
                 "last_commit": "2026-08-20T02:43:37Z",
                 "owner": "Myriad-Dreamin",
                 "repo": "tinymist",
-                "stars": 3482
+                "stars": 3484
               }
             },
             {
@@ -573,10 +573,10 @@
                 "archived": false,
                 "id": 774899977,
                 "language": "Python",
-                "last_commit": "2026-08-19T17:52:01Z",
+                "last_commit": "2026-08-21T05:02:07Z",
                 "owner": "QuarticCat",
                 "repo": "detypify",
-                "stars": 258
+                "stars": 259
               }
             },
             {
@@ -643,7 +643,7 @@
                 "last_commit": "2026-08-01T11:53:05Z",
                 "owner": "messense",
                 "repo": "typst-py",
-                "stars": 345
+                "stars": 346
               }
             },
             {
@@ -991,6 +991,21 @@
             },
             {
               "node_type": "item",
+              "title": "Typst-Paper-Template",
+              "description": "Typst template for Working Paper.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 662342237,
+                "language": "Typst",
+                "last_commit": "2026-07-30T22:52:45Z",
+                "owner": "jxpeng98",
+                "repo": "Typst-Paper-Template",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
               "title": "typst-templates",
               "description": "My Typst templates.",
               "children": [],
@@ -1002,21 +1017,6 @@
                 "owner": "haxibami",
                 "repo": "haxipst",
                 "stars": 27
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Typst-Paper-Template",
-              "description": "Typst template for Working Paper.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 662342237,
-                "language": "Typst",
-                "last_commit": "2026-07-30T22:52:45Z",
-                "owner": "jxpeng98",
-                "repo": "Typst-Paper-Template",
-                "stars": 26
               }
             },
             {
@@ -2111,7 +2111,7 @@
                 "archived": false,
                 "id": 658753624,
                 "language": "Rust",
-                "last_commit": "2026-08-20T13:28:12Z",
+                "last_commit": "2026-08-21T12:04:12Z",
                 "owner": "typst",
                 "repo": "packages",
                 "stars": 1018
@@ -2211,7 +2211,7 @@
                 "last_commit": "2025-08-27T20:44:46Z",
                 "owner": "sitandr",
                 "repo": "conchord",
-                "stars": 100
+                "stars": 101
               }
             },
             {
@@ -2248,7 +2248,7 @@
                 "last_commit": "2026-08-14T19:17:11Z",
                 "owner": "lilaq-project",
                 "repo": "lilaq",
-                "stars": 828
+                "stars": 830
               }
             },
             {
@@ -2260,7 +2260,7 @@
                 "archived": false,
                 "id": 1214590659,
                 "language": "Typst",
-                "last_commit": "2026-08-20T22:44:49Z",
+                "last_commit": "2026-08-21T21:13:39Z",
                 "owner": "mcanouil",
                 "repo": "gribouille",
                 "stars": 255
@@ -2327,7 +2327,7 @@
                 "archived": false,
                 "id": 703634774,
                 "language": "Typst",
-                "last_commit": "2026-06-01T15:25:49Z",
+                "last_commit": "2026-08-21T16:44:59Z",
                 "owner": "jonaspleyer",
                 "repo": "peace-of-posters",
                 "stars": 121
@@ -2406,7 +2406,7 @@
                     "last_commit": "2026-02-26T22:06:46Z",
                     "owner": "jomaway",
                     "repo": "typst-bytefield",
-                    "stars": 117
+                    "stars": 118
                   }
                 },
                 {
@@ -2656,7 +2656,7 @@
                 "last_commit": "2026-08-17T05:12:20Z",
                 "owner": "touying-typ",
                 "repo": "touying",
-                "stars": 2293
+                "stars": 2296
               }
             },
             {
@@ -2729,7 +2729,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:38:31.869Z",
+    "last_updated": "2026-08-22T02:30:09.803Z",
     "original_repository": "qjcg/awesome-typst",
     "original_repository_id": 617711757,
     "original_repository_sha": "05d3aba3732d4214541d4f6e3d1e69abdf72113a",
