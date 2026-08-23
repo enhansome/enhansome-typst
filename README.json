@@ -27,10 +27,10 @@
             "archived": false,
             "id": 1042002997,
             "language": "Typst",
-            "last_commit": "2026-08-21T16:58:49Z",
+            "last_commit": "2026-08-22T10:01:24Z",
             "owner": "YDX-2147483647",
             "repo": "best-of-typst",
-            "stars": 120
+            "stars": 121
           }
         }
       ],
@@ -105,7 +105,7 @@
                 "last_commit": "2026-07-19T10:07:26Z",
                 "owner": "scipenai",
                 "repo": "tylax",
-                "stars": 472
+                "stars": 473
               }
             },
             {
@@ -341,10 +341,10 @@
                 "archived": false,
                 "id": 768315520,
                 "language": "Rust",
-                "last_commit": "2026-08-20T02:43:37Z",
+                "last_commit": "2026-08-22T18:02:09Z",
                 "owner": "Myriad-Dreamin",
                 "repo": "tinymist",
-                "stars": 3484
+                "stars": 3488
               }
             },
             {
@@ -628,7 +628,7 @@
                 "last_commit": "2026-07-03T06:15:02Z",
                 "owner": "Myriad-Dreamin",
                 "repo": "typst.ts",
-                "stars": 1200
+                "stars": 1201
               }
             },
             {
@@ -655,7 +655,7 @@
                 "archived": false,
                 "id": 735205303,
                 "language": "Nix",
-                "last_commit": "2026-08-07T09:38:38Z",
+                "last_commit": "2026-08-22T09:01:21Z",
                 "owner": "loqusion",
                 "repo": "typix",
                 "stars": 327
@@ -708,21 +708,6 @@
             },
             {
               "node_type": "item",
-              "title": "leetcode.typ",
-              "description": "Solving Leetcode problems in Typst.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 630043193,
-                "language": "Typst",
-                "last_commit": "2026-01-13T14:08:28Z",
-                "owner": "lucifer1004",
-                "repo": "leetcode.typ",
-                "stars": 39
-              }
-            },
-            {
-              "node_type": "item",
               "title": "typst-rb",
               "description": "Ruby binding to Typst.",
               "children": [],
@@ -733,6 +718,21 @@
                 "last_commit": "2026-08-15T15:00:14Z",
                 "owner": "actsasflinn",
                 "repo": "typst-rb",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "leetcode.typ",
+              "description": "Solving Leetcode problems in Typst.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 630043193,
+                "language": "Typst",
+                "last_commit": "2026-01-13T14:08:28Z",
+                "owner": "lucifer1004",
+                "repo": "leetcode.typ",
                 "stars": 39
               }
             }
@@ -806,7 +806,7 @@
                 "last_commit": "2026-01-30T17:59:53Z",
                 "owner": "flavio20002",
                 "repo": "typst-orange-template",
-                "stars": 151
+                "stars": 152
               }
             },
             {
@@ -1474,7 +1474,7 @@
                     "last_commit": "2025-04-08T14:12:26Z",
                     "owner": "elegaanz",
                     "repo": "vercanard",
-                    "stars": 110
+                    "stars": 109
                   }
                 },
                 {
@@ -1823,7 +1823,7 @@
                 "last_commit": "2024-10-25T19:48:51Z",
                 "owner": "PgBiel",
                 "repo": "typst-tablex",
-                "stars": 413
+                "stars": 414
               }
             },
             {
@@ -1898,7 +1898,7 @@
                 "last_commit": "2026-04-29T21:22:11Z",
                 "owner": "fenjalien",
                 "repo": "metro",
-                "stars": 86
+                "stars": 87
               }
             },
             {
@@ -1913,7 +1913,7 @@
                 "last_commit": "2025-07-27T18:24:41Z",
                 "owner": "OrangeX4",
                 "repo": "typst-tablem",
-                "stars": 82
+                "stars": 81
               }
             },
             {
@@ -2062,7 +2062,7 @@
                 "last_commit": "2025-03-20T10:38:09Z",
                 "owner": "Sematre",
                 "repo": "typst-letter-pro",
-                "stars": 214
+                "stars": 215
               }
             },
             {
@@ -2114,7 +2114,7 @@
                 "last_commit": "2026-08-21T12:04:12Z",
                 "owner": "typst",
                 "repo": "packages",
-                "stars": 1018
+                "stars": 1019
               }
             },
             {
@@ -2473,7 +2473,7 @@
                     "last_commit": "2026-04-30T03:24:58Z",
                     "owner": "johanvx",
                     "repo": "typst-undergradmath",
-                    "stars": 150
+                    "stars": 149
                   }
                 },
                 {
@@ -2656,7 +2656,7 @@
                 "last_commit": "2026-08-17T05:12:20Z",
                 "owner": "touying-typ",
                 "repo": "touying",
-                "stars": 2296
+                "stars": 2297
               }
             },
             {
@@ -2686,7 +2686,7 @@
                 "last_commit": "2025-05-20T15:57:42Z",
                 "owner": "OrangeX4",
                 "repo": "typst-pinit",
-                "stars": 328
+                "stars": 327
               }
             },
             {
@@ -2729,7 +2729,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:30:09.803Z",
+    "last_updated": "2026-08-23T02:39:01.419Z",
     "original_repository": "qjcg/awesome-typst",
     "original_repository_id": 617711757,
     "original_repository_sha": "05d3aba3732d4214541d4f6e3d1e69abdf72113a",
