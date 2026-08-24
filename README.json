@@ -105,7 +105,7 @@
                 "last_commit": "2026-07-19T10:07:26Z",
                 "owner": "scipenai",
                 "repo": "tylax",
-                "stars": 473
+                "stars": 475
               }
             },
             {
@@ -262,7 +262,7 @@
                 "last_commit": "2026-07-17T12:45:17Z",
                 "owner": "IgKh",
                 "repo": "katvan",
-                "stars": 182
+                "stars": 183
               }
             },
             {
@@ -341,10 +341,10 @@
                 "archived": false,
                 "id": 768315520,
                 "language": "Rust",
-                "last_commit": "2026-08-22T18:02:09Z",
+                "last_commit": "2026-08-23T03:38:10Z",
                 "owner": "Myriad-Dreamin",
                 "repo": "tinymist",
-                "stars": 3488
+                "stars": 3490
               }
             },
             {
@@ -359,7 +359,7 @@
                 "last_commit": "2024-11-03T17:46:56Z",
                 "owner": "fenjalien",
                 "repo": "obsidian-typst",
-                "stars": 535
+                "stars": 536
               }
             },
             {
@@ -673,7 +673,7 @@
                 "last_commit": "2026-06-06T19:54:21Z",
                 "owner": "jakobjpeters",
                 "repo": "Typstry.jl",
-                "stars": 100
+                "stars": 101
               }
             },
             {
@@ -718,7 +718,7 @@
                 "last_commit": "2026-08-15T15:00:14Z",
                 "owner": "actsasflinn",
                 "repo": "typst-rb",
-                "stars": 40
+                "stars": 41
               }
             },
             {
@@ -1347,7 +1347,7 @@
                     "last_commit": "2024-12-31T08:58:37Z",
                     "owner": "jskherman",
                     "repo": "imprecv",
-                    "stars": 510
+                    "stars": 511
                   }
                 },
                 {
@@ -2025,7 +2025,7 @@
                 "last_commit": "2026-07-28T09:04:45Z",
                 "owner": "cetz-package",
                 "repo": "cetz",
-                "stars": 1824
+                "stars": 1825
               }
             },
             {
@@ -2260,7 +2260,7 @@
                 "archived": false,
                 "id": 1214590659,
                 "language": "Typst",
-                "last_commit": "2026-08-21T21:13:39Z",
+                "last_commit": "2026-08-24T01:48:32Z",
                 "owner": "mcanouil",
                 "repo": "gribouille",
                 "stars": 255
@@ -2656,7 +2656,7 @@
                 "last_commit": "2026-08-17T05:12:20Z",
                 "owner": "touying-typ",
                 "repo": "touying",
-                "stars": 2297
+                "stars": 2298
               }
             },
             {
@@ -2729,7 +2729,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:39:01.419Z",
+    "last_updated": "2026-08-24T02:39:35.070Z",
     "original_repository": "qjcg/awesome-typst",
     "original_repository_id": 617711757,
     "original_repository_sha": "05d3aba3732d4214541d4f6e3d1e69abdf72113a",
