@@ -43,6 +43,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "(FireFox) bib-kit",
+              "description": "Retrieve website information to create citations in the hayagriva format.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 628678710,
+                "language": "Rust",
+                "last_commit": "2023-04-21T15:48:36Z",
+                "owner": "MordragT",
+                "repo": "bib_kit",
+                "stars": 20
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Browser Extensions"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "typst-bot",
+              "description": "A Discord bot to render Typst code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 617360764,
+                "language": "Rust",
+                "last_commit": "2026-08-13T18:49:15Z",
+                "owner": "mattfbacon",
+                "repo": "typst-bot",
+                "stars": 108
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Chatbots"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "setup-typst",
               "description": "📑 Install Typst for use in GitHub Actions.",
               "children": [],
@@ -341,7 +385,7 @@
                 "archived": false,
                 "id": 768315520,
                 "language": "Rust",
-                "last_commit": "2026-08-23T03:38:10Z",
+                "last_commit": "2026-08-24T11:52:54Z",
                 "owner": "Myriad-Dreamin",
                 "repo": "tinymist",
                 "stars": 3490
@@ -618,6 +662,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "pptypst",
+              "description": "Bring the power of Typst to PowerPoint.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1133044062,
+                "language": "TypeScript",
+                "last_commit": "2026-06-07T22:11:01Z",
+                "owner": "Splines",
+                "repo": "pptypst",
+                "stars": 140
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Office"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "typst.ts",
               "description": "JavaScript binding to Typst.",
               "children": [],
@@ -628,7 +694,7 @@
                 "last_commit": "2026-07-03T06:15:02Z",
                 "owner": "Myriad-Dreamin",
                 "repo": "typst.ts",
-                "stars": 1201
+                "stars": 1202
               }
             },
             {
@@ -740,6 +806,28 @@
           "description": null,
           "node_type": "group",
           "title": "Programming"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "typst-http-api",
+              "description": "A simple Docker container with an API to compile Typst markup.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 637032838,
+                "language": "Python",
+                "last_commit": "2026-01-20T10:58:06Z",
+                "owner": "slashformotion",
+                "repo": "typst-http-api",
+                "stars": 39
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Typst As A Service"
         }
       ],
       "title": "Integrations & Tools"
@@ -747,6 +835,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "typst/templates",
+              "description": "The templates that ship with the Typst web app.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 619803457,
+                "language": "Typst",
+                "last_commit": "2026-03-20T11:03:54Z",
+                "owner": "typst",
+                "repo": "templates",
+                "stars": 418
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official"
+        },
         {
           "children": [
             {
@@ -1381,7 +1491,7 @@
                     "archived": false,
                     "id": 634051351,
                     "language": "Typst",
-                    "last_commit": "2026-08-17T03:25:56Z",
+                    "last_commit": "2026-08-24T03:25:06Z",
                     "owner": "yunanwg",
                     "repo": "brilliant-CV",
                     "stars": 829
@@ -1813,6 +1923,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "notes.typ",
+              "description": "A library for notes with deduplication and customizability.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 625851249,
+                "language": "Typst",
+                "last_commit": "2026-01-26T14:21:58Z",
+                "owner": "tudborg",
+                "repo": "notes.typ",
+                "stars": 34
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Footnotes & Endnotes"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "typst-tablex",
               "description": "More powerful and customizable tables in Typst!",
               "children": [],
@@ -2062,7 +2194,7 @@
                 "last_commit": "2025-03-20T10:38:09Z",
                 "owner": "Sematre",
                 "repo": "typst-letter-pro",
-                "stars": 215
+                "stars": 216
               }
             },
             {
@@ -2111,7 +2243,7 @@
                 "archived": false,
                 "id": 658753624,
                 "language": "Rust",
-                "last_commit": "2026-08-21T12:04:12Z",
+                "last_commit": "2026-08-24T13:52:08Z",
                 "owner": "typst",
                 "repo": "packages",
                 "stars": 1019
@@ -2260,7 +2392,7 @@
                 "archived": false,
                 "id": 1214590659,
                 "language": "Typst",
-                "last_commit": "2026-08-24T01:48:32Z",
+                "last_commit": "2026-08-24T12:05:22Z",
                 "owner": "mcanouil",
                 "repo": "gribouille",
                 "stars": 255
@@ -2529,6 +2661,21 @@
             {
               "children": [
                 {
+                  "node_type": "item",
+                  "title": "physica",
+                  "description": "A library for usual physics notations, e.g. vectors and vector fields, matrices, differentials, derivatives, Dirac brackets, tensors, isotopes, and digital signal sequences.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 618919303,
+                    "language": "Typst",
+                    "last_commit": "2026-07-21T03:07:02Z",
+                    "owner": "Leedehai",
+                    "repo": "typst-physics",
+                    "stars": 611
+                  }
+                },
+                {
                   "children": [
                     {
                       "node_type": "item",
@@ -2594,6 +2741,50 @@
                   "description": null,
                   "node_type": "group",
                   "title": "Conferences"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "ieee-trans-typst",
+                      "description": "A template that mimics the LaTeX IEEE Transaction template ().",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 683043240,
+                        "language": "TeX",
+                        "last_commit": "2023-08-25T14:11:00Z",
+                        "owner": "p4perf4ce",
+                        "repo": "typst-ieee-trans-template",
+                        "stars": 19
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Journals"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "typst-nsf-templates",
+                      "description": "National Science Foundation (NSF) general template and outlines for popular proposal types.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 719461980,
+                        "language": "Typst",
+                        "last_commit": "2023-11-17T04:07:34Z",
+                        "owner": "ntjess",
+                        "repo": "typst-nsf-templates",
+                        "stars": 16
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Grants/Proposals"
                 }
               ],
               "description": null,
@@ -2729,7 +2920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:39:35.070Z",
+    "last_updated": "2026-08-24T14:00:53.005Z",
     "original_repository": "qjcg/awesome-typst",
     "original_repository_id": 617711757,
     "original_repository_sha": "05d3aba3732d4214541d4f6e3d1e69abdf72113a",
