@@ -27,7 +27,7 @@
             "archived": false,
             "id": 1042002997,
             "language": "Typst",
-            "last_commit": "2026-08-22T10:01:24Z",
+            "last_commit": "2026-08-25T01:00:20Z",
             "owner": "YDX-2147483647",
             "repo": "best-of-typst",
             "stars": 121
@@ -94,7 +94,7 @@
                 "archived": false,
                 "id": 625450644,
                 "language": "TypeScript",
-                "last_commit": "2026-08-15T15:54:31Z",
+                "last_commit": "2026-08-24T16:51:10Z",
                 "owner": "typst-community",
                 "repo": "setup-typst",
                 "stars": 181
@@ -149,7 +149,7 @@
                 "last_commit": "2026-07-19T10:07:26Z",
                 "owner": "scipenai",
                 "repo": "tylax",
-                "stars": 475
+                "stars": 476
               }
             },
             {
@@ -385,10 +385,10 @@
                 "archived": false,
                 "id": 768315520,
                 "language": "Rust",
-                "last_commit": "2026-08-24T11:52:54Z",
+                "last_commit": "2026-08-25T01:08:25Z",
                 "owner": "Myriad-Dreamin",
                 "repo": "tinymist",
-                "stars": 3490
+                "stars": 3492
               }
             },
             {
@@ -1156,7 +1156,7 @@
                 "last_commit": "2024-07-25T13:21:06Z",
                 "owner": "RolfBremer",
                 "repo": "gloss-awe",
-                "stars": 22
+                "stars": 23
               }
             },
             {
@@ -1442,7 +1442,7 @@
                     "last_commit": "2025-04-06T21:42:07Z",
                     "owner": "skyzh",
                     "repo": "chicv",
-                    "stars": 725
+                    "stars": 724
                   }
                 },
                 {
@@ -1457,7 +1457,7 @@
                     "last_commit": "2024-12-31T08:58:37Z",
                     "owner": "jskherman",
                     "repo": "imprecv",
-                    "stars": 511
+                    "stars": 510
                   }
                 },
                 {
@@ -1494,7 +1494,7 @@
                     "last_commit": "2026-08-24T03:25:06Z",
                     "owner": "yunanwg",
                     "repo": "brilliant-CV",
-                    "stars": 829
+                    "stars": 828
                   }
                 },
                 {
@@ -1524,7 +1524,7 @@
                     "last_commit": "2025-07-15T12:29:52Z",
                     "owner": "wusyong",
                     "repo": "resume.typ",
-                    "stars": 150
+                    "stars": 149
                   }
                 },
                 {
@@ -1539,7 +1539,7 @@
                     "last_commit": "2024-03-18T22:52:47Z",
                     "owner": "bamboovir",
                     "repo": "typst-resume-template",
-                    "stars": 141
+                    "stars": 140
                   }
                 },
                 {
@@ -1975,21 +1975,6 @@
             },
             {
               "node_type": "item",
-              "title": "typst-codelst",
-              "description": "A Typst package to render source code.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 668258472,
-                "language": "Typst",
-                "last_commit": "2024-10-22T20:42:57Z",
-                "owner": "jneug",
-                "repo": "typst-codelst",
-                "stars": 127
-              }
-            },
-            {
-              "node_type": "item",
               "title": "typst-gentle-clues",
               "description": "A Typst package to simply add admonitions..",
               "children": [],
@@ -2000,6 +1985,21 @@
                 "last_commit": "2026-02-25T21:51:30Z",
                 "owner": "jomaway",
                 "repo": "typst-gentle-clues",
+                "stars": 128
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typst-codelst",
+              "description": "A Typst package to render source code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 668258472,
+                "language": "Typst",
+                "last_commit": "2024-10-22T20:42:57Z",
+                "owner": "jneug",
+                "repo": "typst-codelst",
                 "stars": 127
               }
             },
@@ -2246,7 +2246,7 @@
                 "last_commit": "2026-08-24T13:52:08Z",
                 "owner": "typst",
                 "repo": "packages",
-                "stars": 1019
+                "stars": 1020
               }
             },
             {
@@ -2380,7 +2380,7 @@
                 "last_commit": "2026-08-14T19:17:11Z",
                 "owner": "lilaq-project",
                 "repo": "lilaq",
-                "stars": 830
+                "stars": 831
               }
             },
             {
@@ -2392,10 +2392,10 @@
                 "archived": false,
                 "id": 1214590659,
                 "language": "Typst",
-                "last_commit": "2026-08-24T12:05:22Z",
+                "last_commit": "2026-08-24T21:24:39Z",
                 "owner": "mcanouil",
                 "repo": "gribouille",
-                "stars": 255
+                "stars": 256
               }
             },
             {
@@ -2672,7 +2672,7 @@
                     "last_commit": "2026-07-21T03:07:02Z",
                     "owner": "Leedehai",
                     "repo": "typst-physics",
-                    "stars": 611
+                    "stars": 612
                   }
                 },
                 {
@@ -2847,7 +2847,7 @@
                 "last_commit": "2026-08-17T05:12:20Z",
                 "owner": "touying-typ",
                 "repo": "touying",
-                "stars": 2298
+                "stars": 2300
               }
             },
             {
@@ -2920,7 +2920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:00:53.005Z",
+    "last_updated": "2026-08-25T02:33:30.143Z",
     "original_repository": "qjcg/awesome-typst",
     "original_repository_id": 617711757,
     "original_repository_sha": "05d3aba3732d4214541d4f6e3d1e69abdf72113a",
