@@ -388,7 +388,7 @@
                 "last_commit": "2026-08-25T01:08:25Z",
                 "owner": "Myriad-Dreamin",
                 "repo": "tinymist",
-                "stars": 3492
+                "stars": 3493
               }
             },
             {
@@ -433,7 +433,7 @@
                 "last_commit": "2025-04-02T17:33:06Z",
                 "owner": "uben0",
                 "repo": "tree-sitter-typst",
-                "stars": 189
+                "stars": 190
               }
             },
             {
@@ -2920,7 +2920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:33:30.143Z",
+    "last_updated": "2026-08-25T05:51:13.784Z",
     "original_repository": "qjcg/awesome-typst",
     "original_repository_id": 617711757,
     "original_repository_sha": "05d3aba3732d4214541d4f6e3d1e69abdf72113a",
