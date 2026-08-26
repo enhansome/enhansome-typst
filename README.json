@@ -224,7 +224,7 @@
                 "last_commit": "2026-03-04T16:48:00Z",
                 "owner": "textlint",
                 "repo": "textlint-plugin-typst",
-                "stars": 22
+                "stars": 23
               }
             },
             {
@@ -366,7 +366,7 @@
                 "last_commit": "2026-03-27T22:09:07Z",
                 "owner": "dailydaniel",
                 "repo": "typos",
-                "stars": 51
+                "stars": 52
               }
             }
           ],
@@ -385,10 +385,10 @@
                 "archived": false,
                 "id": 768315520,
                 "language": "Rust",
-                "last_commit": "2026-08-25T01:08:25Z",
+                "last_commit": "2026-08-25T23:37:54Z",
                 "owner": "Myriad-Dreamin",
                 "repo": "tinymist",
-                "stars": 3493
+                "stars": 3495
               }
             },
             {
@@ -448,7 +448,7 @@
                 "last_commit": "2026-07-28T19:24:43Z",
                 "owner": "SeniorMars",
                 "repo": "tree-sitter-typst",
-                "stars": 169
+                "stars": 170
               }
             },
             {
@@ -694,7 +694,7 @@
                 "last_commit": "2026-07-03T06:15:02Z",
                 "owner": "Myriad-Dreamin",
                 "repo": "typst.ts",
-                "stars": 1202
+                "stars": 1203
               }
             },
             {
@@ -709,7 +709,7 @@
                 "last_commit": "2026-08-01T11:53:05Z",
                 "owner": "messense",
                 "repo": "typst-py",
-                "stars": 346
+                "stars": 347
               }
             },
             {
@@ -1066,7 +1066,7 @@
                 "last_commit": "2025-03-09T13:58:39Z",
                 "owner": "fredguth",
                 "repo": "tufte-typst",
-                "stars": 38
+                "stars": 39
               }
             },
             {
@@ -1442,7 +1442,7 @@
                     "last_commit": "2025-04-06T21:42:07Z",
                     "owner": "skyzh",
                     "repo": "chicv",
-                    "stars": 724
+                    "stars": 723
                   }
                 },
                 {
@@ -1599,7 +1599,7 @@
                     "last_commit": "2023-04-09T19:03:23Z",
                     "owner": "ice-kylin",
                     "repo": "typst-cv-miku",
-                    "stars": 94
+                    "stars": 95
                   }
                 },
                 {
@@ -1854,7 +1854,7 @@
                     "last_commit": "2025-03-17T07:39:42Z",
                     "owner": "olligobber",
                     "repo": "friggeri-cv",
-                    "stars": 6
+                    "stars": 7
                   }
                 },
                 {
@@ -2243,7 +2243,7 @@
                 "archived": false,
                 "id": 658753624,
                 "language": "Rust",
-                "last_commit": "2026-08-24T13:52:08Z",
+                "last_commit": "2026-08-25T14:57:24Z",
                 "owner": "typst",
                 "repo": "packages",
                 "stars": 1020
@@ -2553,7 +2553,7 @@
                     "last_commit": "2026-06-01T08:46:17Z",
                     "owner": "oldrev",
                     "repo": "tids",
-                    "stars": 39
+                    "stars": 40
                   }
                 }
               ],
@@ -2847,7 +2847,7 @@
                 "last_commit": "2026-08-17T05:12:20Z",
                 "owner": "touying-typ",
                 "repo": "touying",
-                "stars": 2300
+                "stars": 2303
               }
             },
             {
@@ -2920,7 +2920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:51:13.784Z",
+    "last_updated": "2026-08-26T02:41:11.261Z",
     "original_repository": "qjcg/awesome-typst",
     "original_repository_id": 617711757,
     "original_repository_sha": "05d3aba3732d4214541d4f6e3d1e69abdf72113a",
