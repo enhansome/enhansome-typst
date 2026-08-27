@@ -27,7 +27,7 @@
             "archived": false,
             "id": 1042002997,
             "language": "Typst",
-            "last_commit": "2026-08-25T01:00:20Z",
+            "last_commit": "2026-08-26T15:25:27Z",
             "owner": "YDX-2147483647",
             "repo": "best-of-typst",
             "stars": 121
@@ -94,7 +94,7 @@
                 "archived": false,
                 "id": 625450644,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T16:51:10Z",
+                "last_commit": "2026-08-26T16:38:47Z",
                 "owner": "typst-community",
                 "repo": "setup-typst",
                 "stars": 181
@@ -134,7 +134,7 @@
                 "last_commit": "2026-08-02T05:49:02Z",
                 "owner": "typstyle-rs",
                 "repo": "typstyle",
-                "stars": 878
+                "stars": 879
               }
             },
             {
@@ -149,7 +149,7 @@
                 "last_commit": "2026-07-19T10:07:26Z",
                 "owner": "scipenai",
                 "repo": "tylax",
-                "stars": 476
+                "stars": 477
               }
             },
             {
@@ -366,7 +366,7 @@
                 "last_commit": "2026-03-27T22:09:07Z",
                 "owner": "dailydaniel",
                 "repo": "typos",
-                "stars": 52
+                "stars": 53
               }
             }
           ],
@@ -385,10 +385,10 @@
                 "archived": false,
                 "id": 768315520,
                 "language": "Rust",
-                "last_commit": "2026-08-25T23:37:54Z",
+                "last_commit": "2026-08-27T08:16:55Z",
                 "owner": "Myriad-Dreamin",
                 "repo": "tinymist",
-                "stars": 3495
+                "stars": 3497
               }
             },
             {
@@ -433,7 +433,7 @@
                 "last_commit": "2025-04-02T17:33:06Z",
                 "owner": "uben0",
                 "repo": "tree-sitter-typst",
-                "stars": 190
+                "stars": 191
               }
             },
             {
@@ -694,7 +694,7 @@
                 "last_commit": "2026-07-03T06:15:02Z",
                 "owner": "Myriad-Dreamin",
                 "repo": "typst.ts",
-                "stars": 1203
+                "stars": 1204
               }
             },
             {
@@ -1442,7 +1442,7 @@
                     "last_commit": "2025-04-06T21:42:07Z",
                     "owner": "skyzh",
                     "repo": "chicv",
-                    "stars": 723
+                    "stars": 724
                   }
                 },
                 {
@@ -1457,7 +1457,7 @@
                     "last_commit": "2024-12-31T08:58:37Z",
                     "owner": "jskherman",
                     "repo": "imprecv",
-                    "stars": 510
+                    "stars": 512
                   }
                 },
                 {
@@ -1494,7 +1494,7 @@
                     "last_commit": "2026-08-24T03:25:06Z",
                     "owner": "yunanwg",
                     "repo": "brilliant-CV",
-                    "stars": 828
+                    "stars": 830
                   }
                 },
                 {
@@ -1524,7 +1524,7 @@
                     "last_commit": "2025-07-15T12:29:52Z",
                     "owner": "wusyong",
                     "repo": "resume.typ",
-                    "stars": 149
+                    "stars": 150
                   }
                 },
                 {
@@ -1539,7 +1539,7 @@
                     "last_commit": "2024-03-18T22:52:47Z",
                     "owner": "bamboovir",
                     "repo": "typst-resume-template",
-                    "stars": 140
+                    "stars": 141
                   }
                 },
                 {
@@ -1970,7 +1970,7 @@
                 "last_commit": "2025-07-28T17:16:26Z",
                 "owner": "Pablo-Gonzalez-Calderon",
                 "repo": "showybox-package",
-                "stars": 149
+                "stars": 150
               }
             },
             {
@@ -2157,7 +2157,7 @@
                 "last_commit": "2026-07-28T09:04:45Z",
                 "owner": "cetz-package",
                 "repo": "cetz",
-                "stars": 1825
+                "stars": 1826
               }
             },
             {
@@ -2194,7 +2194,7 @@
                 "last_commit": "2025-03-20T10:38:09Z",
                 "owner": "Sematre",
                 "repo": "typst-letter-pro",
-                "stars": 216
+                "stars": 217
               }
             },
             {
@@ -2243,7 +2243,7 @@
                 "archived": false,
                 "id": 658753624,
                 "language": "Rust",
-                "last_commit": "2026-08-25T14:57:24Z",
+                "last_commit": "2026-08-27T09:41:18Z",
                 "owner": "typst",
                 "repo": "packages",
                 "stars": 1020
@@ -2380,7 +2380,7 @@
                 "last_commit": "2026-08-14T19:17:11Z",
                 "owner": "lilaq-project",
                 "repo": "lilaq",
-                "stars": 831
+                "stars": 832
               }
             },
             {
@@ -2462,7 +2462,7 @@
                 "last_commit": "2026-08-21T16:44:59Z",
                 "owner": "jonaspleyer",
                 "repo": "peace-of-posters",
-                "stars": 121
+                "stars": 122
               }
             }
           ],
@@ -2847,7 +2847,7 @@
                 "last_commit": "2026-08-17T05:12:20Z",
                 "owner": "touying-typ",
                 "repo": "touying",
-                "stars": 2303
+                "stars": 2304
               }
             },
             {
@@ -2920,9 +2920,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:41:11.261Z",
-    "original_repository": "qjcg/awesome-typst",
-    "original_repository_id": 617711757,
+    "last_updated": "2026-08-27T11:14:34.919Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 617711757,
+      "language": "Emacs Lisp",
+      "last_commit": "2026-08-07T03:30:15Z",
+      "owner": "qjcg",
+      "repo": "awesome-typst",
+      "stars": 3565
+    },
     "original_repository_sha": "05d3aba3732d4214541d4f6e3d1e69abdf72113a",
     "enhanced_repository": "enhansome/enhansome-typst",
     "enhanced_repository_description": null,
