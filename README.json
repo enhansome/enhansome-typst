@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "SylvanFranklin",
             "repo": "nonsense",
-            "stars": 403,
+            "stars": 404,
             "topics": [
               "ambiguity",
               "funny",
@@ -225,7 +225,7 @@
                 "open_issues": 16,
                 "owner": "scipenai",
                 "repo": "tylax",
-                "stars": 479,
+                "stars": 480,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -246,7 +246,7 @@
                 "open_issues": 5,
                 "owner": "typst-community",
                 "repo": "utpm",
-                "stars": 139,
+                "stars": 140,
                 "topics": [
                   "package-manager",
                   "typst",
@@ -520,7 +520,7 @@
                 "open_issues": 12,
                 "owner": "Bzero",
                 "repo": "typstwriter",
-                "stars": 169,
+                "stars": 170,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -541,7 +541,7 @@
                 "open_issues": 0,
                 "owner": "Omibranch",
                 "repo": "qnote",
-                "stars": 96,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -616,7 +616,7 @@
                 "open_issues": 208,
                 "owner": "Myriad-Dreamin",
                 "repo": "tinymist",
-                "stars": 3506,
+                "stars": 3507,
                 "topics": [
                   "dap",
                   "dap-server",
@@ -1066,7 +1066,7 @@
                 "id": 1133044062,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-31T22:16:32Z",
+                "last_commit": "2026-09-02T04:31:27Z",
                 "open_issues": 8,
                 "owner": "Splines",
                 "repo": "pptypst",
@@ -1131,7 +1131,7 @@
                 "id": 622595297,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-01T11:53:05Z",
+                "last_commit": "2026-09-01T12:13:50Z",
                 "open_issues": 9,
                 "owner": "messense",
                 "repo": "typst-py",
@@ -1343,7 +1343,7 @@
                 "open_issues": 23,
                 "owner": "typst",
                 "repo": "templates",
-                "stars": 420,
+                "stars": 421,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -1395,7 +1395,7 @@
                 "open_issues": 21,
                 "owner": "daskol",
                 "repo": "typst-templates",
-                "stars": 281,
+                "stars": 282,
                 "topics": [
                   "cvpr",
                   "iclr",
@@ -1451,7 +1451,7 @@
                 "open_issues": 5,
                 "owner": "flavio20002",
                 "repo": "typst-orange-template",
-                "stars": 152,
+                "stars": 153,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -2423,7 +2423,7 @@
                     "open_issues": 0,
                     "owner": "tzx",
                     "repo": "NNJR",
-                    "stars": 117,
+                    "stars": 118,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:58:25.937Z"
@@ -3339,7 +3339,7 @@
                 "open_issues": 76,
                 "owner": "cetz-package",
                 "repo": "cetz",
-                "stars": 1831,
+                "stars": 1833,
                 "topics": [
                   "cetz",
                   "typst",
@@ -3464,8 +3464,8 @@
                 "id": 658753624,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T08:05:06Z",
-                "open_issues": 47,
+                "last_commit": "2026-09-01T15:58:39Z",
+                "open_issues": 45,
                 "owner": "typst",
                 "repo": "packages",
                 "stars": 1019,
@@ -3667,7 +3667,7 @@
                 "open_issues": 23,
                 "owner": "lilaq-project",
                 "repo": "lilaq",
-                "stars": 836,
+                "stars": 837,
                 "topics": [
                   "data-science",
                   "plotting",
@@ -3689,7 +3689,7 @@
                 "id": 1214590659,
                 "language": "Typst",
                 "license": "MIT",
-                "last_commit": "2026-08-24T21:24:39Z",
+                "last_commit": "2026-09-01T22:17:46Z",
                 "open_issues": 0,
                 "owner": "mcanouil",
                 "repo": "gribouille",
@@ -3853,7 +3853,7 @@
                     "id": 937377979,
                     "language": "Typst",
                     "license": "MIT",
-                    "last_commit": "2026-08-31T16:16:58Z",
+                    "last_commit": "2026-09-01T11:25:22Z",
                     "open_issues": 3,
                     "owner": "Typsium",
                     "repo": "typsium",
@@ -4349,7 +4349,7 @@
                 "open_issues": 42,
                 "owner": "touying-typ",
                 "repo": "touying",
-                "stars": 2312,
+                "stars": 2319,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -4467,7 +4467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T06:18:13.413Z",
+    "last_updated": "2026-09-02T05:57:20.545Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst Links",
@@ -4479,7 +4479,7 @@
       "open_issues": 8,
       "owner": "qjcg",
       "repo": "awesome-typst",
-      "stars": 3570,
+      "stars": 3572,
       "topics": [
         "awesome",
         "awesome-list",
