@@ -200,7 +200,7 @@
                 "open_issues": 36,
                 "owner": "typstyle-rs",
                 "repo": "typstyle",
-                "stars": 881,
+                "stars": 882,
                 "topics": [
                   "formatter",
                   "typst",
@@ -225,7 +225,7 @@
                 "open_issues": 16,
                 "owner": "scipenai",
                 "repo": "tylax",
-                "stars": 480,
+                "stars": 481,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -491,7 +491,7 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-07-17T12:45:17Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "IgKh",
                 "repo": "katvan",
                 "stars": 184,
@@ -612,11 +612,11 @@
                 "id": 768315520,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T11:58:17Z",
-                "open_issues": 208,
+                "last_commit": "2026-09-04T04:04:34Z",
+                "open_issues": 209,
                 "owner": "Myriad-Dreamin",
                 "repo": "tinymist",
-                "stars": 3509,
+                "stars": 3511,
                 "topics": [
                   "dap",
                   "dap-server",
@@ -646,7 +646,7 @@
                 "open_issues": 37,
                 "owner": "fenjalien",
                 "repo": "obsidian-typst",
-                "stars": 535,
+                "stars": 534,
                 "topics": [
                   "obsidian",
                   "obsidian-md",
@@ -693,7 +693,7 @@
                 "open_issues": 17,
                 "owner": "uben0",
                 "repo": "tree-sitter-typst",
-                "stars": 191,
+                "stars": 192,
                 "topics": [
                   "editors",
                   "helix-editor",
@@ -1070,7 +1070,7 @@
                 "open_issues": 8,
                 "owner": "Splines",
                 "repo": "pptypst",
-                "stars": 141,
+                "stars": 140,
                 "topics": [
                   "math",
                   "office",
@@ -1108,7 +1108,7 @@
                 "open_issues": 54,
                 "owner": "Myriad-Dreamin",
                 "repo": "typst.ts",
-                "stars": 1208,
+                "stars": 1209,
                 "topics": [
                   "browser",
                   "nodejs",
@@ -1392,7 +1392,7 @@
                 "language": "Typst",
                 "license": "MIT",
                 "last_commit": "2026-05-10T14:33:16Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "daskol",
                 "repo": "typst-templates",
                 "stars": 282,
@@ -1451,7 +1451,7 @@
                 "open_issues": 5,
                 "owner": "flavio20002",
                 "repo": "typst-orange-template",
-                "stars": 154,
+                "stars": 155,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -2052,27 +2052,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "typst-assignment-template",
-              "description": "Yet another simple assignment template with a cover and several useful math symbols.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 623598085,
-                "language": "Typst",
-                "license": null,
-                "last_commit": "2025-03-24T15:49:25Z",
-                "open_issues": 0,
-                "owner": "gRox167",
-                "repo": "typst-assignment-template",
-                "stars": 58,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T12:58:25.937Z"
-            },
-            {
-              "node_type": "item",
               "title": "typst-teacher-template",
               "description": "A collection of Typst templates. Mainly used to create worksheets and exams for classes..",
               "children": [],
@@ -2088,6 +2067,27 @@
                 "owner": "jomaway",
                 "repo": "typst-teacher-templates",
                 "stars": 58,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T12:58:25.937Z"
+            },
+            {
+              "node_type": "item",
+              "title": "typst-assignment-template",
+              "description": "Yet another simple assignment template with a cover and several useful math symbols.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 623598085,
+                "language": "Typst",
+                "license": null,
+                "last_commit": "2025-03-24T15:49:25Z",
+                "open_issues": 0,
+                "owner": "gRox167",
+                "repo": "typst-assignment-template",
+                "stars": 57,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -2150,7 +2150,7 @@
                 "open_issues": 0,
                 "owner": "AntoniosBarotsis",
                 "repo": "typst-assignment-template",
-                "stars": 15,
+                "stars": 14,
                 "topics": [
                   "assignment",
                   "template",
@@ -2330,7 +2330,7 @@
                     "open_issues": 2,
                     "owner": "yunanwg",
                     "repo": "brilliant-CV",
-                    "stars": 832,
+                    "stars": 834,
                     "topics": [
                       "cv",
                       "pdf",
@@ -3464,8 +3464,8 @@
                 "id": 658753624,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T10:12:06Z",
-                "open_issues": 43,
+                "last_commit": "2026-09-03T09:41:21Z",
+                "open_issues": 44,
                 "owner": "typst",
                 "repo": "packages",
                 "stars": 1019,
@@ -3667,7 +3667,7 @@
                 "open_issues": 23,
                 "owner": "lilaq-project",
                 "repo": "lilaq",
-                "stars": 837,
+                "stars": 838,
                 "topics": [
                   "data-science",
                   "plotting",
@@ -3693,7 +3693,7 @@
                 "open_issues": 0,
                 "owner": "mcanouil",
                 "repo": "gribouille",
-                "stars": 261,
+                "stars": 262,
                 "topics": [
                   "chart",
                   "data-visualisation",
@@ -4349,7 +4349,7 @@
                 "open_issues": 42,
                 "owner": "touying-typ",
                 "repo": "touying",
-                "stars": 2318,
+                "stars": 2321,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -4467,7 +4467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T05:56:05.864Z",
+    "last_updated": "2026-09-04T06:02:44.575Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst Links",
@@ -4479,7 +4479,7 @@
       "open_issues": 8,
       "owner": "qjcg",
       "repo": "awesome-typst",
-      "stars": 3574,
+      "stars": 3576,
       "topics": [
         "awesome",
         "awesome-list",
