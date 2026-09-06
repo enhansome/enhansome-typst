@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "SylvanFranklin",
             "repo": "nonsense",
-            "stars": 406,
+            "stars": 405,
             "topics": [
               "ambiguity",
               "funny",
@@ -143,7 +143,7 @@
                 "open_issues": 0,
                 "owner": "typst-community",
                 "repo": "setup-typst",
-                "stars": 181,
+                "stars": 182,
                 "topics": [
                   "action",
                   "compiler",
@@ -200,7 +200,7 @@
                 "open_issues": 36,
                 "owner": "typstyle-rs",
                 "repo": "typstyle",
-                "stars": 882,
+                "stars": 884,
                 "topics": [
                   "formatter",
                   "typst",
@@ -225,7 +225,7 @@
                 "open_issues": 16,
                 "owner": "scipenai",
                 "repo": "tylax",
-                "stars": 482,
+                "stars": 483,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -428,7 +428,7 @@
                 "open_issues": 42,
                 "owner": "soupslurpr",
                 "repo": "BeauTyXT",
-                "stars": 226,
+                "stars": 225,
                 "topics": [
                   "android",
                   "file-editor",
@@ -465,7 +465,7 @@
                 "open_issues": 9,
                 "owner": "Academic-ID",
                 "repo": "sapienAI",
-                "stars": 206,
+                "stars": 205,
                 "topics": [
                   "academia",
                   "academic",
@@ -490,7 +490,7 @@
                 "id": 744852092,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-07-17T12:45:17Z",
+                "last_commit": "2026-09-05T17:13:23Z",
                 "open_issues": 12,
                 "owner": "IgKh",
                 "repo": "katvan",
@@ -612,11 +612,11 @@
                 "id": 768315520,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T07:26:50Z",
+                "last_commit": "2026-09-06T06:01:29Z",
                 "open_issues": 209,
                 "owner": "Myriad-Dreamin",
                 "repo": "tinymist",
-                "stars": 3511,
+                "stars": 3513,
                 "topics": [
                   "dap",
                   "dap-server",
@@ -693,7 +693,7 @@
                 "open_issues": 17,
                 "owner": "uben0",
                 "repo": "tree-sitter-typst",
-                "stars": 192,
+                "stars": 193,
                 "topics": [
                   "editors",
                   "helix-editor",
@@ -1105,10 +1105,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-31T05:27:04Z",
-                "open_issues": 54,
+                "open_issues": 59,
                 "owner": "Myriad-Dreamin",
                 "repo": "typst.ts",
-                "stars": 1210,
+                "stars": 1211,
                 "topics": [
                   "browser",
                   "nodejs",
@@ -1135,7 +1135,7 @@
                 "open_issues": 9,
                 "owner": "messense",
                 "repo": "typst-py",
-                "stars": 350,
+                "stars": 351,
                 "topics": [
                   "typst"
                 ]
@@ -1256,8 +1256,8 @@
                 "id": 722832140,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T11:32:45Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-06T05:05:00Z",
+                "open_issues": 2,
                 "owner": "actsasflinn",
                 "repo": "typst-rb",
                 "stars": 41,
@@ -2330,7 +2330,7 @@
                     "open_issues": 2,
                     "owner": "yunanwg",
                     "repo": "brilliant-CV",
-                    "stars": 834,
+                    "stars": 835,
                     "topics": [
                       "cv",
                       "pdf",
@@ -3069,7 +3069,7 @@
                 "open_issues": 9,
                 "owner": "Pablo-Gonzalez-Calderon",
                 "repo": "showybox-package",
-                "stars": 150,
+                "stars": 149,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -3465,7 +3465,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T13:45:46Z",
-                "open_issues": 46,
+                "open_issues": 52,
                 "owner": "typst",
                 "repo": "packages",
                 "stars": 1021,
@@ -3489,7 +3489,7 @@
                 "open_issues": 6,
                 "owner": "lynn",
                 "repo": "typst-syntree",
-                "stars": 52,
+                "stars": 51,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -3613,7 +3613,7 @@
                 "open_issues": 4,
                 "owner": "sitandr",
                 "repo": "conchord",
-                "stars": 102,
+                "stars": 103,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -3634,7 +3634,7 @@
                 "open_issues": 3,
                 "owner": "ljgago",
                 "repo": "typst-chords",
-                "stars": 72,
+                "stars": 73,
                 "topics": [
                   "chords",
                   "guitar",
@@ -4111,7 +4111,7 @@
                     "open_issues": 8,
                     "owner": "Leedehai",
                     "repo": "typst-physics",
-                    "stars": 611,
+                    "stars": 610,
                     "topics": [
                       "typst",
                       "typst-package"
@@ -4349,7 +4349,7 @@
                 "open_issues": 42,
                 "owner": "touying-typ",
                 "repo": "touying",
-                "stars": 2321,
+                "stars": 2323,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -4377,7 +4377,7 @@
                 "open_issues": 98,
                 "owner": "polylux-typ",
                 "repo": "polylux",
-                "stars": 1600,
+                "stars": 1602,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -4406,7 +4406,7 @@
                 "open_issues": 12,
                 "owner": "OrangeX4",
                 "repo": "typst-pinit",
-                "stars": 328,
+                "stars": 327,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -4467,7 +4467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T05:52:52.347Z",
+    "last_updated": "2026-09-06T06:04:46.234Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst Links",
