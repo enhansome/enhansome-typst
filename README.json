@@ -200,7 +200,7 @@
                 "open_issues": 36,
                 "owner": "typstyle-rs",
                 "repo": "typstyle",
-                "stars": 884,
+                "stars": 885,
                 "topics": [
                   "formatter",
                   "typst",
@@ -222,10 +222,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-19T10:07:26Z",
-                "open_issues": 18,
+                "open_issues": 20,
                 "owner": "scipenai",
                 "repo": "tylax",
-                "stars": 484,
+                "stars": 486,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -246,7 +246,7 @@
                 "open_issues": 6,
                 "owner": "typst-community",
                 "repo": "utpm",
-                "stars": 142,
+                "stars": 143,
                 "topics": [
                   "package-manager",
                   "typst",
@@ -465,7 +465,7 @@
                 "open_issues": 9,
                 "owner": "Academic-ID",
                 "repo": "sapienAI",
-                "stars": 205,
+                "stars": 206,
                 "topics": [
                   "academia",
                   "academic",
@@ -490,7 +490,7 @@
                 "id": 744852092,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-05T17:13:23Z",
+                "last_commit": "2026-09-07T18:30:41Z",
                 "open_issues": 12,
                 "owner": "IgKh",
                 "repo": "katvan",
@@ -588,7 +588,7 @@
                 "open_issues": 2,
                 "owner": "dailydaniel",
                 "repo": "typos",
-                "stars": 57,
+                "stars": 58,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -612,11 +612,11 @@
                 "id": 768315520,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T05:23:56Z",
+                "last_commit": "2026-09-08T02:19:06Z",
                 "open_issues": 210,
                 "owner": "Myriad-Dreamin",
                 "repo": "tinymist",
-                "stars": 3514,
+                "stars": 3515,
                 "topics": [
                   "dap",
                   "dap-server",
@@ -1108,7 +1108,7 @@
                 "open_issues": 59,
                 "owner": "Myriad-Dreamin",
                 "repo": "typst.ts",
-                "stars": 1211,
+                "stars": 1213,
                 "topics": [
                   "browser",
                   "nodejs",
@@ -1135,7 +1135,7 @@
                 "open_issues": 9,
                 "owner": "messense",
                 "repo": "typst-py",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "typst"
                 ]
@@ -1154,7 +1154,7 @@
                 "id": 735205303,
                 "language": "Nix",
                 "license": "MIT",
-                "last_commit": "2026-08-22T09:01:21Z",
+                "last_commit": "2026-09-07T14:26:09Z",
                 "open_issues": 7,
                 "owner": "loqusion",
                 "repo": "typix",
@@ -1256,7 +1256,7 @@
                 "id": 722832140,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T05:52:38Z",
+                "last_commit": "2026-09-08T02:24:55Z",
                 "open_issues": 2,
                 "owner": "actsasflinn",
                 "repo": "typst-rb",
@@ -1340,7 +1340,7 @@
                 "language": "Typst",
                 "license": "MIT-0",
                 "last_commit": "2026-03-20T11:03:54Z",
-                "open_issues": 24,
+                "open_issues": 23,
                 "owner": "typst",
                 "repo": "templates",
                 "stars": 421,
@@ -1980,6 +1980,29 @@
             },
             {
               "node_type": "item",
+              "title": "HSOS-PTP-Typst-Template",
+              "description": "A German template for writing papers, overfitted for the Osnabrück University of Applied Sciences.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Typst Template für Praxistransferprojekte (PTPe) an der Hochschule Osnabrück",
+                "homepage": null,
+                "id": 748768468,
+                "language": "Typst",
+                "license": null,
+                "last_commit": "2024-11-19T07:07:47Z",
+                "open_issues": 0,
+                "owner": "mst2k",
+                "repo": "HSOS-PTP-Typst-Template",
+                "stars": 4,
+                "topics": [
+                  "typst-template"
+                ]
+              },
+              "first_seen": "2026-08-28T12:58:25.937Z"
+            },
+            {
+              "node_type": "item",
               "title": "french-association-status",
               "description": "A Template to write status for french associations.",
               "children": [],
@@ -1996,29 +2019,6 @@
                 "repo": "typst-association-statuts",
                 "stars": 4,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T12:58:25.937Z"
-            },
-            {
-              "node_type": "item",
-              "title": "HSOS-PTP-Typst-Template",
-              "description": "A German template for writing papers, overfitted for the Osnabrück University of Applied Sciences.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Typst Template für Praxistransferprojekte (PTPe) an der Hochschule Osnabrück",
-                "homepage": null,
-                "id": 748768468,
-                "language": "Typst",
-                "license": null,
-                "last_commit": "2024-11-19T07:07:47Z",
-                "open_issues": 0,
-                "owner": "mst2k",
-                "repo": "HSOS-PTP-Typst-Template",
-                "stars": 3,
-                "topics": [
-                  "typst-template"
-                ]
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
             },
@@ -3464,11 +3464,11 @@
                 "id": 658753624,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T13:45:46Z",
-                "open_issues": 58,
+                "last_commit": "2026-09-07T14:26:45Z",
+                "open_issues": 62,
                 "owner": "typst",
                 "repo": "packages",
-                "stars": 1022,
+                "stars": 1023,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -3510,7 +3510,7 @@
                 "open_issues": 3,
                 "owner": "imatpot",
                 "repo": "typst-ascii-ipa",
-                "stars": 22,
+                "stars": 23,
                 "topics": [
                   "branner",
                   "conlang",
@@ -3664,7 +3664,7 @@
                 "language": "Typst",
                 "license": "MIT",
                 "last_commit": "2026-08-14T19:17:11Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "lilaq-project",
                 "repo": "lilaq",
                 "stars": 840,
@@ -3775,7 +3775,7 @@
                 "open_issues": 2,
                 "owner": "pncnmnp",
                 "repo": "typst-poster",
-                "stars": 155,
+                "stars": 156,
                 "topics": [
                   "poster-template",
                   "typst"
@@ -4345,11 +4345,11 @@
                 "id": 740802677,
                 "language": "Typst",
                 "license": "MIT",
-                "last_commit": "2026-09-06T23:08:45Z",
-                "open_issues": 42,
+                "last_commit": "2026-09-07T13:15:20Z",
+                "open_issues": 38,
                 "owner": "touying-typ",
                 "repo": "touying",
-                "stars": 2325,
+                "stars": 2326,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -4427,7 +4427,7 @@
                 "open_issues": 2,
                 "owner": "lvignoli",
                 "repo": "diapo",
-                "stars": 54,
+                "stars": 55,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -4467,7 +4467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T06:12:34.683Z",
+    "last_updated": "2026-09-08T06:02:22.382Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst Links",
