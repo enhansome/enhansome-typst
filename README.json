@@ -46,8 +46,8 @@
             "id": 1042002997,
             "language": "Typst",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-07T05:44:29Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-08T13:42:46Z",
+            "open_issues": 4,
             "owner": "YDX-2147483647",
             "repo": "best-of-typst",
             "stars": 121,
@@ -222,10 +222,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-19T10:07:26Z",
-                "open_issues": 20,
+                "open_issues": 17,
                 "owner": "scipenai",
                 "repo": "tylax",
-                "stars": 486,
+                "stars": 485,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -612,11 +612,11 @@
                 "id": 768315520,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T02:19:06Z",
-                "open_issues": 210,
+                "last_commit": "2026-09-08T09:55:32Z",
+                "open_issues": 209,
                 "owner": "Myriad-Dreamin",
                 "repo": "tinymist",
-                "stars": 3515,
+                "stars": 3516,
                 "topics": [
                   "dap",
                   "dap-server",
@@ -1105,10 +1105,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-31T05:27:04Z",
-                "open_issues": 59,
+                "open_issues": 60,
                 "owner": "Myriad-Dreamin",
                 "repo": "typst.ts",
-                "stars": 1213,
+                "stars": 1215,
                 "topics": [
                   "browser",
                   "nodejs",
@@ -1395,7 +1395,7 @@
                 "open_issues": 22,
                 "owner": "daskol",
                 "repo": "typst-templates",
-                "stars": 282,
+                "stars": 283,
                 "topics": [
                   "cvpr",
                   "iclr",
@@ -2423,7 +2423,7 @@
                     "open_issues": 0,
                     "owner": "tzx",
                     "repo": "NNJR",
-                    "stars": 119,
+                    "stars": 120,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:58:25.937Z"
@@ -3336,10 +3336,10 @@
                 "language": "Typst",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-08-31T17:52:44Z",
-                "open_issues": 76,
+                "open_issues": 77,
                 "owner": "cetz-package",
                 "repo": "cetz",
-                "stars": 1837,
+                "stars": 1839,
                 "topics": [
                   "cetz",
                   "typst",
@@ -3464,11 +3464,11 @@
                 "id": 658753624,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T14:26:45Z",
-                "open_issues": 62,
+                "last_commit": "2026-09-08T10:56:01Z",
+                "open_issues": 70,
                 "owner": "typst",
                 "repo": "packages",
-                "stars": 1023,
+                "stars": 1024,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -4345,7 +4345,7 @@
                 "id": 740802677,
                 "language": "Typst",
                 "license": "MIT",
-                "last_commit": "2026-09-07T13:15:20Z",
+                "last_commit": "2026-09-09T00:14:26Z",
                 "open_issues": 38,
                 "owner": "touying-typ",
                 "repo": "touying",
@@ -4467,7 +4467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T06:02:22.382Z",
+    "last_updated": "2026-09-09T06:06:41.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst Links",
@@ -4479,7 +4479,7 @@
       "open_issues": 8,
       "owner": "qjcg",
       "repo": "awesome-typst",
-      "stars": 3577,
+      "stars": 3578,
       "topics": [
         "awesome",
         "awesome-list",
