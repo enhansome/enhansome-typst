@@ -5,7 +5,7 @@
 
 # Awesome Typst with stars
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 506,145 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 506,474 | 🐛 106 | 📅 2026-09-02
 
 Curated collection of useful links for Typst users.
 
@@ -52,7 +52,7 @@ Contributions are welcome!
 
 * [typst.app](https://typst.app) - The Typst web app.
 * [Typst Documentation](https://typst.app/docs) - The official Typst documentation.
-* [GitHub](https://github.com/typst/typst) ⭐ 56,015 | 🐛 1,295 | 🌐 Rust | 📅 2026-09-15 - The official Typst repository.
+* [GitHub](https://github.com/typst/typst) ⭐ 56,042 | 🐛 1,295 | 🌐 Rust | 📅 2026-09-15 - The official Typst repository.
 * [Blog](https://typst.app/blog/) - The official Typst blog.
 * Social - [Discord] [Instagram] [LinkedIn] [Mastodon] [bluesky]
 
@@ -98,8 +98,8 @@ Contributions are welcome!
 ### CLI Tools
 
 * [typstyle](https://github.com/typstyle-rs/typstyle) ⭐ 886 | 🐛 38 | 🌐 Rust | 📅 2026-08-02 - Opinionated typst code formatter focusing on aesthetic, convergence and correctness.
-* [Tylax](https://github.com/scipenai/tylax) ⭐ 493 | 🐛 17 | 🌐 Rust | 📅 2026-09-14 - A bidirectional LaTeX-Typst converter based on AST parsing, with support for TikZ graphics.
-* [utpm](https://github.com/typst-community/utpm) ⭐ 144 | 🐛 6 | 🌐 Rust | 📅 2026-05-23 - *Package manager* for **[local](https://github.com/typst/packages#local-packages) ⭐ 1,027 | 🐛 73 | 🌐 Rust | 📅 2026-09-14** and **[remote](https://github.com/typst/packages) ⭐ 1,027 | 🐛 73 | 🌐 Rust | 📅 2026-09-14** Typst packages.
+* [Tylax](https://github.com/scipenai/tylax) ⭐ 494 | 🐛 17 | 🌐 Rust | 📅 2026-09-14 - A bidirectional LaTeX-Typst converter based on AST parsing, with support for TikZ graphics.
+* [utpm](https://github.com/typst-community/utpm) ⭐ 144 | 🐛 6 | 🌐 Rust | 📅 2026-05-23 - *Package manager* for **[local](https://github.com/typst/packages#local-packages) ⭐ 1,027 | 🐛 80 | 🌐 Rust | 📅 2026-09-15** and **[remote](https://github.com/typst/packages) ⭐ 1,027 | 🐛 80 | 🌐 Rust | 📅 2026-09-15** Typst packages.
 * [typst-live](https://github.com/ItsEthra/typst-live) ⭐ 136 | 🐛 9 | 🌐 Rust | 📅 2026-02-23 - Hot reloading of pdf in web browser.
 * [typst-pandoc](https://github.com/lvignoli/typst-pandoc) ⚠️ Archived - Typst custom reader and writer for Pandoc.
 * [Tyler](https://github.com/mkpoli/tyler) ⭐ 34 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-04 - Package compiler for the ease of packaging and publishing Typst libraries and templates.
@@ -110,7 +110,7 @@ Contributions are welcome!
 ### Editors
 
 * [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) ⭐ 226 | 🐛 42 | 🌐 Kotlin | 📅 2026-04-02 - A private, secure, minimalistic Text, Markdown, and Typst editor for Android.
-* [AcademicID](https://github.com/Academic-ID/sapienAI) ⭐ 206 | 🐛 9 | 🌐 Shell | 📅 2026-06-13 - A self-hosted academic-focused AI chatbot and research workspace with a Typst, Markdown, and Text editor.
+* [AcademicID](https://github.com/Academic-ID/sapienAI) ⭐ 207 | 🐛 9 | 🌐 Shell | 📅 2026-06-13 - A self-hosted academic-focused AI chatbot and research workspace with a Typst, Markdown, and Text editor.
 * [Katvan](https://github.com/IgKh/katvan) ⭐ 185 | 🐛 12 | 🌐 C++ | 📅 2026-09-12 - A bare-bones editor for Typst files, with a bias for Right-to-Left editing.
 * [Typstwriter](https://github.com/Bzero/typstwriter) ⭐ 171 | 🐛 12 | 🌐 Python | 📅 2026-07-21 - An integrated desktop editor for Typst projects.
 * [qnote](https://github.com/Omibranch/qnote) ⚠️ Archived - Minimal frameless notepad for Linux with Markdown support and PDF export via Typst, plus OCR and version history.
@@ -120,8 +120,8 @@ Contributions are welcome!
 
 ### Editor Integrations
 
-* [Tinymist](https://github.com/Myriad-Dreamin/tinymist) ⭐ 3,533 | 🐛 211 | 🌐 Rust | 📅 2026-09-14 - A language server for Typst with integrations for Emacs, Helix, Neovim, Sublime Text, VSCode/VsCodium, and Zed.
-* [obsidian-typst](https://github.com/fenjalien/obsidian-typst) ⭐ 533 | 🐛 37 | 🌐 TypeScript | 📅 2024-11-03 - Renders Typst code blocks in Obsidian into images using Typst through the power of WebAssembly!
+* [Tinymist](https://github.com/Myriad-Dreamin/tinymist) ⭐ 3,536 | 🐛 213 | 🌐 Rust | 📅 2026-09-15 - A language server for Typst with integrations for Emacs, Helix, Neovim, Sublime Text, VSCode/VsCodium, and Zed.
+* [obsidian-typst](https://github.com/fenjalien/obsidian-typst) ⭐ 532 | 🐛 37 | 🌐 TypeScript | 📅 2024-11-03 - Renders Typst code blocks in Obsidian into images using Typst through the power of WebAssembly!
 * [typst.vim](https://github.com/kaarmu/typst.vim) ⭐ 385 | 🐛 20 | 🌐 Vim Script | 📅 2025-12-17 - Vim plugin for Typst.
 * [uben0/tree-sitter-typst](https://github.com/uben0/tree-sitter-typst) ⭐ 193 | 🐛 17 | 🌐 C | 📅 2025-04-02 - A TreeSitter grammar for the Typst language, used by Helix.
 * [SeniorMars/tree-sitter-typst](https://github.com/SeniorMars/tree-sitter-typst) ⭐ 170 | 🐛 8 | 🌐 C | 📅 2026-07-28 - A TreeSitter parser for the Typst file format.
@@ -141,14 +141,14 @@ Contributions are welcome!
 
 ### Online Tools
 
-* [Detypify](https://github.com/QuarticCat/detypify) ⭐ 263 | 🐛 1 | 🌐 Python | 📅 2026-09-13 - Typst symbol classifier.
+* [Detypify](https://github.com/QuarticCat/detypify) ⭐ 262 | 🐛 1 | 🌐 Python | 📅 2026-09-13 - Typst symbol classifier.
 * [excel-to-typst](https://github.com/hongjr03/excel-to-typst) ⭐ 37 | 🐛 0 | 🌐 HTML | 📅 2025-02-18 - A tool that convert Excel tables to Typst table, can work in uploading .xlsx file or pasting.
 * [typst-online-editor](https://github.com/Mapaor/typst-online-editor) ⭐ 25 | 🐛 1 | 🌐 TypeScript | 📅 2026-01-05 - A serverless (client-side) Typst editor powered by WebAssembly.
 * [sublimated](https://sublimated.com/docs/typst/index.md) - A tool that syncs Typst files online with versioning and renders web version and PDF.
 
 ### Office
 
-* [pptypst](https://github.com/Splines/pptypst) ⭐ 142 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-02 - Bring the power of Typst to PowerPoint.
+* [pptypst](https://github.com/Splines/pptypst) ⭐ 144 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-02 - Bring the power of Typst to PowerPoint.
 
 ### Programming
 
@@ -170,7 +170,7 @@ Contributions are welcome!
 
 ### Official
 
-* [typst/templates](https://github.com/typst/templates) ⭐ 421 | 🐛 23 | 🌐 Typst | 📅 2026-03-20 - The templates that ship with the Typst web app.
+* [typst/templates](https://github.com/typst/templates) ⭐ 422 | 🐛 23 | 🌐 Typst | 📅 2026-03-20 - The templates that ship with the Typst web app.
 
 ### General
 
@@ -323,7 +323,7 @@ Contributions are welcome!
 
 ### Linguistics
 
-* [tyipa](https://github.com/typst/packages/tree/main/packages/preview/tyipa/0.1.0) ⭐ 1,027 | 🐛 73 | 🌐 Rust | 📅 2026-09-14 - Write phonetic transcriptions using the IPA, in a *typsty* style.
+* [tyipa](https://github.com/typst/packages/tree/main/packages/preview/tyipa/0.1.0) ⭐ 1,027 | 🐛 80 | 🌐 Rust | 📅 2026-09-15 - Write phonetic transcriptions using the IPA, in a *typsty* style.
 * [typst-syntree](https://github.com/lynn/typst-syntree) ⭐ 51 | 🐛 7 | 🌐 Typst | 📅 2026-07-06 - Syntax trees for Typst.
 * [typst-ipa](https://github.com/imatpot/typst-ascii-ipa) ⭐ 23 | 🐛 3 | 🌐 Typst | 📅 2026-07-07 - 🔄 ASCII / IPA conversion for Typst.
 * [eggs](https://github.com/retroflexivity/typst-eggs) ⭐ 18 | 🐛 4 | 🌐 Typst | 📅 2026-09-02 - Linguistics examples and glosses with minimalist syntax.
@@ -339,7 +339,7 @@ Contributions are welcome!
 
 ### Plotting
 
-* [lilaq](https://github.com/lilaq-project/lilaq) ⭐ 842 | 🐛 25 | 🌐 Typst | 📅 2026-08-14 - Advanced data visualization with Typst, easy to use, customizable, sane defaults.
+* [lilaq](https://github.com/lilaq-project/lilaq) ⭐ 843 | 🐛 25 | 🌐 Typst | 📅 2026-08-14 - Advanced data visualization with Typst, easy to use, customizable, sane defaults.
 * [Gribouille](https://github.com/mcanouil/gribouille) ⭐ 264 | 🐛 0 | 🌐 Typst | 📅 2026-09-01 - Create elegant graphics with the Grammar of Graphics for Typst.
 * [typst-plotting](https://github.com/Chayraaa/typst-plotting) ⚠️ Archived - A library for drawing a variety of charts and plots like line charts, histograms, and pie charts.
 * [typst-plot](https://github.com/johannes-wolf/typst-plot) ⚠️ Archived - A library for plotting line charts (deprecated in favor of CeTZ).
@@ -354,7 +354,7 @@ Contributions are welcome!
 #### Chemistry
 
 * [alchemist](https://github.com/Typsium/alchemist) ⭐ 47 | 🐛 5 | 🌐 Typst | 📅 2026-08-04 - Render skeletal formulas in a human-readable format using cetz.
-* [typsium](https://github.com/Typsium/typsium) ⭐ 44 | 🐛 4 | 🌐 Typst | 📅 2026-09-01 - Typeset chemical formulas and reactions.
+* [typsium](https://github.com/Typsium/typsium) ⭐ 44 | 🐛 5 | 🌐 Typst | 📅 2026-09-01 - Typeset chemical formulas and reactions.
 
 #### Engineering
 
@@ -376,7 +376,7 @@ Contributions are welcome!
 
 <!--lint ignore awesome-spell-check-->
 
-* [physica](https://github.com/Leedehai/typst-physics) ⭐ 611 | 🐛 8 | 🌐 Typst | 📅 2026-09-12 - A library for usual physics notations, e.g. vectors and vector fields, matrices, differentials, derivatives, Dirac brackets, tensors, isotopes, and digital signal sequences.
+* [physica](https://github.com/Leedehai/typst-physics) ⭐ 612 | 🐛 8 | 🌐 Typst | 📅 2026-09-12 - A library for usual physics notations, e.g. vectors and vector fields, matrices, differentials, derivatives, Dirac brackets, tensors, isotopes, and digital signal sequences.
 
 ##### Conferences
 
@@ -401,7 +401,7 @@ Contributions are welcome!
 
 ### Slides
 
-* [touying](https://github.com/touying-typ/touying) ⭐ 2,332 | 🐛 37 | 🌐 Typst | 📅 2026-09-14 - A powerful package for creating presentation slides in Typst.
+* [touying](https://github.com/touying-typ/touying) ⭐ 2,332 | 🐛 35 | 🌐 Typst | 📅 2026-09-15 - A powerful package for creating presentation slides in Typst.
 * [polylux](https://github.com/polylux-typ/polylux) ⭐ 1,606 | 🐛 98 | 🌐 Typst | 📅 2026-02-28 - Create presentation slides in Typst.
 * [pinit](https://github.com/OrangeX4/typst-pinit) ⭐ 328 | 🐛 12 | 🌐 Typst | 📅 2025-05-20 - Pin things as you like, especially useful for creating slides in Typst..
 * [diapo](https://github.com/lvignoli/diapo) ⭐ 55 | 🐛 2 | 📅 2023-09-10 - A minimal and simplistic presentation template.
@@ -409,4 +409,4 @@ Contributions are welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._

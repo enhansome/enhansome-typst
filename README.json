@@ -225,7 +225,7 @@
                 "open_issues": 17,
                 "owner": "scipenai",
                 "repo": "tylax",
-                "stars": 493,
+                "stars": 494,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -465,7 +465,7 @@
                 "open_issues": 9,
                 "owner": "Academic-ID",
                 "repo": "sapienAI",
-                "stars": 206,
+                "stars": 207,
                 "topics": [
                   "academia",
                   "academic",
@@ -612,11 +612,11 @@
                 "id": 768315520,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T17:30:53Z",
-                "open_issues": 211,
+                "last_commit": "2026-09-15T14:59:00Z",
+                "open_issues": 213,
                 "owner": "Myriad-Dreamin",
                 "repo": "tinymist",
-                "stars": 3533,
+                "stars": 3536,
                 "topics": [
                   "dap",
                   "dap-server",
@@ -646,7 +646,7 @@
                 "open_issues": 37,
                 "owner": "fenjalien",
                 "repo": "obsidian-typst",
-                "stars": 533,
+                "stars": 532,
                 "topics": [
                   "obsidian",
                   "obsidian-md",
@@ -990,7 +990,7 @@
                 "open_issues": 1,
                 "owner": "QuarticCat",
                 "repo": "detypify",
-                "stars": 263,
+                "stars": 262,
                 "topics": [
                   "image-classification",
                   "typst"
@@ -1070,7 +1070,7 @@
                 "open_issues": 8,
                 "owner": "Splines",
                 "repo": "pptypst",
-                "stars": 142,
+                "stars": 144,
                 "topics": [
                   "math",
                   "office",
@@ -1343,7 +1343,7 @@
                 "open_issues": 23,
                 "owner": "typst",
                 "repo": "templates",
-                "stars": 421,
+                "stars": 422,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -3464,8 +3464,8 @@
                 "id": 658753624,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T09:51:43Z",
-                "open_issues": 73,
+                "last_commit": "2026-09-15T12:15:32Z",
+                "open_issues": 80,
                 "owner": "typst",
                 "repo": "packages",
                 "stars": 1027,
@@ -3667,7 +3667,7 @@
                 "open_issues": 25,
                 "owner": "lilaq-project",
                 "repo": "lilaq",
-                "stars": 842,
+                "stars": 843,
                 "topics": [
                   "data-science",
                   "plotting",
@@ -3854,7 +3854,7 @@
                     "language": "Typst",
                     "license": "MIT",
                     "last_commit": "2026-09-01T11:25:22Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "Typsium",
                     "repo": "typsium",
                     "stars": 44,
@@ -4111,7 +4111,7 @@
                     "open_issues": 8,
                     "owner": "Leedehai",
                     "repo": "typst-physics",
-                    "stars": 611,
+                    "stars": 612,
                     "topics": [
                       "typst",
                       "typst-package"
@@ -4345,8 +4345,8 @@
                 "id": 740802677,
                 "language": "Typst",
                 "license": "MIT",
-                "last_commit": "2026-09-14T20:50:42Z",
-                "open_issues": 37,
+                "last_commit": "2026-09-15T23:35:01Z",
+                "open_issues": 35,
                 "owner": "touying-typ",
                 "repo": "touying",
                 "stars": 2332,
@@ -4467,7 +4467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T06:13:31.358Z",
+    "last_updated": "2026-09-16T06:11:10.239Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst Links",
