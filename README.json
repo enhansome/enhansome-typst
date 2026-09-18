@@ -46,8 +46,8 @@
             "id": 1042002997,
             "language": "Typst",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-17T00:46:08Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-18T00:48:34Z",
+            "open_issues": 8,
             "owner": "YDX-2147483647",
             "repo": "best-of-typst",
             "stars": 123,
@@ -197,7 +197,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T07:31:40Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "typstyle-rs",
                 "repo": "typstyle",
                 "stars": 887,
@@ -225,7 +225,7 @@
                 "open_issues": 17,
                 "owner": "scipenai",
                 "repo": "tylax",
-                "stars": 494,
+                "stars": 495,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -612,11 +612,11 @@
                 "id": 768315520,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T23:33:41Z",
+                "last_commit": "2026-09-18T03:00:21Z",
                 "open_issues": 211,
                 "owner": "Myriad-Dreamin",
                 "repo": "tinymist",
-                "stars": 3536,
+                "stars": 3539,
                 "topics": [
                   "dap",
                   "dap-server",
@@ -990,7 +990,7 @@
                 "open_issues": 1,
                 "owner": "QuarticCat",
                 "repo": "detypify",
-                "stars": 262,
+                "stars": 263,
                 "topics": [
                   "image-classification",
                   "typst"
@@ -1108,7 +1108,7 @@
                 "open_issues": 60,
                 "owner": "Myriad-Dreamin",
                 "repo": "typst.ts",
-                "stars": 1218,
+                "stars": 1219,
                 "topics": [
                   "browser",
                   "nodejs",
@@ -2247,7 +2247,7 @@
                     "open_issues": 2,
                     "owner": "skyzh",
                     "repo": "chicv",
-                    "stars": 725,
+                    "stars": 726,
                     "topics": [
                       "template",
                       "typst",
@@ -2272,7 +2272,7 @@
                     "open_issues": 11,
                     "owner": "jskherman",
                     "repo": "imprecv",
-                    "stars": 513,
+                    "stars": 514,
                     "topics": [
                       "cv",
                       "cv-template",
@@ -2423,7 +2423,7 @@
                     "open_issues": 0,
                     "owner": "tzx",
                     "repo": "NNJR",
-                    "stars": 120,
+                    "stars": 121,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:58:25.937Z"
@@ -2589,7 +2589,7 @@
                     "open_issues": 0,
                     "owner": "davidculemann",
                     "repo": "typst-templates",
-                    "stars": 38,
+                    "stars": 39,
                     "topics": [
                       "cv",
                       "cv-template",
@@ -2796,7 +2796,7 @@
                     "open_issues": 0,
                     "owner": "JCGoran",
                     "repo": "typst-cv-template",
-                    "stars": 17,
+                    "stars": 18,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:58:25.937Z"
@@ -3335,8 +3335,8 @@
                 "id": 628408767,
                 "language": "Typst",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-13T12:02:16Z",
-                "open_issues": 75,
+                "last_commit": "2026-09-17T08:14:46Z",
+                "open_issues": 74,
                 "owner": "cetz-package",
                 "repo": "cetz",
                 "stars": 1845,
@@ -3464,8 +3464,8 @@
                 "id": 658753624,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T15:07:33Z",
-                "open_issues": 70,
+                "last_commit": "2026-09-17T14:08:22Z",
+                "open_issues": 60,
                 "owner": "typst",
                 "repo": "packages",
                 "stars": 1027,
@@ -3667,7 +3667,7 @@
                 "open_issues": 25,
                 "owner": "lilaq-project",
                 "repo": "lilaq",
-                "stars": 843,
+                "stars": 845,
                 "topics": [
                   "data-science",
                   "plotting",
@@ -3693,7 +3693,7 @@
                 "open_issues": 0,
                 "owner": "mcanouil",
                 "repo": "gribouille",
-                "stars": 267,
+                "stars": 268,
                 "topics": [
                   "chart",
                   "data-visualisation",
@@ -3795,11 +3795,11 @@
                 "id": 703634774,
                 "language": "Typst",
                 "license": "MIT",
-                "last_commit": "2026-08-21T16:44:59Z",
+                "last_commit": "2026-09-17T12:49:41Z",
                 "open_issues": 0,
                 "owner": "jonaspleyer",
                 "repo": "peace-of-posters",
-                "stars": 123,
+                "stars": 124,
                 "topics": [
                   "poster",
                   "typst"
@@ -3829,7 +3829,7 @@
                     "language": "Typst",
                     "license": "MIT",
                     "last_commit": "2026-08-04T17:31:45Z",
-                    "open_issues": 5,
+                    "open_issues": 6,
                     "owner": "Typsium",
                     "repo": "alchemist",
                     "stars": 47,
@@ -3964,17 +3964,18 @@
                   "repo_info": {
                     "archived": false,
                     "description": "An implementation of numbered theorem environments in typst",
-                    "homepage": null,
+                    "homepage": "https://typst.app/universe/package/ctheorems",
                     "id": 620338585,
                     "language": "Typst",
                     "license": "MIT",
-                    "last_commit": "2026-09-12T04:40:09Z",
+                    "last_commit": "2026-09-17T14:20:33Z",
                     "open_issues": 26,
                     "owner": "sahasatvik",
                     "repo": "typst-theorems",
                     "stars": 288,
                     "topics": [
-                      "typst"
+                      "typst",
+                      "typst-package"
                     ]
                   },
                   "first_seen": "2026-08-28T12:58:25.937Z"
@@ -4345,11 +4346,11 @@
                 "id": 740802677,
                 "language": "Typst",
                 "license": "MIT",
-                "last_commit": "2026-09-17T01:32:17Z",
-                "open_issues": 35,
+                "last_commit": "2026-09-17T10:14:55Z",
+                "open_issues": 27,
                 "owner": "touying-typ",
                 "repo": "touying",
-                "stars": 2335,
+                "stars": 2337,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -4467,7 +4468,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T06:13:26.130Z",
+    "last_updated": "2026-09-18T06:03:12.685Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst Links",
@@ -4476,10 +4477,10 @@
       "language": "Emacs Lisp",
       "license": "CC0-1.0",
       "last_commit": "2026-08-07T03:30:15Z",
-      "open_issues": 8,
+      "open_issues": 9,
       "owner": "qjcg",
       "repo": "awesome-typst",
-      "stars": 3584,
+      "stars": 3582,
       "topics": [
         "awesome",
         "awesome-list",
