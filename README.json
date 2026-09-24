@@ -200,7 +200,7 @@
                 "open_issues": 38,
                 "owner": "typstyle-rs",
                 "repo": "typstyle",
-                "stars": 889,
+                "stars": 890,
                 "topics": [
                   "formatter",
                   "typst",
@@ -428,7 +428,7 @@
                 "open_issues": 0,
                 "owner": "soupslurpr",
                 "repo": "BeauTyXT",
-                "stars": 229,
+                "stars": 231,
                 "topics": [
                   "android",
                   "file-editor",
@@ -613,10 +613,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-20T20:09:12Z",
-                "open_issues": 213,
+                "open_issues": 214,
                 "owner": "Myriad-Dreamin",
                 "repo": "tinymist",
-                "stars": 3547,
+                "stars": 3550,
                 "topics": [
                   "dap",
                   "dap-server",
@@ -672,7 +672,7 @@
                 "open_issues": 20,
                 "owner": "kaarmu",
                 "repo": "typst.vim",
-                "stars": 387,
+                "stars": 389,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -1037,7 +1037,7 @@
                 "open_issues": 1,
                 "owner": "Mapaor",
                 "repo": "typst-online-editor",
-                "stars": 25,
+                "stars": 26,
                 "topics": [
                   "compilers",
                   "nextjs",
@@ -1104,11 +1104,11 @@
                 "id": 625434693,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T05:27:04Z",
+                "last_commit": "2026-09-23T16:17:36Z",
                 "open_issues": 61,
                 "owner": "Myriad-Dreamin",
                 "repo": "typst.ts",
-                "stars": 1223,
+                "stars": 1224,
                 "topics": [
                   "browser",
                   "nodejs",
@@ -2358,7 +2358,7 @@
                     "open_issues": 0,
                     "owner": "GeorgeHoneywood",
                     "repo": "alta-typst",
-                    "stars": 191,
+                    "stars": 192,
                     "topics": [
                       "typst"
                     ]
@@ -3464,8 +3464,8 @@
                 "id": 658753624,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T15:56:06Z",
-                "open_issues": 58,
+                "last_commit": "2026-09-23T09:07:39Z",
+                "open_issues": 66,
                 "owner": "typst",
                 "repo": "packages",
                 "stars": 1027,
@@ -3689,11 +3689,11 @@
                 "id": 1214590659,
                 "language": "Typst",
                 "license": "MIT",
-                "last_commit": "2026-09-01T22:17:46Z",
+                "last_commit": "2026-09-23T13:04:37Z",
                 "open_issues": 0,
                 "owner": "mcanouil",
                 "repo": "gribouille",
-                "stars": 269,
+                "stars": 271,
                 "topics": [
                   "chart",
                   "data-visualisation",
@@ -3937,7 +3937,7 @@
                     "open_issues": 0,
                     "owner": "oldrev",
                     "repo": "tids",
-                    "stars": 40,
+                    "stars": 42,
                     "topics": [
                       "datasheet",
                       "electronic",
@@ -4350,7 +4350,7 @@
                 "open_issues": 28,
                 "owner": "touying-typ",
                 "repo": "touying",
-                "stars": 2347,
+                "stars": 2354,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -4378,7 +4378,7 @@
                 "open_issues": 98,
                 "owner": "polylux-typ",
                 "repo": "polylux",
-                "stars": 1605,
+                "stars": 1604,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -4468,7 +4468,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T06:06:55.487Z",
+    "last_updated": "2026-09-24T06:16:01.272Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst Links",
