@@ -140,7 +140,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-29T04:03:38Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "typst-community",
                 "repo": "setup-typst",
                 "stars": 182,
@@ -196,11 +196,11 @@
                 "id": 769440884,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T07:31:40Z",
+                "last_commit": "2026-09-29T07:56:24Z",
                 "open_issues": 40,
                 "owner": "typstyle-rs",
                 "repo": "typstyle",
-                "stars": 892,
+                "stars": 893,
                 "topics": [
                   "formatter",
                   "typst",
@@ -424,7 +424,7 @@
                 "id": 647066717,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-09-28T11:07:13Z",
+                "last_commit": "2026-09-29T12:10:15Z",
                 "open_issues": 0,
                 "owner": "soupslurpr",
                 "repo": "BeauTyXT",
@@ -1179,10 +1179,10 @@
                 "language": "Julia",
                 "license": "MIT",
                 "last_commit": "2026-06-06T19:54:21Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "jakobjpeters",
                 "repo": "Typstry.jl",
-                "stars": 101,
+                "stars": 102,
                 "topics": [
                   "julia",
                   "julialang",
@@ -1234,7 +1234,7 @@
                 "open_issues": 0,
                 "owner": "tilman151",
                 "repo": "pypst",
-                "stars": 53,
+                "stars": 54,
                 "topics": [
                   "pandas",
                   "pdf-generation",
@@ -1254,10 +1254,10 @@
                 "description": "Ruby binding to typst, a new markup-based typesetting system that is powerful and easy to learn.",
                 "homepage": null,
                 "id": 722832140,
-                "language": "Rust",
+                "language": "Ruby",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T02:27:50Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-30T04:12:26Z",
+                "open_issues": 1,
                 "owner": "actsasflinn",
                 "repo": "typst-rb",
                 "stars": 42,
@@ -1451,7 +1451,7 @@
                 "open_issues": 5,
                 "owner": "flavio20002",
                 "repo": "typst-orange-template",
-                "stars": 156,
+                "stars": 157,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -2272,7 +2272,7 @@
                     "open_issues": 11,
                     "owner": "jskherman",
                     "repo": "imprecv",
-                    "stars": 515,
+                    "stars": 514,
                     "topics": [
                       "cv",
                       "cv-template",
@@ -2499,7 +2499,7 @@
                     "open_issues": 0,
                     "owner": "ice-kylin",
                     "repo": "typst-cv-miku",
-                    "stars": 96,
+                    "stars": 97,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:58:25.937Z"
@@ -2564,7 +2564,7 @@
                     "id": 624181864,
                     "language": "Typst",
                     "license": "MIT",
-                    "last_commit": "2026-09-06T20:50:19Z",
+                    "last_commit": "2026-09-29T22:30:26Z",
                     "open_issues": 2,
                     "owner": "jxpeng98",
                     "repo": "Typst-CV-Resume",
@@ -3392,7 +3392,7 @@
                 "open_issues": 21,
                 "owner": "Sematre",
                 "repo": "typst-letter-pro",
-                "stars": 218,
+                "stars": 219,
                 "topics": [
                   "din-5008",
                   "din5008",
@@ -3465,10 +3465,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T10:15:26Z",
-                "open_issues": 73,
+                "open_issues": 82,
                 "owner": "typst",
                 "repo": "packages",
-                "stars": 1032,
+                "stars": 1033,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -3693,7 +3693,7 @@
                 "open_issues": 0,
                 "owner": "mcanouil",
                 "repo": "gribouille",
-                "stars": 272,
+                "stars": 273,
                 "topics": [
                   "chart",
                   "data-visualisation",
@@ -4350,7 +4350,7 @@
                 "open_issues": 26,
                 "owner": "touying-typ",
                 "repo": "touying",
-                "stars": 2362,
+                "stars": 2368,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -4378,7 +4378,7 @@
                 "open_issues": 97,
                 "owner": "polylux-typ",
                 "repo": "polylux",
-                "stars": 1607,
+                "stars": 1608,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -4407,7 +4407,7 @@
                 "open_issues": 12,
                 "owner": "OrangeX4",
                 "repo": "typst-pinit",
-                "stars": 326,
+                "stars": 327,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -4468,7 +4468,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T07:02:19.014Z",
+    "last_updated": "2026-09-30T06:52:13.622Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst Links",
