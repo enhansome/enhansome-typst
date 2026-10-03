@@ -5,7 +5,7 @@
 
 # Awesome Typst with stars
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 513,802 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 513,825 | 🐛 106 | 📅 2026-09-02
 
 Curated collection of useful links for Typst users.
 
@@ -99,7 +99,7 @@ Contributions are welcome!
 
 * [typstyle](https://github.com/typstyle-rs/typstyle) ⭐ 895 | 🐛 43 | 🌐 Rust | 📅 2026-09-29 - Opinionated typst code formatter focusing on aesthetic, convergence and correctness.
 * [Tylax](https://github.com/scipenai/tylax) ⭐ 500 | 🐛 18 | 🌐 Rust | 📅 2026-09-14 - A bidirectional LaTeX-Typst converter based on AST parsing, with support for TikZ graphics.
-* [utpm](https://github.com/typst-community/utpm) ⭐ 145 | 🐛 5 | 🌐 Rust | 📅 2026-09-26 - *Package manager* for **[local](https://github.com/typst/packages#local-packages) ⭐ 1,033 | 🐛 57 | 🌐 Rust | 📅 2026-10-02** and **[remote](https://github.com/typst/packages) ⭐ 1,033 | 🐛 57 | 🌐 Rust | 📅 2026-10-02** Typst packages.
+* [utpm](https://github.com/typst-community/utpm) ⭐ 146 | 🐛 5 | 🌐 Rust | 📅 2026-09-26 - *Package manager* for **[local](https://github.com/typst/packages#local-packages) ⭐ 1,033 | 🐛 57 | 🌐 Rust | 📅 2026-10-02** and **[remote](https://github.com/typst/packages) ⭐ 1,033 | 🐛 57 | 🌐 Rust | 📅 2026-10-02** Typst packages.
 * [typst-live](https://github.com/ItsEthra/typst-live) ⭐ 136 | 🐛 9 | 🌐 Rust | 📅 2026-02-23 - Hot reloading of pdf in web browser.
 * [typst-pandoc](https://github.com/lvignoli/typst-pandoc) ⚠️ Archived - Typst custom reader and writer for Pandoc.
 * [Tyler](https://github.com/mkpoli/tyler) ⭐ 34 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-04 - Package compiler for the ease of packaging and publishing Typst libraries and templates.

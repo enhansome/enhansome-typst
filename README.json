@@ -246,7 +246,7 @@
                 "open_issues": 5,
                 "owner": "typst-community",
                 "repo": "utpm",
-                "stars": 145,
+                "stars": 146,
                 "topics": [
                   "package-manager",
                   "typst",
@@ -4468,7 +4468,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:10:59.569Z",
+    "last_updated": "2026-10-03T06:38:45.444Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst Links",
@@ -4480,7 +4480,7 @@
       "open_issues": 10,
       "owner": "qjcg",
       "repo": "awesome-typst",
-      "stars": 3591,
+      "stars": 3592,
       "topics": [
         "awesome",
         "awesome-list",
