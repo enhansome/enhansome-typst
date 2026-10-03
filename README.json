@@ -46,8 +46,8 @@
             "id": 1042002997,
             "language": "Typst",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-02T06:11:12Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-02T16:23:06Z",
+            "open_issues": 12,
             "owner": "YDX-2147483647",
             "repo": "best-of-typst",
             "stars": 127,
@@ -197,7 +197,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-29T07:56:24Z",
-                "open_issues": 42,
+                "open_issues": 43,
                 "owner": "typstyle-rs",
                 "repo": "typstyle",
                 "stars": 895,
@@ -222,7 +222,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-14T10:26:59Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "scipenai",
                 "repo": "tylax",
                 "stars": 500,
@@ -490,7 +490,7 @@
                 "id": 744852092,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-20T09:00:59Z",
+                "last_commit": "2026-10-02T15:58:03Z",
                 "open_issues": 12,
                 "owner": "IgKh",
                 "repo": "katvan",
@@ -520,7 +520,7 @@
                 "open_issues": 12,
                 "owner": "Bzero",
                 "repo": "typstwriter",
-                "stars": 172,
+                "stars": 173,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -613,10 +613,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-20T20:09:12Z",
-                "open_issues": 223,
+                "open_issues": 225,
                 "owner": "Myriad-Dreamin",
                 "repo": "tinymist",
-                "stars": 3564,
+                "stars": 3565,
                 "topics": [
                   "dap",
                   "dap-server",
@@ -815,6 +815,32 @@
             },
             {
               "node_type": "item",
+              "title": "zeta",
+              "description": "A language server for Zettelkasten-style note-taking, featuring fast navigation, and a graph view..",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "a performant lsp for navigating typst notes",
+                "homepage": null,
+                "id": 882720606,
+                "language": "Go",
+                "license": null,
+                "last_commit": "2026-06-13T16:42:17Z",
+                "open_issues": 3,
+                "owner": "lentilus",
+                "repo": "zeta",
+                "stars": 29,
+                "topics": [
+                  "lsp",
+                  "math",
+                  "typst",
+                  "zettelkasten"
+                ]
+              },
+              "first_seen": "2026-08-28T12:58:25.937Z"
+            },
+            {
+              "node_type": "item",
               "title": "inktyp",
               "description": "An Inkscape plugin to insert and edit Typst equations.",
               "children": [],
@@ -831,32 +857,6 @@
                 "repo": "inktyp",
                 "stars": 28,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T12:58:25.937Z"
-            },
-            {
-              "node_type": "item",
-              "title": "zeta",
-              "description": "A language server for Zettelkasten-style note-taking, featuring fast navigation, and a graph view..",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "a performant lsp for navigating typst notes",
-                "homepage": null,
-                "id": 882720606,
-                "language": "Go",
-                "license": null,
-                "last_commit": "2026-06-13T16:42:17Z",
-                "open_issues": 3,
-                "owner": "lentilus",
-                "repo": "zeta",
-                "stars": 28,
-                "topics": [
-                  "lsp",
-                  "math",
-                  "typst",
-                  "zettelkasten"
-                ]
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
             },
@@ -1135,7 +1135,7 @@
                 "open_issues": 12,
                 "owner": "messense",
                 "repo": "typst-py",
-                "stars": 355,
+                "stars": 356,
                 "topics": [
                   "typst"
                 ]
@@ -1182,7 +1182,7 @@
                 "open_issues": 8,
                 "owner": "jakobjpeters",
                 "repo": "Typstry.jl",
-                "stars": 102,
+                "stars": 103,
                 "topics": [
                   "julia",
                   "julialang",
@@ -1256,7 +1256,7 @@
                 "id": 722832140,
                 "language": "Ruby",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T04:12:26Z",
+                "last_commit": "2026-10-03T04:18:59Z",
                 "open_issues": 1,
                 "owner": "actsasflinn",
                 "repo": "typst-rb",
@@ -1343,7 +1343,7 @@
                 "open_issues": 23,
                 "owner": "typst",
                 "repo": "templates",
-                "stars": 424,
+                "stars": 425,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -3336,7 +3336,7 @@
                 "language": "Typst",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-09-25T09:24:08Z",
-                "open_issues": 75,
+                "open_issues": 77,
                 "owner": "cetz-package",
                 "repo": "cetz",
                 "stars": 1855,
@@ -3464,8 +3464,8 @@
                 "id": 658753624,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T14:24:51Z",
-                "open_issues": 64,
+                "last_commit": "2026-10-02T14:25:55Z",
+                "open_issues": 57,
                 "owner": "typst",
                 "repo": "packages",
                 "stars": 1033,
@@ -3539,7 +3539,7 @@
                 "id": 994187392,
                 "language": "Typst",
                 "license": "MIT",
-                "last_commit": "2026-10-02T06:40:10Z",
+                "last_commit": "2026-10-02T07:24:18Z",
                 "open_issues": 4,
                 "owner": "retroflexivity",
                 "repo": "typst-eggs",
@@ -3775,7 +3775,7 @@
                 "open_issues": 2,
                 "owner": "pncnmnp",
                 "repo": "typst-poster",
-                "stars": 156,
+                "stars": 157,
                 "topics": [
                   "poster-template",
                   "typst"
@@ -3969,7 +3969,7 @@
                     "language": "Typst",
                     "license": "MIT",
                     "last_commit": "2026-09-21T00:39:10Z",
-                    "open_issues": 6,
+                    "open_issues": 7,
                     "owner": "sahasatvik",
                     "repo": "typst-theorems",
                     "stars": 289,
@@ -4350,7 +4350,7 @@
                 "open_issues": 26,
                 "owner": "touying-typ",
                 "repo": "touying",
-                "stars": 2370,
+                "stars": 2372,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -4468,7 +4468,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:05:29.957Z",
+    "last_updated": "2026-10-03T05:10:59.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst Links",
@@ -4480,7 +4480,7 @@
       "open_issues": 10,
       "owner": "qjcg",
       "repo": "awesome-typst",
-      "stars": 3587,
+      "stars": 3591,
       "topics": [
         "awesome",
         "awesome-list",
