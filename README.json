@@ -3465,7 +3465,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T12:35:14Z",
-                "open_issues": 69,
+                "open_issues": 70,
                 "owner": "typst",
                 "repo": "packages",
                 "stars": 1035,
@@ -4468,7 +4468,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T07:39:32.970Z",
+    "last_updated": "2026-10-06T10:51:26.022Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst Links",

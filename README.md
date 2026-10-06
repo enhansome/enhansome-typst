@@ -5,7 +5,7 @@
 
 # Awesome Typst with stars
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 515,290 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 515,367 | 🐛 106 | 📅 2026-09-02
 
 Curated collection of useful links for Typst users.
 
@@ -52,7 +52,7 @@ Contributions are welcome!
 
 * [typst.app](https://typst.app) - The Typst web app.
 * [Typst Documentation](https://typst.app/docs) - The official Typst documentation.
-* [GitHub](https://github.com/typst/typst) ⭐ 56,427 | 🐛 1,295 | 🌐 Rust | 📅 2026-10-05 - The official Typst repository.
+* [GitHub](https://github.com/typst/typst) ⭐ 56,430 | 🐛 1,297 | 🌐 Rust | 📅 2026-10-06 - The official Typst repository.
 * [Blog](https://typst.app/blog/) - The official Typst blog.
 * Social - [Discord] [Instagram] [LinkedIn] [Mastodon] [bluesky]
 
@@ -99,7 +99,7 @@ Contributions are welcome!
 
 * [typstyle](https://github.com/typstyle-rs/typstyle) ⭐ 895 | 🐛 41 | 🌐 Rust | 📅 2026-10-04 - Opinionated typst code formatter focusing on aesthetic, convergence and correctness.
 * [Tylax](https://github.com/scipenai/tylax) ⭐ 501 | 🐛 17 | 🌐 Rust | 📅 2026-09-14 - A bidirectional LaTeX-Typst converter based on AST parsing, with support for TikZ graphics.
-* [utpm](https://github.com/typst-community/utpm) ⭐ 147 | 🐛 5 | 🌐 Rust | 📅 2026-09-26 - *Package manager* for **[local](https://github.com/typst/packages#local-packages) ⭐ 1,035 | 🐛 69 | 🌐 Rust | 📅 2026-10-05** and **[remote](https://github.com/typst/packages) ⭐ 1,035 | 🐛 69 | 🌐 Rust | 📅 2026-10-05** Typst packages.
+* [utpm](https://github.com/typst-community/utpm) ⭐ 147 | 🐛 5 | 🌐 Rust | 📅 2026-09-26 - *Package manager* for **[local](https://github.com/typst/packages#local-packages) ⭐ 1,035 | 🐛 70 | 🌐 Rust | 📅 2026-10-05** and **[remote](https://github.com/typst/packages) ⭐ 1,035 | 🐛 70 | 🌐 Rust | 📅 2026-10-05** Typst packages.
 * [typst-live](https://github.com/ItsEthra/typst-live) ⭐ 136 | 🐛 9 | 🌐 Rust | 📅 2026-02-23 - Hot reloading of pdf in web browser.
 * [typst-pandoc](https://github.com/lvignoli/typst-pandoc) ⚠️ Archived - Typst custom reader and writer for Pandoc.
 * [Tyler](https://github.com/mkpoli/tyler) ⭐ 34 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-04 - Package compiler for the ease of packaging and publishing Typst libraries and templates.
@@ -323,7 +323,7 @@ Contributions are welcome!
 
 ### Linguistics
 
-* [tyipa](https://github.com/typst/packages/tree/main/packages/preview/tyipa/0.1.0) ⭐ 1,035 | 🐛 69 | 🌐 Rust | 📅 2026-10-05 - Write phonetic transcriptions using the IPA, in a *typsty* style.
+* [tyipa](https://github.com/typst/packages/tree/main/packages/preview/tyipa/0.1.0) ⭐ 1,035 | 🐛 70 | 🌐 Rust | 📅 2026-10-05 - Write phonetic transcriptions using the IPA, in a *typsty* style.
 * [typst-syntree](https://github.com/lynn/typst-syntree) ⭐ 51 | 🐛 7 | 🌐 Typst | 📅 2026-07-06 - Syntax trees for Typst.
 * [typst-ipa](https://github.com/imatpot/typst-ascii-ipa) ⭐ 23 | 🐛 3 | 🌐 Typst | 📅 2026-07-07 - 🔄 ASCII / IPA conversion for Typst.
 * [eggs](https://github.com/retroflexivity/typst-eggs) ⭐ 18 | 🐛 4 | 🌐 Typst | 📅 2026-10-02 - Linguistics examples and glosses with minimalist syntax.
