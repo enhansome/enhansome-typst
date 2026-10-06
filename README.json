@@ -46,8 +46,8 @@
             "id": 1042002997,
             "language": "Typst",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-03T12:37:16Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-05T15:25:17Z",
+            "open_issues": 8,
             "owner": "YDX-2147483647",
             "repo": "best-of-typst",
             "stars": 127,
@@ -613,7 +613,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-20T20:09:12Z",
-                "open_issues": 225,
+                "open_issues": 227,
                 "owner": "Myriad-Dreamin",
                 "repo": "tinymist",
                 "stars": 3573,
@@ -646,7 +646,7 @@
                 "open_issues": 37,
                 "owner": "fenjalien",
                 "repo": "obsidian-typst",
-                "stars": 532,
+                "stars": 533,
                 "topics": [
                   "obsidian",
                   "obsidian-md",
@@ -1472,7 +1472,7 @@
                 "open_issues": 0,
                 "owner": "Sajjon",
                 "repo": "klirr",
-                "stars": 141,
+                "stars": 142,
                 "topics": [
                   "consulting",
                   "currency-converter",
@@ -2326,8 +2326,8 @@
                     "id": 634051351,
                     "language": "Typst",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-05T03:25:43Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-10-05T18:12:41Z",
+                    "open_issues": 0,
                     "owner": "yunanwg",
                     "repo": "brilliant-CV",
                     "stars": 844,
@@ -2499,7 +2499,7 @@
                     "open_issues": 0,
                     "owner": "ice-kylin",
                     "repo": "typst-cv-miku",
-                    "stars": 97,
+                    "stars": 98,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:58:25.937Z"
@@ -3464,11 +3464,11 @@
                 "id": 658753624,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T14:25:55Z",
-                "open_issues": 65,
+                "last_commit": "2026-10-05T12:35:14Z",
+                "open_issues": 69,
                 "owner": "typst",
                 "repo": "packages",
-                "stars": 1034,
+                "stars": 1035,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -3667,7 +3667,7 @@
                 "open_issues": 22,
                 "owner": "lilaq-project",
                 "repo": "lilaq",
-                "stars": 854,
+                "stars": 855,
                 "topics": [
                   "data-science",
                   "plotting",
@@ -4350,7 +4350,7 @@
                 "open_issues": 26,
                 "owner": "touying-typ",
                 "repo": "touying",
-                "stars": 2372,
+                "stars": 2375,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -4468,7 +4468,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T07:12:55.432Z",
+    "last_updated": "2026-10-06T07:39:32.970Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst Links",
