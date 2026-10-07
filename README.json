@@ -46,8 +46,8 @@
             "id": 1042002997,
             "language": "Typst",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-05T15:25:17Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-06T13:49:59Z",
+            "open_issues": 10,
             "owner": "YDX-2147483647",
             "repo": "best-of-typst",
             "stars": 127,
@@ -225,7 +225,7 @@
                 "open_issues": 17,
                 "owner": "scipenai",
                 "repo": "tylax",
-                "stars": 501,
+                "stars": 502,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -339,7 +339,7 @@
                 "open_issues": 1,
                 "owner": "textlint",
                 "repo": "textlint-plugin-typst",
-                "stars": 23,
+                "stars": 24,
                 "topics": [
                   "lint",
                   "plugin",
@@ -559,7 +559,7 @@
                 "language": "Swift",
                 "license": null,
                 "last_commit": "2025-12-09T19:36:00Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "SuperMegaFort",
                 "repo": "TypstEdit",
                 "stars": 69,
@@ -613,10 +613,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-20T20:09:12Z",
-                "open_issues": 227,
+                "open_issues": 228,
                 "owner": "Myriad-Dreamin",
                 "repo": "tinymist",
-                "stars": 3573,
+                "stars": 3575,
                 "topics": [
                   "dap",
                   "dap-server",
@@ -1135,7 +1135,7 @@
                 "open_issues": 12,
                 "owner": "messense",
                 "repo": "typst-py",
-                "stars": 357,
+                "stars": 358,
                 "topics": [
                   "typst"
                 ]
@@ -1448,7 +1448,7 @@
                 "language": "Typst",
                 "license": "MIT-0",
                 "last_commit": "2026-08-31T11:44:40Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "flavio20002",
                 "repo": "typst-orange-template",
                 "stars": 158,
@@ -1472,7 +1472,7 @@
                 "open_issues": 0,
                 "owner": "Sajjon",
                 "repo": "klirr",
-                "stars": 142,
+                "stars": 143,
                 "topics": [
                   "consulting",
                   "currency-converter",
@@ -2104,8 +2104,8 @@
                 "id": 1051371544,
                 "language": "Typst",
                 "license": "MIT",
-                "last_commit": "2026-07-26T18:14:21Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-06T17:35:00Z",
+                "open_issues": 2,
                 "owner": "rabuu",
                 "repo": "sheetstorm",
                 "stars": 23,
@@ -2547,7 +2547,7 @@
                     "open_issues": 0,
                     "owner": "giovanniberti",
                     "repo": "moderncv.typst",
-                    "stars": 67,
+                    "stars": 66,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:58:25.937Z"
@@ -3465,7 +3465,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T12:35:14Z",
-                "open_issues": 70,
+                "open_issues": 77,
                 "owner": "typst",
                 "repo": "packages",
                 "stars": 1035,
@@ -3667,7 +3667,7 @@
                 "open_issues": 22,
                 "owner": "lilaq-project",
                 "repo": "lilaq",
-                "stars": 855,
+                "stars": 857,
                 "topics": [
                   "data-science",
                   "plotting",
@@ -4347,7 +4347,7 @@
                 "language": "Typst",
                 "license": "MIT",
                 "last_commit": "2026-09-28T08:08:10Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "touying-typ",
                 "repo": "touying",
                 "stars": 2375,
@@ -4407,7 +4407,7 @@
                 "open_issues": 12,
                 "owner": "OrangeX4",
                 "repo": "typst-pinit",
-                "stars": 327,
+                "stars": 328,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -4468,7 +4468,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:51:26.022Z",
+    "last_updated": "2026-10-07T07:19:48.145Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst Links",
