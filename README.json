@@ -46,8 +46,8 @@
             "id": 1042002997,
             "language": "Typst",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-09T13:45:17Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-10T12:41:52Z",
+            "open_issues": 4,
             "owner": "YDX-2147483647",
             "repo": "best-of-typst",
             "stars": 127,
@@ -196,11 +196,11 @@
                 "id": 769440884,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T15:43:30Z",
+                "last_commit": "2026-10-11T05:39:16Z",
                 "open_issues": 41,
                 "owner": "typstyle-rs",
                 "repo": "typstyle",
-                "stars": 898,
+                "stars": 897,
                 "topics": [
                   "formatter",
                   "typst",
@@ -520,7 +520,7 @@
                 "open_issues": 12,
                 "owner": "Bzero",
                 "repo": "typstwriter",
-                "stars": 174,
+                "stars": 175,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -612,11 +612,11 @@
                 "id": 768315520,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T07:21:06Z",
+                "last_commit": "2026-10-11T06:59:43Z",
                 "open_issues": 228,
                 "owner": "Myriad-Dreamin",
                 "repo": "tinymist",
-                "stars": 3577,
+                "stars": 3576,
                 "topics": [
                   "dap",
                   "dap-server",
@@ -986,7 +986,7 @@
                 "id": 774899977,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T17:14:55Z",
+                "last_commit": "2026-10-10T20:29:29Z",
                 "open_issues": 1,
                 "owner": "QuarticCat",
                 "repo": "detypify",
@@ -2968,7 +2968,7 @@
                 "open_issues": 1,
                 "owner": "ludwig-austermann",
                 "repo": "typst-timetable",
-                "stars": 112,
+                "stars": 113,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -2985,7 +2985,7 @@
                 "id": 866970220,
                 "language": "Typst",
                 "license": "MIT-0",
-                "last_commit": "2026-10-07T10:13:35Z",
+                "last_commit": "2026-10-10T17:07:54Z",
                 "open_issues": 3,
                 "owner": "extua",
                 "repo": "october",
@@ -3464,8 +3464,8 @@
                 "id": 658753624,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T17:23:59Z",
-                "open_issues": 61,
+                "last_commit": "2026-10-10T11:34:00Z",
+                "open_issues": 66,
                 "owner": "typst",
                 "repo": "packages",
                 "stars": 1036,
@@ -3634,7 +3634,7 @@
                 "open_issues": 3,
                 "owner": "ljgago",
                 "repo": "typst-chords",
-                "stars": 73,
+                "stars": 74,
                 "topics": [
                   "chords",
                   "guitar",
@@ -3667,7 +3667,7 @@
                 "open_issues": 24,
                 "owner": "lilaq-project",
                 "repo": "lilaq",
-                "stars": 860,
+                "stars": 862,
                 "topics": [
                   "data-science",
                   "plotting",
@@ -3828,8 +3828,8 @@
                     "id": 819538843,
                     "language": "Typst",
                     "license": "MIT",
-                    "last_commit": "2026-08-04T17:31:45Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-10-10T15:02:22Z",
+                    "open_issues": 5,
                     "owner": "Typsium",
                     "repo": "alchemist",
                     "stars": 47,
@@ -4112,7 +4112,7 @@
                     "open_issues": 8,
                     "owner": "Leedehai",
                     "repo": "typst-physics",
-                    "stars": 613,
+                    "stars": 614,
                     "topics": [
                       "typst",
                       "typst-package"
@@ -4350,7 +4350,7 @@
                 "open_issues": 27,
                 "owner": "touying-typ",
                 "repo": "touying",
-                "stars": 2377,
+                "stars": 2378,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -4468,7 +4468,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T07:18:17.040Z",
+    "last_updated": "2026-10-11T07:20:44.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst Links",
@@ -4480,7 +4480,7 @@
       "open_issues": 12,
       "owner": "qjcg",
       "repo": "awesome-typst",
-      "stars": 3598,
+      "stars": 3599,
       "topics": [
         "awesome",
         "awesome-list",
