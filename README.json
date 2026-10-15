@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "SylvanFranklin",
             "repo": "nonsense",
-            "stars": 407,
+            "stars": 408,
             "topics": [
               "ambiguity",
               "funny",
@@ -46,8 +46,8 @@
             "id": 1042002997,
             "language": "Typst",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-13T04:45:30Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-14T16:17:00Z",
+            "open_issues": 6,
             "owner": "YDX-2147483647",
             "repo": "best-of-typst",
             "stars": 127,
@@ -139,8 +139,8 @@
                 "id": 625450644,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-14T02:36:31Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-14T07:31:16Z",
+                "open_issues": 0,
                 "owner": "typst-community",
                 "repo": "setup-typst",
                 "stars": 181,
@@ -200,7 +200,7 @@
                 "open_issues": 38,
                 "owner": "typstyle-rs",
                 "repo": "typstyle",
-                "stars": 898,
+                "stars": 899,
                 "topics": [
                   "formatter",
                   "typst",
@@ -428,7 +428,7 @@
                 "open_issues": 1,
                 "owner": "soupslurpr",
                 "repo": "BeauTyXT",
-                "stars": 233,
+                "stars": 230,
                 "topics": [
                   "android",
                   "file-editor",
@@ -520,28 +520,7 @@
                 "open_issues": 12,
                 "owner": "Bzero",
                 "repo": "typstwriter",
-                "stars": 175,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T12:58:25.937Z"
-            },
-            {
-              "node_type": "item",
-              "title": "qnote",
-              "description": "Minimal frameless notepad for Linux with Markdown support and PDF export via Typst, plus OCR and version history.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Minimal Tauri desktop note editor with Markdown, PDF export, and file history",
-                "homepage": null,
-                "id": 1216904355,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-05-13T17:28:33Z",
-                "open_issues": 0,
-                "owner": "Omibranch",
-                "repo": "qnote",
-                "stars": 97,
+                "stars": 174,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -588,7 +567,7 @@
                 "open_issues": 2,
                 "owner": "dailydaniel",
                 "repo": "typos",
-                "stars": 62,
+                "stars": 61,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -612,11 +591,11 @@
                 "id": 768315520,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T06:54:00Z",
-                "open_issues": 231,
+                "last_commit": "2026-10-15T00:51:43Z",
+                "open_issues": 232,
                 "owner": "Myriad-Dreamin",
                 "repo": "tinymist",
-                "stars": 3582,
+                "stars": 3583,
                 "topics": [
                   "dap",
                   "dap-server",
@@ -876,7 +855,7 @@
                 "open_issues": 1,
                 "owner": "arne314",
                 "repo": "typstar",
-                "stars": 27,
+                "stars": 28,
                 "topics": [
                   "anki",
                   "excalidraw",
@@ -986,11 +965,11 @@
                 "id": 774899977,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-10T20:29:29Z",
+                "last_commit": "2026-10-14T16:14:30Z",
                 "open_issues": 1,
                 "owner": "QuarticCat",
                 "repo": "detypify",
-                "stars": 263,
+                "stars": 264,
                 "topics": [
                   "image-classification",
                   "typst"
@@ -1105,10 +1084,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-08T08:04:56Z",
-                "open_issues": 61,
+                "open_issues": 62,
                 "owner": "Myriad-Dreamin",
                 "repo": "typst.ts",
-                "stars": 1233,
+                "stars": 1234,
                 "topics": [
                   "browser",
                   "nodejs",
@@ -1135,7 +1114,7 @@
                 "open_issues": 13,
                 "owner": "messense",
                 "repo": "typst-py",
-                "stars": 362,
+                "stars": 363,
                 "topics": [
                   "typst"
                 ]
@@ -1395,7 +1374,7 @@
                 "open_issues": 20,
                 "owner": "daskol",
                 "repo": "typst-templates",
-                "stars": 288,
+                "stars": 287,
                 "topics": [
                   "cvpr",
                   "iclr",
@@ -1472,7 +1451,7 @@
                 "open_issues": 0,
                 "owner": "Sajjon",
                 "repo": "klirr",
-                "stars": 143,
+                "stars": 142,
                 "topics": [
                   "consulting",
                   "currency-converter",
@@ -1511,7 +1490,7 @@
                 "open_issues": 13,
                 "owner": "ls1intum",
                 "repo": "thesis-template-typst",
-                "stars": 134,
+                "stars": 135,
                 "topics": [
                   "education",
                   "thesis",
@@ -1836,7 +1815,7 @@
                 "open_issues": 0,
                 "owner": "RolfBremer",
                 "repo": "gloss-awe",
-                "stars": 23,
+                "stars": 24,
                 "topics": [
                   "glossary",
                   "typst"
@@ -3464,11 +3443,11 @@
                 "id": 658753624,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T19:26:40Z",
-                "open_issues": 84,
+                "last_commit": "2026-10-14T15:40:46Z",
+                "open_issues": 55,
                 "owner": "typst",
                 "repo": "packages",
-                "stars": 1036,
+                "stars": 1037,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -3664,7 +3643,7 @@
                 "language": "Typst",
                 "license": "MIT",
                 "last_commit": "2026-10-13T20:17:04Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "lilaq-project",
                 "repo": "lilaq",
                 "stars": 865,
@@ -3689,8 +3668,8 @@
                 "id": 1214590659,
                 "language": "Typst",
                 "license": "MIT",
-                "last_commit": "2026-10-13T23:16:39Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-14T21:22:30Z",
+                "open_issues": 0,
                 "owner": "mcanouil",
                 "repo": "gribouille",
                 "stars": 274,
@@ -3853,11 +3832,11 @@
                     "id": 937377979,
                     "language": "Typst",
                     "license": "MIT",
-                    "last_commit": "2026-09-01T11:25:22Z",
+                    "last_commit": "2026-10-14T16:27:33Z",
                     "open_issues": 5,
                     "owner": "Typsium",
                     "repo": "typsium",
-                    "stars": 44,
+                    "stars": 45,
                     "topics": [
                       "chemistry",
                       "typst",
@@ -4112,7 +4091,7 @@
                     "open_issues": 8,
                     "owner": "Leedehai",
                     "repo": "typst-physics",
-                    "stars": 616,
+                    "stars": 617,
                     "topics": [
                       "typst",
                       "typst-package"
@@ -4347,7 +4326,7 @@
                 "language": "Typst",
                 "license": "MIT",
                 "last_commit": "2026-09-28T08:08:10Z",
-                "open_issues": 27,
+                "open_issues": 28,
                 "owner": "touying-typ",
                 "repo": "touying",
                 "stars": 2386,
@@ -4468,7 +4447,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T06:15:44.638Z",
+    "last_updated": "2026-10-15T05:58:03.661Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst Links",
