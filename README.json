@@ -46,8 +46,8 @@
             "id": 1042002997,
             "language": "Typst",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-24T03:13:27Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-24T11:54:24Z",
+            "open_issues": 8,
             "owner": "YDX-2147483647",
             "repo": "best-of-typst",
             "stars": 129,
@@ -200,7 +200,7 @@
                 "open_issues": 40,
                 "owner": "typstyle-rs",
                 "repo": "typstyle",
-                "stars": 903,
+                "stars": 904,
                 "topics": [
                   "formatter",
                   "typst",
@@ -567,7 +567,7 @@
                 "open_issues": 2,
                 "owner": "dailydaniel",
                 "repo": "typos",
-                "stars": 61,
+                "stars": 62,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -591,8 +591,8 @@
                 "id": 768315520,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T03:40:50Z",
-                "open_issues": 236,
+                "last_commit": "2026-10-24T06:05:37Z",
+                "open_issues": 237,
                 "owner": "Myriad-Dreamin",
                 "repo": "tinymist",
                 "stars": 3609,
@@ -741,7 +741,7 @@
                 "open_issues": 6,
                 "owner": "remimimimimi",
                 "repo": "org-typst-preview.el",
-                "stars": 81,
+                "stars": 80,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -762,7 +762,7 @@
                 "open_issues": 14,
                 "owner": "frozolotl",
                 "repo": "tree-sitter-typst",
-                "stars": 77,
+                "stars": 76,
                 "topics": [
                   "parser",
                   "tree-sitter",
@@ -808,34 +808,13 @@
                 "open_issues": 3,
                 "owner": "lentilus",
                 "repo": "zeta",
-                "stars": 29,
+                "stars": 30,
                 "topics": [
                   "lsp",
                   "math",
                   "typst",
                   "zettelkasten"
                 ]
-              },
-              "first_seen": "2026-08-28T12:58:25.937Z"
-            },
-            {
-              "node_type": "item",
-              "title": "inktyp",
-              "description": "An Inkscape plugin to insert and edit Typst equations.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Insert and edit Typst equations in Inkscape",
-                "homepage": null,
-                "id": 625403956,
-                "language": "Rust",
-                "license": null,
-                "last_commit": "2024-05-19T22:52:22Z",
-                "open_issues": 1,
-                "owner": "herlev",
-                "repo": "inktyp",
-                "stars": 28,
-                "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
             },
@@ -866,6 +845,27 @@
                   "treesitter",
                   "typst"
                 ]
+              },
+              "first_seen": "2026-08-28T12:58:25.937Z"
+            },
+            {
+              "node_type": "item",
+              "title": "inktyp",
+              "description": "An Inkscape plugin to insert and edit Typst equations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Insert and edit Typst equations in Inkscape",
+                "homepage": null,
+                "id": 625403956,
+                "language": "Rust",
+                "license": null,
+                "last_commit": "2024-05-19T22:52:22Z",
+                "open_issues": 1,
+                "owner": "herlev",
+                "repo": "inktyp",
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
             },
@@ -1087,7 +1087,7 @@
                 "open_issues": 63,
                 "owner": "Myriad-Dreamin",
                 "repo": "typst.ts",
-                "stars": 1243,
+                "stars": 1244,
                 "topics": [
                   "browser",
                   "nodejs",
@@ -1114,7 +1114,7 @@
                 "open_issues": 11,
                 "owner": "messense",
                 "repo": "typst-py",
-                "stars": 364,
+                "stars": 363,
                 "topics": [
                   "typst"
                 ]
@@ -1158,7 +1158,7 @@
                 "language": "Julia",
                 "license": "MIT",
                 "last_commit": "2026-06-06T19:54:21Z",
-                "open_issues": 8,
+                "open_issues": 7,
                 "owner": "jakobjpeters",
                 "repo": "Typstry.jl",
                 "stars": 103,
@@ -1490,7 +1490,7 @@
                 "open_issues": 13,
                 "owner": "ls1intum",
                 "repo": "thesis-template-typst",
-                "stars": 136,
+                "stars": 137,
                 "topics": [
                   "education",
                   "thesis",
@@ -3027,7 +3027,7 @@
                 "open_issues": 32,
                 "owner": "PgBiel",
                 "repo": "typst-tablex",
-                "stars": 414,
+                "stars": 413,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -3318,7 +3318,7 @@
                 "open_issues": 74,
                 "owner": "cetz-package",
                 "repo": "cetz",
-                "stars": 1864,
+                "stars": 1863,
                 "topics": [
                   "cetz",
                   "typst",
@@ -3371,7 +3371,7 @@
                 "open_issues": 21,
                 "owner": "Sematre",
                 "repo": "typst-letter-pro",
-                "stars": 224,
+                "stars": 223,
                 "topics": [
                   "din-5008",
                   "din5008",
@@ -3398,7 +3398,7 @@
                 "open_issues": 1,
                 "owner": "pascal-huber",
                 "repo": "typst-letter-template",
-                "stars": 48,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -3444,7 +3444,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-22T16:44:42Z",
-                "open_issues": 66,
+                "open_issues": 71,
                 "owner": "typst",
                 "repo": "packages",
                 "stars": 1041,
@@ -3613,7 +3613,7 @@
                 "open_issues": 2,
                 "owner": "ljgago",
                 "repo": "typst-chords",
-                "stars": 74,
+                "stars": 73,
                 "topics": [
                   "chords",
                   "guitar",
@@ -3702,7 +3702,7 @@
                 "open_issues": 17,
                 "owner": "Chayraaa",
                 "repo": "typst-plotting",
-                "stars": 116,
+                "stars": 115,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -3868,7 +3868,7 @@
                     "open_issues": 9,
                     "owner": "fenjalien",
                     "repo": "cirCeTZ",
-                    "stars": 167,
+                    "stars": 166,
                     "topics": [
                       "typst"
                     ]
@@ -4357,7 +4357,7 @@
                 "open_issues": 97,
                 "owner": "polylux-typ",
                 "repo": "polylux",
-                "stars": 1610,
+                "stars": 1609,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -4386,7 +4386,7 @@
                 "open_issues": 12,
                 "owner": "OrangeX4",
                 "repo": "typst-pinit",
-                "stars": 328,
+                "stars": 327,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -4447,7 +4447,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T06:01:27.385Z",
+    "last_updated": "2026-10-25T06:18:34.351Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst Links",
