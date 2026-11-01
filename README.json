@@ -139,8 +139,8 @@
                 "id": 625450644,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-31T02:01:49Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-31T15:08:31Z",
+                "open_issues": 0,
                 "owner": "typst-community",
                 "repo": "setup-typst",
                 "stars": 182,
@@ -200,7 +200,7 @@
                 "open_issues": 42,
                 "owner": "typstyle-rs",
                 "repo": "typstyle",
-                "stars": 905,
+                "stars": 907,
                 "topics": [
                   "formatter",
                   "typst",
@@ -225,7 +225,7 @@
                 "open_issues": 32,
                 "owner": "scipenai",
                 "repo": "tylax",
-                "stars": 511,
+                "stars": 513,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -591,11 +591,11 @@
                 "id": 768315520,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T00:13:20Z",
-                "open_issues": 241,
+                "last_commit": "2026-11-01T03:47:14Z",
+                "open_issues": 239,
                 "owner": "Myriad-Dreamin",
                 "repo": "tinymist",
-                "stars": 3620,
+                "stars": 3625,
                 "topics": [
                   "dap",
                   "dap-server",
@@ -1187,7 +1187,7 @@
                 "open_issues": 9,
                 "owner": "daskol",
                 "repo": "mpl-typst",
-                "stars": 87,
+                "stars": 88,
                 "topics": [
                   "matplotlib",
                   "matplotlib-backend",
@@ -1374,7 +1374,7 @@
                 "open_issues": 20,
                 "owner": "daskol",
                 "repo": "typst-templates",
-                "stars": 288,
+                "stars": 289,
                 "topics": [
                   "cvpr",
                   "iclr",
@@ -2305,11 +2305,11 @@
                     "id": 634051351,
                     "language": "Typst",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-29T10:57:48Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-10-31T21:43:42Z",
+                    "open_issues": 2,
                     "owner": "yunanwg",
                     "repo": "brilliant-CV",
-                    "stars": 847,
+                    "stars": 848,
                     "topics": [
                       "cv",
                       "pdf",
@@ -3318,7 +3318,7 @@
                 "open_issues": 75,
                 "owner": "cetz-package",
                 "repo": "cetz",
-                "stars": 1863,
+                "stars": 1862,
                 "topics": [
                   "cetz",
                   "typst",
@@ -3444,7 +3444,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-30T17:05:30Z",
-                "open_issues": 63,
+                "open_issues": 68,
                 "owner": "typst",
                 "repo": "packages",
                 "stars": 1044,
@@ -3642,11 +3642,11 @@
                 "id": 909426194,
                 "language": "Typst",
                 "license": "MIT",
-                "last_commit": "2026-10-25T17:23:13Z",
+                "last_commit": "2026-10-31T17:29:45Z",
                 "open_issues": 24,
                 "owner": "lilaq-project",
                 "repo": "lilaq",
-                "stars": 871,
+                "stars": 873,
                 "topics": [
                   "data-science",
                   "plotting",
@@ -4329,7 +4329,7 @@
                 "open_issues": 33,
                 "owner": "touying-typ",
                 "repo": "touying",
-                "stars": 2415,
+                "stars": 2416,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -4447,7 +4447,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T07:06:17.712Z",
+    "last_updated": "2026-11-01T07:40:37.002Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst Links",
@@ -4459,7 +4459,7 @@
       "open_issues": 14,
       "owner": "qjcg",
       "repo": "awesome-typst",
-      "stars": 3613,
+      "stars": 3614,
       "topics": [
         "awesome",
         "awesome-list",
