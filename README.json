@@ -46,8 +46,8 @@
             "id": 1042002997,
             "language": "Typst",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-03T06:45:48Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-04T03:34:40Z",
+            "open_issues": 4,
             "owner": "YDX-2147483647",
             "repo": "best-of-typst",
             "stars": 129,
@@ -196,8 +196,8 @@
                 "id": 769440884,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T10:44:41Z",
-                "open_issues": 42,
+                "last_commit": "2026-11-04T05:38:25Z",
+                "open_issues": 40,
                 "owner": "typstyle-rs",
                 "repo": "typstyle",
                 "stars": 906,
@@ -591,11 +591,11 @@
                 "id": 768315520,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T07:19:52Z",
-                "open_issues": 241,
+                "last_commit": "2026-11-03T17:03:37Z",
+                "open_issues": 240,
                 "owner": "Myriad-Dreamin",
                 "repo": "tinymist",
-                "stars": 3630,
+                "stars": 3635,
                 "topics": [
                   "dap",
                   "dap-server",
@@ -1319,7 +1319,7 @@
                 "language": "Typst",
                 "license": "MIT-0",
                 "last_commit": "2026-03-20T11:03:54Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "typst",
                 "repo": "templates",
                 "stars": 431,
@@ -1350,7 +1350,7 @@
                 "open_issues": 9,
                 "owner": "LaPreprint",
                 "repo": "typst",
-                "stars": 324,
+                "stars": 325,
                 "topics": [
                   "typst",
                   "typst-template"
@@ -1430,7 +1430,7 @@
                 "open_issues": 5,
                 "owner": "flavio20002",
                 "repo": "typst-orange-template",
-                "stars": 161,
+                "stars": 162,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -3443,11 +3443,11 @@
                 "id": 658753624,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T17:05:30Z",
-                "open_issues": 81,
+                "last_commit": "2026-11-03T15:01:33Z",
+                "open_issues": 76,
                 "owner": "typst",
                 "repo": "packages",
-                "stars": 1045,
+                "stars": 1046,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -3951,7 +3951,7 @@
                     "open_issues": 12,
                     "owner": "sahasatvik",
                     "repo": "typst-theorems",
-                    "stars": 292,
+                    "stars": 293,
                     "topics": [
                       "typst",
                       "typst-package"
@@ -4329,7 +4329,7 @@
                 "open_issues": 35,
                 "owner": "touying-typ",
                 "repo": "touying",
-                "stars": 2420,
+                "stars": 2421,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -4447,7 +4447,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T08:01:16.401Z",
+    "last_updated": "2026-11-04T07:35:44.943Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst Links",
