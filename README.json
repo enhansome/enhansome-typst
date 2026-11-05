@@ -46,7 +46,7 @@
             "id": 1042002997,
             "language": "Typst",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-04T03:34:40Z",
+            "last_commit": "2026-11-05T05:26:45Z",
             "open_issues": 4,
             "owner": "YDX-2147483647",
             "repo": "best-of-typst",
@@ -115,7 +115,7 @@
                 "open_issues": 4,
                 "owner": "mattfbacon",
                 "repo": "typst-bot",
-                "stars": 109,
+                "stars": 110,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -200,7 +200,7 @@
                 "open_issues": 40,
                 "owner": "typstyle-rs",
                 "repo": "typstyle",
-                "stars": 906,
+                "stars": 907,
                 "topics": [
                   "formatter",
                   "typst",
@@ -222,10 +222,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-14T10:26:59Z",
-                "open_issues": 32,
+                "open_issues": 34,
                 "owner": "scipenai",
                 "repo": "tylax",
-                "stars": 513,
+                "stars": 514,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -592,10 +592,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-03T17:03:37Z",
-                "open_issues": 240,
+                "open_issues": 241,
                 "owner": "Myriad-Dreamin",
                 "repo": "tinymist",
-                "stars": 3635,
+                "stars": 3642,
                 "topics": [
                   "dap",
                   "dap-server",
@@ -1087,7 +1087,7 @@
                 "open_issues": 62,
                 "owner": "Myriad-Dreamin",
                 "repo": "typst.ts",
-                "stars": 1251,
+                "stars": 1253,
                 "topics": [
                   "browser",
                   "nodejs",
@@ -1322,7 +1322,7 @@
                 "open_issues": 24,
                 "owner": "typst",
                 "repo": "templates",
-                "stars": 431,
+                "stars": 432,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -2568,7 +2568,7 @@
                     "open_issues": 0,
                     "owner": "davidculemann",
                     "repo": "typst-templates",
-                    "stars": 40,
+                    "stars": 41,
                     "topics": [
                       "cv",
                       "cv-template",
@@ -3443,11 +3443,11 @@
                 "id": 658753624,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T15:01:33Z",
-                "open_issues": 76,
+                "last_commit": "2026-11-04T10:29:46Z",
+                "open_issues": 68,
                 "owner": "typst",
                 "repo": "packages",
-                "stars": 1046,
+                "stars": 1047,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -3916,7 +3916,7 @@
                     "open_issues": 0,
                     "owner": "oldrev",
                     "repo": "tids",
-                    "stars": 42,
+                    "stars": 43,
                     "topics": [
                       "datasheet",
                       "electronic",
@@ -4329,7 +4329,7 @@
                 "open_issues": 35,
                 "owner": "touying-typ",
                 "repo": "touying",
-                "stars": 2421,
+                "stars": 2423,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -4447,7 +4447,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T07:35:44.943Z",
+    "last_updated": "2026-11-05T07:58:26.202Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst Links",
