@@ -200,7 +200,7 @@
                 "open_issues": 41,
                 "owner": "typstyle-rs",
                 "repo": "typstyle",
-                "stars": 908,
+                "stars": 909,
                 "topics": [
                   "formatter",
                   "typst",
@@ -595,7 +595,7 @@
                 "open_issues": 245,
                 "owner": "Myriad-Dreamin",
                 "repo": "tinymist",
-                "stars": 3655,
+                "stars": 3659,
                 "topics": [
                   "dap",
                   "dap-server",
@@ -648,7 +648,7 @@
                 "language": "Vim Script",
                 "license": "MIT",
                 "last_commit": "2025-12-17T11:39:14Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "kaarmu",
                 "repo": "typst.vim",
                 "stars": 388,
@@ -1087,7 +1087,7 @@
                 "open_issues": 63,
                 "owner": "Myriad-Dreamin",
                 "repo": "typst.ts",
-                "stars": 1256,
+                "stars": 1257,
                 "topics": [
                   "browser",
                   "nodejs",
@@ -2305,8 +2305,8 @@
                     "id": 634051351,
                     "language": "Typst",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-09T03:23:47Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-11-10T15:57:55Z",
+                    "open_issues": 4,
                     "owner": "yunanwg",
                     "repo": "brilliant-CV",
                     "stars": 847,
@@ -3318,7 +3318,7 @@
                 "open_issues": 76,
                 "owner": "cetz-package",
                 "repo": "cetz",
-                "stars": 1867,
+                "stars": 1868,
                 "topics": [
                   "cetz",
                   "typst",
@@ -3443,8 +3443,8 @@
                 "id": 658753624,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T17:02:30Z",
-                "open_issues": 75,
+                "last_commit": "2026-11-10T16:20:43Z",
+                "open_issues": 83,
                 "owner": "typst",
                 "repo": "packages",
                 "stars": 1047,
@@ -3609,7 +3609,7 @@
                 "id": 641686717,
                 "language": "Typst",
                 "license": "MIT",
-                "last_commit": "2026-10-12T19:04:00Z",
+                "last_commit": "2026-11-10T19:20:43Z",
                 "open_issues": 2,
                 "owner": "ljgago",
                 "repo": "typst-chords",
@@ -3646,7 +3646,7 @@
                 "open_issues": 25,
                 "owner": "lilaq-project",
                 "repo": "lilaq",
-                "stars": 874,
+                "stars": 876,
                 "topics": [
                   "data-science",
                   "plotting",
@@ -3754,7 +3754,7 @@
                 "open_issues": 2,
                 "owner": "pncnmnp",
                 "repo": "typst-poster",
-                "stars": 157,
+                "stars": 158,
                 "topics": [
                   "poster-template",
                   "typst"
@@ -4325,11 +4325,11 @@
                 "id": 740802677,
                 "language": "Typst",
                 "license": "MIT",
-                "last_commit": "2026-11-07T18:59:27Z",
+                "last_commit": "2026-11-10T09:51:52Z",
                 "open_issues": 31,
                 "owner": "touying-typ",
                 "repo": "touying",
-                "stars": 2434,
+                "stars": 2437,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -4357,7 +4357,7 @@
                 "open_issues": 97,
                 "owner": "polylux-typ",
                 "repo": "polylux",
-                "stars": 1614,
+                "stars": 1615,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -4386,7 +4386,7 @@
                 "open_issues": 12,
                 "owner": "OrangeX4",
                 "repo": "typst-pinit",
-                "stars": 328,
+                "stars": 329,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -4447,7 +4447,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T08:29:51.117Z",
+    "last_updated": "2026-11-11T07:50:41.100Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst Links",
