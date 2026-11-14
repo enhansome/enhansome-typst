@@ -46,11 +46,11 @@
             "id": 1042002997,
             "language": "Typst",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-09T11:40:44Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-14T03:48:56Z",
+            "open_issues": 8,
             "owner": "YDX-2147483647",
             "repo": "best-of-typst",
-            "stars": 131,
+            "stars": 133,
             "topics": [
               "best-of",
               "best-of-list",
@@ -83,7 +83,7 @@
                 "open_issues": 3,
                 "owner": "MordragT",
                 "repo": "bib_kit",
-                "stars": 19,
+                "stars": 20,
                 "topics": [
                   "citations",
                   "hayagriva",
@@ -196,8 +196,8 @@
                 "id": 769440884,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T12:20:14Z",
-                "open_issues": 40,
+                "last_commit": "2026-11-14T02:49:31Z",
+                "open_issues": 37,
                 "owner": "typstyle-rs",
                 "repo": "typstyle",
                 "stars": 909,
@@ -222,10 +222,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-05T19:51:12Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "scipenai",
                 "repo": "tylax",
-                "stars": 515,
+                "stars": 517,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -428,7 +428,7 @@
                 "open_issues": 0,
                 "owner": "soupslurpr",
                 "repo": "BeauTyXT",
-                "stars": 233,
+                "stars": 234,
                 "topics": [
                   "android",
                   "file-editor",
@@ -465,7 +465,7 @@
                 "open_issues": 9,
                 "owner": "Academic-ID",
                 "repo": "sapienAI",
-                "stars": 210,
+                "stars": 209,
                 "topics": [
                   "academia",
                   "academic",
@@ -567,7 +567,7 @@
                 "open_issues": 2,
                 "owner": "dailydaniel",
                 "repo": "typos",
-                "stars": 62,
+                "stars": 63,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -595,7 +595,7 @@
                 "open_issues": 249,
                 "owner": "Myriad-Dreamin",
                 "repo": "tinymist",
-                "stars": 3665,
+                "stars": 3666,
                 "topics": [
                   "dap",
                   "dap-server",
@@ -625,7 +625,7 @@
                 "open_issues": 37,
                 "owner": "fenjalien",
                 "repo": "obsidian-typst",
-                "stars": 531,
+                "stars": 532,
                 "topics": [
                   "obsidian",
                   "obsidian-md",
@@ -1260,7 +1260,7 @@
                 "open_issues": 1,
                 "owner": "lucifer1004",
                 "repo": "leetcode.typ",
-                "stars": 39,
+                "stars": 40,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -3111,7 +3111,7 @@
                 "open_issues": 1,
                 "owner": "lkoehl",
                 "repo": "typst-boxes",
-                "stars": 105,
+                "stars": 106,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -3318,7 +3318,7 @@
                 "open_issues": 77,
                 "owner": "cetz-package",
                 "repo": "cetz",
-                "stars": 1868,
+                "stars": 1869,
                 "topics": [
                   "cetz",
                   "typst",
@@ -3443,8 +3443,8 @@
                 "id": 658753624,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-12T16:43:42Z",
-                "open_issues": 57,
+                "last_commit": "2026-11-13T09:19:39Z",
+                "open_issues": 45,
                 "owner": "typst",
                 "repo": "packages",
                 "stars": 1048,
@@ -3646,7 +3646,7 @@
                 "open_issues": 23,
                 "owner": "lilaq-project",
                 "repo": "lilaq",
-                "stars": 878,
+                "stars": 880,
                 "topics": [
                   "data-science",
                   "plotting",
@@ -3672,7 +3672,7 @@
                 "open_issues": 0,
                 "owner": "mcanouil",
                 "repo": "gribouille",
-                "stars": 283,
+                "stars": 284,
                 "topics": [
                   "chart",
                   "data-visualisation",
@@ -3891,7 +3891,7 @@
                     "open_issues": 7,
                     "owner": "jomaway",
                     "repo": "typst-bytefield",
-                    "stars": 120,
+                    "stars": 121,
                     "topics": [
                       "bytefield",
                       "diagrams",
@@ -4325,11 +4325,11 @@
                 "id": 740802677,
                 "language": "Typst",
                 "license": "MIT",
-                "last_commit": "2026-11-10T09:51:52Z",
-                "open_issues": 31,
+                "last_commit": "2026-11-13T10:59:11Z",
+                "open_issues": 28,
                 "owner": "touying-typ",
                 "repo": "touying",
-                "stars": 2440,
+                "stars": 2442,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -4447,7 +4447,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T08:10:29.735Z",
+    "last_updated": "2026-11-14T07:40:39.420Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst Links",
