@@ -46,8 +46,8 @@
             "id": 1042002997,
             "language": "Typst",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-15T03:37:54Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-17T01:03:04Z",
+            "open_issues": 7,
             "owner": "YDX-2147483647",
             "repo": "best-of-typst",
             "stars": 133,
@@ -197,10 +197,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-15T15:10:00Z",
-                "open_issues": 37,
+                "open_issues": 38,
                 "owner": "typstyle-rs",
                 "repo": "typstyle",
-                "stars": 910,
+                "stars": 912,
                 "topics": [
                   "formatter",
                   "typst",
@@ -225,7 +225,7 @@
                 "open_issues": 33,
                 "owner": "scipenai",
                 "repo": "tylax",
-                "stars": 517,
+                "stars": 518,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -425,7 +425,7 @@
                 "language": "Kotlin",
                 "license": "MIT",
                 "last_commit": "2026-11-02T13:05:26Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "soupslurpr",
                 "repo": "BeauTyXT",
                 "stars": 234,
@@ -595,7 +595,7 @@
                 "open_issues": 249,
                 "owner": "Myriad-Dreamin",
                 "repo": "tinymist",
-                "stars": 3667,
+                "stars": 3668,
                 "topics": [
                   "dap",
                   "dap-server",
@@ -625,7 +625,7 @@
                 "open_issues": 37,
                 "owner": "fenjalien",
                 "repo": "obsidian-typst",
-                "stars": 532,
+                "stars": 533,
                 "topics": [
                   "obsidian",
                   "obsidian-md",
@@ -1084,7 +1084,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-09T11:22:08Z",
-                "open_issues": 63,
+                "open_issues": 64,
                 "owner": "Myriad-Dreamin",
                 "repo": "typst.ts",
                 "stars": 1260,
@@ -1322,7 +1322,7 @@
                 "open_issues": 24,
                 "owner": "typst",
                 "repo": "templates",
-                "stars": 433,
+                "stars": 434,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -2309,7 +2309,7 @@
                     "open_issues": 5,
                     "owner": "yunanwg",
                     "repo": "brilliant-CV",
-                    "stars": 849,
+                    "stars": 850,
                     "topics": [
                       "cv",
                       "pdf",
@@ -3443,8 +3443,8 @@
                 "id": 658753624,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T09:19:39Z",
-                "open_issues": 55,
+                "last_commit": "2026-11-16T14:06:07Z",
+                "open_issues": 60,
                 "owner": "typst",
                 "repo": "packages",
                 "stars": 1050,
@@ -4329,7 +4329,7 @@
                 "open_issues": 28,
                 "owner": "touying-typ",
                 "repo": "touying",
-                "stars": 2443,
+                "stars": 2444,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -4447,7 +4447,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T08:05:09.263Z",
+    "last_updated": "2026-11-17T09:19:51.369Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst Links",
@@ -4456,7 +4456,7 @@
       "language": "Emacs Lisp",
       "license": "CC0-1.0",
       "last_commit": "2026-08-07T03:30:15Z",
-      "open_issues": 15,
+      "open_issues": 17,
       "owner": "qjcg",
       "repo": "awesome-typst",
       "stars": 3623,
