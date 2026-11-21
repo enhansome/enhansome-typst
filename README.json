@@ -46,8 +46,8 @@
             "id": 1042002997,
             "language": "Typst",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-19T00:45:08Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-21T05:16:20Z",
+            "open_issues": 7,
             "owner": "YDX-2147483647",
             "repo": "best-of-typst",
             "stars": 134,
@@ -424,11 +424,11 @@
                 "id": 647066717,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-11-02T13:05:26Z",
+                "last_commit": "2026-11-20T14:33:42Z",
                 "open_issues": 1,
                 "owner": "soupslurpr",
                 "repo": "BeauTyXT",
-                "stars": 234,
+                "stars": 235,
                 "topics": [
                   "android",
                   "file-editor",
@@ -1451,7 +1451,7 @@
                 "open_issues": 0,
                 "owner": "Sajjon",
                 "repo": "klirr",
-                "stars": 144,
+                "stars": 145,
                 "topics": [
                   "consulting",
                   "currency-converter",
@@ -2251,7 +2251,7 @@
                     "open_issues": 11,
                     "owner": "jskherman",
                     "repo": "imprecv",
-                    "stars": 518,
+                    "stars": 519,
                     "topics": [
                       "cv",
                       "cv-template",
@@ -2309,7 +2309,7 @@
                     "open_issues": 5,
                     "owner": "yunanwg",
                     "repo": "brilliant-CV",
-                    "stars": 851,
+                    "stars": 852,
                     "topics": [
                       "cv",
                       "pdf",
@@ -2360,7 +2360,7 @@
                     "open_issues": 0,
                     "owner": "wusyong",
                     "repo": "resume.typ",
-                    "stars": 152,
+                    "stars": 153,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:58:25.937Z"
@@ -3315,7 +3315,7 @@
                 "language": "Typst",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-10-27T11:52:45Z",
-                "open_issues": 77,
+                "open_issues": 79,
                 "owner": "cetz-package",
                 "repo": "cetz",
                 "stars": 1875,
@@ -3443,8 +3443,8 @@
                 "id": 658753624,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T16:25:19Z",
-                "open_issues": 42,
+                "last_commit": "2026-11-20T15:01:18Z",
+                "open_issues": 36,
                 "owner": "typst",
                 "repo": "packages",
                 "stars": 1051,
@@ -3668,7 +3668,7 @@
                 "id": 1214590659,
                 "language": "Typst",
                 "license": "MIT",
-                "last_commit": "2026-11-19T16:13:02Z",
+                "last_commit": "2026-11-20T12:04:44Z",
                 "open_issues": 0,
                 "owner": "mcanouil",
                 "repo": "gribouille",
@@ -3891,7 +3891,7 @@
                     "open_issues": 8,
                     "owner": "jomaway",
                     "repo": "typst-bytefield",
-                    "stars": 122,
+                    "stars": 123,
                     "topics": [
                       "bytefield",
                       "diagrams",
@@ -4329,7 +4329,7 @@
                 "open_issues": 29,
                 "owner": "touying-typ",
                 "repo": "touying",
-                "stars": 2448,
+                "stars": 2452,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -4386,7 +4386,7 @@
                 "open_issues": 12,
                 "owner": "OrangeX4",
                 "repo": "typst-pinit",
-                "stars": 330,
+                "stars": 331,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -4447,7 +4447,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T08:41:30.538Z",
+    "last_updated": "2026-11-21T08:22:50.712Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst Links",
