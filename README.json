@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "SylvanFranklin",
             "repo": "nonsense",
-            "stars": 412,
+            "stars": 413,
             "topics": [
               "ambiguity",
               "funny",
@@ -221,11 +221,11 @@
                 "id": 1128030149,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T03:37:57Z",
-                "open_issues": 27,
+                "last_commit": "2026-11-23T11:25:00Z",
+                "open_issues": 26,
                 "owner": "scipenai",
                 "repo": "tylax",
-                "stars": 520,
+                "stars": 521,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -366,7 +366,7 @@
                 "open_issues": 0,
                 "owner": "gunasekar",
                 "repo": "imprint",
-                "stars": 19,
+                "stars": 20,
                 "topics": [
                   "cli",
                   "document-generation",
@@ -424,8 +424,8 @@
                 "id": 647066717,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-11-23T01:15:48Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-23T21:12:55Z",
+                "open_issues": 3,
                 "owner": "soupslurpr",
                 "repo": "BeauTyXT",
                 "stars": 235,
@@ -592,10 +592,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-15T16:07:17Z",
-                "open_issues": 255,
+                "open_issues": 254,
                 "owner": "Myriad-Dreamin",
                 "repo": "tinymist",
-                "stars": 3678,
+                "stars": 3680,
                 "topics": [
                   "dap",
                   "dap-server",
@@ -1111,7 +1111,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-05T13:34:42Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "messense",
                 "repo": "typst-py",
                 "stars": 368,
@@ -3027,7 +3027,7 @@
                 "open_issues": 32,
                 "owner": "PgBiel",
                 "repo": "typst-tablex",
-                "stars": 413,
+                "stars": 414,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:25.937Z"
@@ -3443,8 +3443,8 @@
                 "id": 658753624,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T15:01:18Z",
-                "open_issues": 50,
+                "last_commit": "2026-11-24T10:58:36Z",
+                "open_issues": 42,
                 "owner": "typst",
                 "repo": "packages",
                 "stars": 1051,
@@ -3672,7 +3672,7 @@
                 "open_issues": 0,
                 "owner": "mcanouil",
                 "repo": "gribouille",
-                "stars": 284,
+                "stars": 286,
                 "topics": [
                   "chart",
                   "data-visualisation",
@@ -3916,7 +3916,7 @@
                     "open_issues": 0,
                     "owner": "oldrev",
                     "repo": "tids",
-                    "stars": 43,
+                    "stars": 44,
                     "topics": [
                       "datasheet",
                       "electronic",
@@ -4091,7 +4091,7 @@
                     "open_issues": 10,
                     "owner": "Leedehai",
                     "repo": "typst-physics",
-                    "stars": 621,
+                    "stars": 622,
                     "topics": [
                       "typst",
                       "typst-package"
@@ -4329,7 +4329,7 @@
                 "open_issues": 31,
                 "owner": "touying-typ",
                 "repo": "touying",
-                "stars": 2454,
+                "stars": 2458,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -4357,7 +4357,7 @@
                 "open_issues": 97,
                 "owner": "polylux-typ",
                 "repo": "polylux",
-                "stars": 1616,
+                "stars": 1617,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -4447,7 +4447,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T09:14:17.587Z",
+    "last_updated": "2026-11-24T11:08:17.573Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst Links",
